@@ -1,0 +1,31 @@
+hr_id,taak_id,Titel,Omschrijving,Categorie,Prioriteit,DagenTotDeadline,Status
+HR01,HR01-T01,Q2-rapport goedkeuren,Q2-verlooprapport goedkeuren voor bestuur,Rapportage,High,0,Open
+HR01,HR01-T02,L&D-budget tekenen,L&D-budget 2026 definitief goedkeuren,Budget,High,2,Open
+HR01,HR01-T03,Retentieplan bekijken,Actieplan spijtig verloop beoordelen,Retentie,Medium,-1,Open
+HR01,HR01-T04,Bestuursdeck maken,Bestuurspresentatie personeelsoverzicht voorbereiden,Rapportage,High,1,Open
+HR01,HR01-T05,2 aanbiedingen fiatteren,Twee senior aanbiedingen goedkeuren,Werving,Medium,0,Open
+HR01,HR01-T06,1-op-1's met HRBP's,Kwartaal-1-op-1's met HR-businesspartners,People,Low,3,Done
+HR02,HR02-T01,Verloopanalyse Productie,Verdiepende verloopanalyse Productie opstellen,Rapportage,High,0,Open
+HR02,HR02-T02,1-op-1's risicomanagers,1-op-1's voeren met 3 risicomanagers,Retentie,High,1,Open
+HR02,HR02-T03,Functiehuis Verkoop,Functiehuis Verkoop bijwerken,Organisatieontwerp,Medium,4,Open
+HR02,HR02-T04,Klachten afronden,2 klachtdossiers afronden,Arbeidsrelaties,High,-2,Open
+HR02,HR02-T05,Vervolg survey,Vervolgacties betrokkenheidsonderzoek opstellen,Betrokkenheid,Medium,3,Open
+HR02,HR02-T06,Verlof goedkeuren,Verlofaanvragen juli voor BU goedkeuren,Operatie,Low,0,Done
+HR03,HR03-T01,Gesprekken plannen,Laatste gesprekken plannen voor Data-analist,Werving,High,0,Open
+HR03,HR03-T02,Aanbod versturen,Aanbod versturen aan kandidaat Productiemedewerker,Werving,High,0,Open
+HR03,HR03-T03,Tracker bijwerken,Kandidatenoverzicht bijwerken (12 nieuwe sollicitaties),Werving,Medium,1,Open
+HR03,HR03-T04,Pijplijn-update,Wervingspijplijn-update voor Sanne voorbereiden,Rapportage,Medium,1,Open
+HR03,HR03-T05,Referenties checken,Referenties checken voor 2 finalisten,Screening,Medium,2,Open
+HR03,HR03-T06,3 vacatures plaatsen,3 vacatures plaatsen op vacaturesites,Sourcing,Low,-1,Done
+HR04,HR04-T01,Opleidingsplan afronden,Opleidingsplan 2026 afronden,Planning,High,-1,Done
+HR04,HR04-T02,Trainer boeken,Trainer boeken voor leiderschapscohort,Logistiek,High,0,Open
+HR04,HR04-T03,Afronding bekijken,Afrondingspercentages Klantenservice beoordelen,Rapportage,Medium,1,Open
+HR04,HR04-T04,E-learning bijwerken,E-learning-content voor onboarding bijwerken,Content,Medium,3,Open
+HR04,HR04-T05,Trainingen opvolgen,14 openstaande verplichte trainingen opvolgen,Compliance,High,0,Open
+HR04,HR04-T06,Impact-slide maken,Slide opleidingsimpact voor bestuur voorbereiden,Rapportage,Medium,2,Open
+HR05,HR05-T01,Salarisrun,Salarisrun juni uitvoeren,Payroll,High,1,Open
+HR05,HR05-T02,Kosten afstemmen,Opleidingskosten vs budget Q2 afstemmen,Financiën,Medium,0,Open
+HR05,HR05-T03,Onboardingpakketten,4 onboardingpakketten nieuwe medewerkers verwerken,Onboarding,High,0,Open
+HR05,HR05-T04,Bestand bijwerken,Personeelsbestand bijwerken,Data,Medium,-1,Done
+HR05,HR05-T05,Pensioen verifiëren,Pensioenbijdragen verifiëren,Compliance,High,2,Open
+HR05,HR05-T06,Documenten archiveren,Uitdienstdocumenten Q2 archiveren,Compliance,Low,3,Open

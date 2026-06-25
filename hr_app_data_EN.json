@@ -1,0 +1,2817 @@
+{
+  "_meta": {
+    "description": "HR login demo data. Evergreen dates: weekly meetings by dayOfWeek, monthly meetings by dayOfMonth; tasks by dueOffsetDays; emails by receivedMinutesAgo. Includes per-persona activity grid (day x hour), workWeek location, and loggedTodayMinutes for the time tracker.",
+    "photoBase": "https://raw.githubusercontent.com/RobertvandeVorst/HRapp/main/images/",
+    "activityHours": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "employees": [
+    {
+      "id": "HR01",
+      "name": "Sarah Davies",
+      "role": "HR Director",
+      "age": 52,
+      "startDate": "2009-03-02",
+      "email": "sarah.davies@meridiangroup.com",
+      "location": "London",
+      "photo": "face_03.jpg",
+      "tasks": [
+        {
+          "id": "HR01-T01",
+          "title": "Approve Q2 report",
+          "category": "Reporting",
+          "priority": "High",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "Approve Q2 attrition report for board"
+        },
+        {
+          "id": "HR01-T02",
+          "title": "Sign off L&D budget",
+          "category": "Budget",
+          "priority": "High",
+          "dueOffsetDays": 2,
+          "status": "Open",
+          "description": "Finalise 2026 L&D budget sign-off"
+        },
+        {
+          "id": "HR01-T03",
+          "title": "Review retention plan",
+          "category": "Retention",
+          "priority": "Medium",
+          "dueOffsetDays": -1,
+          "status": "Open",
+          "description": "Review regrettable-attrition action plan"
+        },
+        {
+          "id": "HR01-T04",
+          "title": "Prep board deck",
+          "category": "Reporting",
+          "priority": "High",
+          "dueOffsetDays": 1,
+          "status": "Open",
+          "description": "Prepare workforce-overview board deck"
+        },
+        {
+          "id": "HR01-T05",
+          "title": "Approve 2 offers",
+          "category": "Recruitment",
+          "priority": "Medium",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "Approve two senior offers"
+        },
+        {
+          "id": "HR01-T06",
+          "title": "1:1s with HRBPs",
+          "category": "People",
+          "priority": "Low",
+          "dueOffsetDays": 3,
+          "status": "Done",
+          "description": "Quarterly 1:1s with HRBPs"
+        }
+      ],
+      "emails": [
+        {
+          "id": "HR01-E01",
+          "senderName": "Mark Wilson",
+          "senderEmail": "mark.visser@meridiangroup.com",
+          "subject": "Re: Q2 headcount & cost forecast",
+          "preview": "Can you confirm the contractor-to-FTE ratio before the board meeting?",
+          "receivedMinutesAgo": 35,
+          "unread": true,
+          "body": "Hi Sarah, before the board meeting I want to align on the contractor-to-FTE ratio. The forecast shows contractor spend up 8% versus Q1 — can you confirm whether that's driven by the Production backfills? Happy to jump on a quick call this afternoon if that's easier."
+        },
+        {
+          "id": "HR01-E02",
+          "senderName": "David Johnson",
+          "senderEmail": "david.johnson@meridiangroup.com",
+          "subject": "Attrition deep-dive: Production unit",
+          "preview": "Sharing the first-year churn breakdown you asked for.",
+          "receivedMinutesAgo": 120,
+          "unread": true,
+          "body": "Sarah, sharing the first-year churn breakdown you asked for. The Production cluster is the main driver — voluntary exits inside the first 12 months are running well above the company average, and work-life balance comes up repeatedly in exit interviews. Full numbers attached; I've flagged the regrettable cases."
+        },
+        {
+          "id": "HR01-E03",
+          "senderName": "Board Secretary",
+          "senderEmail": "board@meridiangroup.com",
+          "subject": "Agenda — Board meeting 26 June",
+          "preview": "Your workforce update is item 4 on the final agenda.",
+          "receivedMinutesAgo": 240,
+          "unread": false,
+          "body": "Dear Sarah, please find the final agenda for the board meeting on 26 June. Your workforce update is item 4, with a 15-minute slot including Q&A. Kindly send any supporting slides by end of Wednesday so they can be circulated in advance."
+        },
+        {
+          "id": "HR01-E04",
+          "senderName": "Lucas Miller",
+          "senderEmail": "lucas.miller@meridiangroup.com",
+          "subject": "2026 training plan — ready for approval",
+          "preview": "Finalised with completion targets per program.",
+          "receivedMinutesAgo": 1100,
+          "unread": false,
+          "body": "Hi Sarah, the 2026 L&D plan is finalised with completion targets per program and a revised budget. Headline: we're shifting more spend toward internal leadership development based on this year's outcome data. Ready for your approval whenever you have a moment."
+        }
+      ],
+      "meetings": [
+        {
+          "id": "HR01-W1",
+          "title": "Weekly HR leadership sync",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Mon",
+          "dayOfMonth": null,
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Sarah",
+              "photo": "face_17.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-W2",
+          "title": "Director office hours",
+          "type": "meeting",
+          "recurrence": "weekly",
+          "dayOfWeek": "Thu",
+          "dayOfMonth": null,
+          "startTime": "16:00",
+          "endTime": "16:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Nora",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M1",
+          "title": "Town hall prep",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 3,
+          "startTime": "13:00",
+          "endTime": "13:45",
+          "location": "Room Delft",
+          "attendees": [
+            {
+              "name": "Anna",
+              "photo": "face_01.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            },
+            {
+              "name": "David",
+              "photo": "face_16.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M2",
+          "title": "Board meeting",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 5,
+          "startTime": "14:00",
+          "endTime": "15:30",
+          "location": "Room Aurora",
+          "attendees": [
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M3",
+          "title": "1:1 David",
+          "type": "1:1",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 6,
+          "startTime": "10:00",
+          "endTime": "10:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "David",
+              "photo": "face_16.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M4",
+          "title": "Skip-level 1:1s",
+          "type": "1:1",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 7,
+          "startTime": "15:00",
+          "endTime": "16:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Steven",
+              "photo": "face_11.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M5",
+          "title": "Vendor review — HRIS",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 9,
+          "startTime": "14:00",
+          "endTime": "14:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            },
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M6",
+          "title": "Diversity council",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 12,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Liam",
+              "photo": "face_13.jpg"
+            },
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            },
+            {
+              "name": "David",
+              "photo": "face_16.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M7",
+          "title": "1:1 Aisha",
+          "type": "1:1",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 14,
+          "startTime": "10:30",
+          "endTime": "11:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M8",
+          "title": "Budget review Q3",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 15,
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "location": "Room Delft",
+          "attendees": [
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M9",
+          "title": "Policy sign-off",
+          "type": "deadline",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 21,
+          "startTime": "16:00",
+          "endTime": "16:30",
+          "location": "Teams",
+          "attendees": []
+        },
+        {
+          "id": "HR01-M10",
+          "title": "Succession planning",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 23,
+          "startTime": "09:30",
+          "endTime": "11:00",
+          "location": "Room Aurora",
+          "attendees": [
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            },
+            {
+              "name": "Steven",
+              "photo": "face_11.jpg"
+            },
+            {
+              "name": "Anna",
+              "photo": "face_01.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M11",
+          "title": "Q-review with CFO",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 25,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "location": "Room Aurora",
+          "attendees": [
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Sarah",
+              "photo": "face_17.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M12",
+          "title": "Comp & benefits review",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 27,
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "location": "Room Delft",
+          "attendees": [
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            },
+            {
+              "name": "Ben",
+              "photo": "face_08.jpg"
+            }
+          ]
+        }
+      ],
+      "activity": {
+        "Mon": [
+          "Email",
+          "Admin",
+          "Meeting",
+          "Email",
+          "Break",
+          "Focus",
+          "Email",
+          "Meeting",
+          "Admin"
+        ],
+        "Tue": [
+          "Meeting",
+          "Email",
+          "Meeting",
+          "Meeting",
+          "Break",
+          "Meeting",
+          "Meeting",
+          "Focus",
+          "Meeting"
+        ],
+        "Wed": [
+          "Meeting",
+          "Focus",
+          "Email",
+          "Meeting",
+          "Break",
+          "Project",
+          "Focus",
+          "Meeting",
+          "Project"
+        ],
+        "Thu": [
+          "Meeting",
+          "Meeting",
+          "Admin",
+          "Meeting",
+          "Break",
+          "Focus",
+          "Meeting",
+          "Project",
+          "Meeting"
+        ],
+        "Fri": [
+          "Admin",
+          "Focus",
+          "Project",
+          "Admin",
+          "Break",
+          "Focus",
+          "Meeting",
+          "Project",
+          "Project"
+        ]
+      },
+      "workWeek": [
+        {
+          "day": "Mon",
+          "mode": "Office"
+        },
+        {
+          "day": "Tue",
+          "mode": "Office"
+        },
+        {
+          "day": "Wed",
+          "mode": "Office"
+        },
+        {
+          "day": "Thu",
+          "mode": "Remote"
+        },
+        {
+          "day": "Fri",
+          "mode": "Hybrid"
+        }
+      ],
+      "loggedTodayMinutes": 182,
+      "weekProgress": [
+        {
+          "day": "Sun",
+          "start": null,
+          "minutes": 0
+        },
+        {
+          "day": "Mon",
+          "start": "09:10",
+          "minutes": 205
+        },
+        {
+          "day": "Tue",
+          "start": "08:50",
+          "minutes": 280
+        },
+        {
+          "day": "Wed",
+          "start": "10:00",
+          "minutes": 170
+        },
+        {
+          "day": "Thu",
+          "start": "09:25",
+          "minutes": 240
+        },
+        {
+          "day": "Fri",
+          "start": "09:00",
+          "minutes": 323
+        },
+        {
+          "day": "Sat",
+          "start": null,
+          "minutes": 0
+        }
+      ]
+    },
+    {
+      "id": "HR02",
+      "name": "David Johnson",
+      "role": "HR Business Partner",
+      "age": 38,
+      "startDate": "2017-06-12",
+      "email": "david.johnson@meridiangroup.com",
+      "location": "Manchester",
+      "photo": "face_07.jpg",
+      "tasks": [
+        {
+          "id": "HR02-T01",
+          "title": "Attrition deep-dive",
+          "category": "Reporting",
+          "priority": "High",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "Compile Production-unit attrition deep-dive"
+        },
+        {
+          "id": "HR02-T02",
+          "title": "1:1s with managers",
+          "category": "Retention",
+          "priority": "High",
+          "dueOffsetDays": 1,
+          "status": "Open",
+          "description": "Run 1:1s with 3 at-risk managers"
+        },
+        {
+          "id": "HR02-T03",
+          "title": "Update job grades",
+          "category": "Org Design",
+          "priority": "Medium",
+          "dueOffsetDays": 4,
+          "status": "Open",
+          "description": "Update job architecture for Sales division"
+        },
+        {
+          "id": "HR02-T04",
+          "title": "Close grievances",
+          "category": "Employee Relations",
+          "priority": "High",
+          "dueOffsetDays": -2,
+          "status": "Open",
+          "description": "Close out 2 grievance cases"
+        },
+        {
+          "id": "HR02-T05",
+          "title": "Survey follow-up",
+          "category": "Engagement",
+          "priority": "Medium",
+          "dueOffsetDays": 3,
+          "status": "Open",
+          "description": "Draft engagement-survey follow-up actions"
+        },
+        {
+          "id": "HR02-T06",
+          "title": "Approve leave",
+          "category": "Operations",
+          "priority": "Low",
+          "dueOffsetDays": 0,
+          "status": "Done",
+          "description": "Approve July leave requests for BU"
+        }
+      ],
+      "emails": [
+        {
+          "id": "HR02-E01",
+          "senderName": "Sarah Davies",
+          "senderEmail": "sarah.davies@meridiangroup.com",
+          "subject": "Re: Attrition deep-dive: Production unit",
+          "preview": "Can you add the regrettable split before Wednesday?",
+          "receivedMinutesAgo": 25,
+          "unread": true,
+          "body": "Thanks David, this is exactly what I needed. Can you add the regrettable-vs-non-regrettable split before Wednesday's review? I'd like to show the board we're losing people we wanted to keep, not just managing natural turnover."
+        },
+        {
+          "id": "HR02-E02",
+          "senderName": "Tom Baker",
+          "senderEmail": "tom.bakker@meridiangroup.com",
+          "subject": "Concern about team workload",
+          "preview": "Two of my technicians have flagged burnout risk.",
+          "receivedMinutesAgo": 90,
+          "unread": true,
+          "body": "David, two of my technicians have flagged they're close to burnout after last month's overtime push. I don't want to lose them — can we look at temporary backfill or redistributing the shift load? Would appreciate your advice on the right way to handle this."
+        },
+        {
+          "id": "HR02-E03",
+          "senderName": "Emma Baker",
+          "senderEmail": "emma.baker@meridiangroup.com",
+          "subject": "Headcount data refresh complete",
+          "preview": "The Q2 master file is updated and ready.",
+          "receivedMinutesAgo": 300,
+          "unread": false,
+          "body": "Hi David, the Q2 master headcount file is refreshed and reconciled — 2,845 records across all departments. You're clear to pull from it for the attrition deep-dive. Let me know if any figures look off."
+        },
+        {
+          "id": "HR02-E04",
+          "senderName": "Pulse Survey",
+          "senderEmail": "noreply@pulsesurvey.io",
+          "subject": "Engagement results are ready",
+          "preview": "Your team's latest engagement scores are available.",
+          "receivedMinutesAgo": 1440,
+          "unread": false,
+          "body": "Your team's latest engagement results are now available in the dashboard. The overall score is steady, but the Production sub-team dipped on 'manager support'. Log in to view the full breakdown by question and team."
+        }
+      ],
+      "meetings": [
+        {
+          "id": "HR02-W1",
+          "title": "Weekly HR leadership sync",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Mon",
+          "dayOfMonth": null,
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-W2",
+          "title": "BP team standup",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Tue",
+          "dayOfMonth": null,
+          "startTime": "09:30",
+          "endTime": "10:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            },
+            {
+              "name": "Nora",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Sophie",
+              "photo": "face_02.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M1",
+          "title": "Engagement workshop",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 2,
+          "startTime": "11:00",
+          "endTime": "12:30",
+          "location": "Room Delft",
+          "attendees": [
+            {
+              "name": "Lucas",
+              "photo": "face_18.jpg"
+            },
+            {
+              "name": "Sophie",
+              "photo": "face_02.jpg"
+            },
+            {
+              "name": "Sarah",
+              "photo": "face_17.jpg"
+            },
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M2",
+          "title": "Onboarding buddy sync",
+          "type": "sync",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 7,
+          "startTime": "09:30",
+          "endTime": "10:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            },
+            {
+              "name": "Nora",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M3",
+          "title": "Manager 1:1 — Sales",
+          "type": "1:1",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 10,
+          "startTime": "14:00",
+          "endTime": "14:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Anna",
+              "photo": "face_01.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M4",
+          "title": "Grievance hearing",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 11,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "location": "Room Maas",
+          "attendees": [
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M5",
+          "title": "Headcount planning — Sales",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 13,
+          "startTime": "14:00",
+          "endTime": "15:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "David",
+              "photo": "face_16.jpg"
+            },
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M6",
+          "title": "Exit interview",
+          "type": "interview",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 16,
+          "startTime": "15:00",
+          "endTime": "15:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Lucas",
+              "photo": "face_18.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M7",
+          "title": "Org design workshop",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 19,
+          "startTime": "13:00",
+          "endTime": "14:30",
+          "location": "Room Delft",
+          "attendees": [
+            {
+              "name": "Sarah",
+              "photo": "face_17.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            },
+            {
+              "name": "Ben",
+              "photo": "face_08.jpg"
+            },
+            {
+              "name": "Anna",
+              "photo": "face_01.jpg"
+            },
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M8",
+          "title": "Job architecture review",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 20,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "location": "Room Delft",
+          "attendees": [
+            {
+              "name": "Nora",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Ben",
+              "photo": "face_08.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M9",
+          "title": "Wellbeing initiative",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 21,
+          "startTime": "15:00",
+          "endTime": "15:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Sarah",
+              "photo": "face_17.jpg"
+            },
+            {
+              "name": "Nadia",
+              "photo": "face_07.jpg"
+            },
+            {
+              "name": "Anna",
+              "photo": "face_01.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M10",
+          "title": "Performance calibration",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 23,
+          "startTime": "10:30",
+          "endTime": "12:00",
+          "location": "Room Aurora",
+          "attendees": [
+            {
+              "name": "Lucas",
+              "photo": "face_18.jpg"
+            },
+            {
+              "name": "Anna",
+              "photo": "face_01.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M11",
+          "title": "Talent review — Sales",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 24,
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "location": "Room Aurora",
+          "attendees": [
+            {
+              "name": "Sophie",
+              "photo": "face_02.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M12",
+          "title": "Manager 1:1 — Production",
+          "type": "1:1",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 25,
+          "startTime": "13:30",
+          "endTime": "14:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Liam",
+              "photo": "face_13.jpg"
+            }
+          ]
+        }
+      ],
+      "activity": {
+        "Mon": [
+          "Email",
+          "Meeting",
+          "Meeting",
+          "Meeting",
+          "Break",
+          "Email",
+          "Meeting",
+          "Project",
+          "Meeting"
+        ],
+        "Tue": [
+          "Email",
+          "Meeting",
+          "Meeting",
+          "Email",
+          "Break",
+          "Focus",
+          "Email",
+          "Focus",
+          "Project"
+        ],
+        "Wed": [
+          "Email",
+          "Email",
+          "Focus",
+          "Meeting",
+          "Break",
+          "Project",
+          "Project",
+          "Meeting",
+          "Project"
+        ],
+        "Thu": [
+          "Meeting",
+          "Focus",
+          "Email",
+          "Project",
+          "Break",
+          "Email",
+          "Focus",
+          "Meeting",
+          "Email"
+        ],
+        "Fri": [
+          "Project",
+          "Meeting",
+          "Meeting",
+          "Focus",
+          "Break",
+          "Focus",
+          "Meeting",
+          "Email",
+          "Meeting"
+        ]
+      },
+      "workWeek": [
+        {
+          "day": "Mon",
+          "mode": "Office"
+        },
+        {
+          "day": "Tue",
+          "mode": "Hybrid"
+        },
+        {
+          "day": "Wed",
+          "mode": "Office"
+        },
+        {
+          "day": "Thu",
+          "mode": "Remote"
+        },
+        {
+          "day": "Fri",
+          "mode": "Office"
+        }
+      ],
+      "loggedTodayMinutes": 146,
+      "weekProgress": [
+        {
+          "day": "Sun",
+          "start": null,
+          "minutes": 0
+        },
+        {
+          "day": "Mon",
+          "start": "08:40",
+          "minutes": 300
+        },
+        {
+          "day": "Tue",
+          "start": "09:30",
+          "minutes": 210
+        },
+        {
+          "day": "Wed",
+          "start": "09:00",
+          "minutes": 265
+        },
+        {
+          "day": "Thu",
+          "start": "10:15",
+          "minutes": 150
+        },
+        {
+          "day": "Fri",
+          "start": "09:20",
+          "minutes": 190
+        },
+        {
+          "day": "Sat",
+          "start": null,
+          "minutes": 0
+        }
+      ]
+    },
+    {
+      "id": "HR03",
+      "name": "Aisha Khan",
+      "role": "Recruiter",
+      "age": 29,
+      "startDate": "2021-09-01",
+      "email": "aisha.khan@meridiangroup.com",
+      "location": "Birmingham",
+      "photo": "face_11.jpg",
+      "tasks": [
+        {
+          "id": "HR03-T01",
+          "title": "Schedule interviews",
+          "category": "Recruitment",
+          "priority": "High",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "Schedule final interviews for Data Analyst role"
+        },
+        {
+          "id": "HR03-T02",
+          "title": "Send offer",
+          "category": "Recruitment",
+          "priority": "High",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "Send offer to Production Technician candidate"
+        },
+        {
+          "id": "HR03-T03",
+          "title": "Update tracker",
+          "category": "Recruitment",
+          "priority": "Medium",
+          "dueOffsetDays": 1,
+          "status": "Open",
+          "description": "Update applicant tracker (12 new applications)"
+        },
+        {
+          "id": "HR03-T04",
+          "title": "Pipeline update",
+          "category": "Reporting",
+          "priority": "Medium",
+          "dueOffsetDays": 1,
+          "status": "Open",
+          "description": "Prepare recruitment-pipeline update for Sarah"
+        },
+        {
+          "id": "HR03-T05",
+          "title": "Reference checks",
+          "category": "Screening",
+          "priority": "Medium",
+          "dueOffsetDays": 2,
+          "status": "Open",
+          "description": "Reference checks for 2 finalists"
+        },
+        {
+          "id": "HR03-T06",
+          "title": "Post 3 roles",
+          "category": "Sourcing",
+          "priority": "Low",
+          "dueOffsetDays": -1,
+          "status": "Done",
+          "description": "Post 3 open roles to job boards"
+        }
+      ],
+      "emails": [
+        {
+          "id": "HR03-E01",
+          "senderName": "Nadia Hassan",
+          "senderEmail": "n.elamrani@gmail.com",
+          "subject": "Re: Data Analyst — interview availability",
+          "preview": "I'm available Thursday afternoon or Friday morning.",
+          "receivedMinutesAgo": 15,
+          "unread": true,
+          "body": "Hi Aisha, thank you for the update — I'm really excited about the role. I'm available Thursday afternoon or Friday morning for the final round. Let me know what suits the panel and I'll make it work."
+        },
+        {
+          "id": "HR03-E02",
+          "senderName": "Lisa Wong",
+          "senderEmail": "lisa.wong@meridiangroup.com",
+          "subject": "Feedback on shortlist",
+          "preview": "Let's move forward with candidates 1 and 3.",
+          "receivedMinutesAgo": 75,
+          "unread": true,
+          "body": "Hi Aisha, I've reviewed the three CVs for the Data Analyst position. Let's move forward with candidates 1 and 3 — both have the SQL and dashboarding depth we need. Candidate 2 was strong but less of a team fit. Can we get them in this week?"
+        },
+        {
+          "id": "HR03-E03",
+          "senderName": "LinkedIn",
+          "senderEmail": "notifications@linkedin.com",
+          "subject": "5 new applicants for your job post",
+          "preview": "New applicants for Production Technician I.",
+          "receivedMinutesAgo": 200,
+          "unread": false,
+          "body": "You have 5 new applicants for your job post 'Production Technician I'. Two match more than 80% of your listed criteria. Review and respond promptly to keep candidates engaged."
+        },
+        {
+          "id": "HR03-E04",
+          "senderName": "Sarah Davies",
+          "senderEmail": "sarah.davies@meridiangroup.com",
+          "subject": "Pipeline update for Thursday 1:1",
+          "preview": "Can you bring time-to-fill numbers to our 1:1?",
+          "receivedMinutesAgo": 600,
+          "unread": false,
+          "body": "Aisha, looking forward to our 1:1 on Thursday. Could you bring the latest time-to-fill numbers and the status of the two senior roles? The board will ask about recruitment velocity and I want us aligned."
+        }
+      ],
+      "meetings": [
+        {
+          "id": "HR03-W1",
+          "title": "Hiring sync",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Wed",
+          "dayOfMonth": null,
+          "startTime": "09:30",
+          "endTime": "10:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Sophie",
+              "photo": "face_02.jpg"
+            },
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            },
+            {
+              "name": "Steven",
+              "photo": "face_11.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-W2",
+          "title": "Recruitment standup",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Fri",
+          "dayOfMonth": null,
+          "startTime": "13:00",
+          "endTime": "13:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Sarah",
+              "photo": "face_17.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M1",
+          "title": "Career fair prep",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 4,
+          "startTime": "13:00",
+          "endTime": "14:00",
+          "location": "Room Delft",
+          "attendees": [
+            {
+              "name": "Nadia",
+              "photo": "face_07.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            },
+            {
+              "name": "Nora",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M2",
+          "title": "Intake — Finance role",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 6,
+          "startTime": "11:00",
+          "endTime": "11:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M3",
+          "title": "Interview — Data Analyst",
+          "type": "interview",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 7,
+          "startTime": "14:00",
+          "endTime": "14:45",
+          "location": "Room Maas",
+          "attendees": [
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M4",
+          "title": "Offer review",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 8,
+          "startTime": "16:00",
+          "endTime": "16:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Liam",
+              "photo": "face_13.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M5",
+          "title": "Pipeline review with Sarah",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 11,
+          "startTime": "10:00",
+          "endTime": "10:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Ben",
+              "photo": "face_08.jpg"
+            },
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M6",
+          "title": "Hiring manager sync — Eng",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 12,
+          "startTime": "15:00",
+          "endTime": "15:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "David",
+              "photo": "face_16.jpg"
+            },
+            {
+              "name": "Lucas",
+              "photo": "face_18.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M7",
+          "title": "Interview — Production Tech",
+          "type": "interview",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 14,
+          "startTime": "10:00",
+          "endTime": "10:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M8",
+          "title": "Sourcing strategy",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 15,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "location": "Room Delft",
+          "attendees": [
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            },
+            {
+              "name": "Nora",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            },
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M9",
+          "title": "Panel interview — Manager",
+          "type": "interview",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 16,
+          "startTime": "13:30",
+          "endTime": "15:00",
+          "location": "Room Aurora",
+          "attendees": [
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            },
+            {
+              "name": "Sophie",
+              "photo": "face_02.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M10",
+          "title": "Reference calls block",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 19,
+          "startTime": "09:30",
+          "endTime": "10:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Steven",
+              "photo": "face_11.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M11",
+          "title": "Interview — Sales Lead",
+          "type": "interview",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 20,
+          "startTime": "11:00",
+          "endTime": "11:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Steven",
+              "photo": "face_11.jpg"
+            },
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M12",
+          "title": "Agency review",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 21,
+          "startTime": "14:00",
+          "endTime": "14:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Emma",
+              "photo": "face_19.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            }
+          ]
+        }
+      ],
+      "activity": {
+        "Mon": [
+          "Email",
+          "Email",
+          "Admin",
+          "Admin",
+          "Break",
+          "Meeting",
+          "Meeting",
+          "Project",
+          "Meeting"
+        ],
+        "Tue": [
+          "Email",
+          "Email",
+          "Admin",
+          "Meeting",
+          "Break",
+          "Focus",
+          "Admin",
+          "Email",
+          "Admin"
+        ],
+        "Wed": [
+          "Email",
+          "Focus",
+          "Project",
+          "Meeting",
+          "Break",
+          "Email",
+          "Email",
+          "Admin",
+          "Email"
+        ],
+        "Thu": [
+          "Email",
+          "Meeting",
+          "Admin",
+          "Project",
+          "Break",
+          "Email",
+          "Meeting",
+          "Email",
+          "Admin"
+        ],
+        "Fri": [
+          "Meeting",
+          "Meeting",
+          "Focus",
+          "Focus",
+          "Break",
+          "Meeting",
+          "Meeting",
+          "Meeting",
+          "Email"
+        ]
+      },
+      "workWeek": [
+        {
+          "day": "Mon",
+          "mode": "Office"
+        },
+        {
+          "day": "Tue",
+          "mode": "Office"
+        },
+        {
+          "day": "Wed",
+          "mode": "Office"
+        },
+        {
+          "day": "Thu",
+          "mode": "Office"
+        },
+        {
+          "day": "Fri",
+          "mode": "Remote"
+        }
+      ],
+      "loggedTodayMinutes": 205,
+      "weekProgress": [
+        {
+          "day": "Sun",
+          "start": null,
+          "minutes": 0
+        },
+        {
+          "day": "Mon",
+          "start": "09:00",
+          "minutes": 180
+        },
+        {
+          "day": "Tue",
+          "start": "09:45",
+          "minutes": 235
+        },
+        {
+          "day": "Wed",
+          "start": "08:50",
+          "minutes": 295
+        },
+        {
+          "day": "Thu",
+          "start": "09:10",
+          "minutes": 200
+        },
+        {
+          "day": "Fri",
+          "start": "10:00",
+          "minutes": 160
+        },
+        {
+          "day": "Sat",
+          "start": null,
+          "minutes": 0
+        }
+      ]
+    },
+    {
+      "id": "HR04",
+      "name": "Lucas Miller",
+      "role": "L&D Specialist",
+      "age": 34,
+      "startDate": "2019-02-18",
+      "email": "lucas.miller@meridiangroup.com",
+      "location": "Bristol",
+      "photo": "face_14.jpg",
+      "tasks": [
+        {
+          "id": "HR04-T01",
+          "title": "Finalise plan",
+          "category": "Planning",
+          "priority": "High",
+          "dueOffsetDays": -1,
+          "status": "Done",
+          "description": "Finalise 2026 training plan"
+        },
+        {
+          "id": "HR04-T02",
+          "title": "Book trainer",
+          "category": "Logistics",
+          "priority": "High",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "Book trainer for Leadership Development cohort"
+        },
+        {
+          "id": "HR04-T03",
+          "title": "Review completions",
+          "category": "Reporting",
+          "priority": "Medium",
+          "dueOffsetDays": 1,
+          "status": "Open",
+          "description": "Review completion rates: Customer Service program"
+        },
+        {
+          "id": "HR04-T04",
+          "title": "Update e-learning",
+          "category": "Content",
+          "priority": "Medium",
+          "dueOffsetDays": 3,
+          "status": "Open",
+          "description": "Update e-learning content for onboarding"
+        },
+        {
+          "id": "HR04-T05",
+          "title": "Chase overdue training",
+          "category": "Compliance",
+          "priority": "High",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "Chase 14 overdue mandatory-training completions"
+        },
+        {
+          "id": "HR04-T06",
+          "title": "Prep impact slide",
+          "category": "Reporting",
+          "priority": "Medium",
+          "dueOffsetDays": 2,
+          "status": "Open",
+          "description": "Prepare training-impact slide for board deck"
+        }
+      ],
+      "emails": [
+        {
+          "id": "HR04-E01",
+          "senderName": "Sarah Davies",
+          "senderEmail": "sarah.davies@meridiangroup.com",
+          "subject": "Re: 2026 training plan",
+          "preview": "Approving today. Add completion targets to the board slide.",
+          "receivedMinutesAgo": 50,
+          "unread": true,
+          "body": "Looks good, Lucas — approving today. One ask: add the completion-rate targets to the board slide so leadership can see the link between training spend and outcomes. Great work pulling this together."
+        },
+        {
+          "id": "HR04-E02",
+          "senderName": "SkillForge",
+          "senderEmail": "accounts@skillforge.com",
+          "subject": "Invoice & June cohort confirmation",
+          "preview": "Confirming your Leadership Development cohort for next month.",
+          "receivedMinutesAgo": 180,
+          "unread": false,
+          "body": "Dear Lucas, this confirms your Leadership Development cohort scheduled for next month (12 participants). The invoice is attached and due in 30 days. Please confirm the final attendee list one week before the start date."
+        },
+        {
+          "id": "HR04-E03",
+          "senderName": "LMS System",
+          "senderEmail": "noreply@lms.meridiangroup.com",
+          "subject": "14 employees overdue on mandatory training",
+          "preview": "The following employees have not completed required modules.",
+          "receivedMinutesAgo": 720,
+          "unread": true,
+          "body": "Automated notice: 14 employees have not completed their mandatory training modules by the due date. The list is attached and managers have been copied. Please follow up to ensure compliance before quarter-end."
+        },
+        {
+          "id": "HR04-E04",
+          "senderName": "Emma Baker",
+          "senderEmail": "emma.baker@meridiangroup.com",
+          "subject": "Training cost reconciliation Q2",
+          "preview": "The training spend vs budget reconciliation is attached.",
+          "receivedMinutesAgo": 1300,
+          "unread": false,
+          "body": "Hi Lucas, the Q2 training spend vs budget reconciliation is attached. We're tracking slightly under budget overall, but the external-vendor line is over — likely the SkillForge invoice. Can you confirm the coding so I can close the quarter?"
+        }
+      ],
+      "meetings": [
+        {
+          "id": "HR04-W1",
+          "title": "Weekly HR leadership sync",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Mon",
+          "dayOfMonth": null,
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Sarah",
+              "photo": "face_17.jpg"
+            },
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-W2",
+          "title": "L&D check-in",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Thu",
+          "dayOfMonth": null,
+          "startTime": "11:00",
+          "endTime": "11:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            },
+            {
+              "name": "Ben",
+              "photo": "face_08.jpg"
+            },
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M1",
+          "title": "Trainer briefing",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 2,
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "location": "Room Delft",
+          "attendees": [
+            {
+              "name": "Liam",
+              "photo": "face_13.jpg"
+            },
+            {
+              "name": "Ben",
+              "photo": "face_08.jpg"
+            },
+            {
+              "name": "Nadia",
+              "photo": "face_07.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M2",
+          "title": "Skills workshop",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 3,
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "location": "Room Delft",
+          "attendees": [
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            },
+            {
+              "name": "Lucas",
+              "photo": "face_18.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            },
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M3",
+          "title": "Curriculum planning",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 4,
+          "startTime": "13:00",
+          "endTime": "14:30",
+          "location": "Room Delft",
+          "attendees": [
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            },
+            {
+              "name": "Nadia",
+              "photo": "face_07.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Ben",
+              "photo": "face_08.jpg"
+            },
+            {
+              "name": "Lucas",
+              "photo": "face_18.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M4",
+          "title": "Vendor demo — SkillForge",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 7,
+          "startTime": "15:00",
+          "endTime": "15:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Lucas",
+              "photo": "face_18.jpg"
+            },
+            {
+              "name": "Anna",
+              "photo": "face_01.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M5",
+          "title": "E-learning build session",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 8,
+          "startTime": "13:00",
+          "endTime": "15:00",
+          "location": "Room Maas",
+          "attendees": [
+            {
+              "name": "Lucas",
+              "photo": "face_18.jpg"
+            },
+            {
+              "name": "Ben",
+              "photo": "face_08.jpg"
+            },
+            {
+              "name": "Nora",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M6",
+          "title": "Budget reconciliation",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 10,
+          "startTime": "14:00",
+          "endTime": "14:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            },
+            {
+              "name": "Anna",
+              "photo": "face_01.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M7",
+          "title": "Training impact analysis",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 18,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M8",
+          "title": "New-hire orientation",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 20,
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "location": "Room Aurora",
+          "attendees": [
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            },
+            {
+              "name": "Emma",
+              "photo": "face_19.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M9",
+          "title": "Compliance training review",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 21,
+          "startTime": "11:00",
+          "endTime": "11:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M10",
+          "title": "Content review — onboarding",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 22,
+          "startTime": "14:00",
+          "endTime": "15:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M11",
+          "title": "Cohort 2 session",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 24,
+          "startTime": "09:30",
+          "endTime": "11:30",
+          "location": "Room Aurora",
+          "attendees": [
+            {
+              "name": "Sophie",
+              "photo": "face_02.jpg"
+            },
+            {
+              "name": "Steven",
+              "photo": "face_11.jpg"
+            },
+            {
+              "name": "Sarah",
+              "photo": "face_17.jpg"
+            },
+            {
+              "name": "Nora",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M12",
+          "title": "Leadership cohort kickoff",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 27,
+          "startTime": "09:30",
+          "endTime": "11:00",
+          "location": "Room Aurora",
+          "attendees": [
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            },
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            },
+            {
+              "name": "Emma",
+              "photo": "face_19.jpg"
+            },
+            {
+              "name": "Steven",
+              "photo": "face_11.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            }
+          ]
+        }
+      ],
+      "activity": {
+        "Mon": [
+          "Focus",
+          "Project",
+          "Email",
+          "Email",
+          "Break",
+          "Focus",
+          "Meeting",
+          "Focus",
+          "Focus"
+        ],
+        "Tue": [
+          "Meeting",
+          "Project",
+          "Meeting",
+          "Meeting",
+          "Break",
+          "Meeting",
+          "Email",
+          "Meeting",
+          "Meeting"
+        ],
+        "Wed": [
+          "Focus",
+          "Email",
+          "Focus",
+          "Meeting",
+          "Break",
+          "Project",
+          "Project",
+          "Focus",
+          "Project"
+        ],
+        "Thu": [
+          "Meeting",
+          "Meeting",
+          "Project",
+          "Focus",
+          "Break",
+          "Focus",
+          "Project",
+          "Focus",
+          "Focus"
+        ],
+        "Fri": [
+          "Meeting",
+          "Meeting",
+          "Admin",
+          "Meeting",
+          "Break",
+          "Project",
+          "Focus",
+          "Project",
+          "Focus"
+        ]
+      },
+      "workWeek": [
+        {
+          "day": "Mon",
+          "mode": "Remote"
+        },
+        {
+          "day": "Tue",
+          "mode": "Office"
+        },
+        {
+          "day": "Wed",
+          "mode": "Hybrid"
+        },
+        {
+          "day": "Thu",
+          "mode": "Office"
+        },
+        {
+          "day": "Fri",
+          "mode": "Remote"
+        }
+      ],
+      "loggedTodayMinutes": 124,
+      "weekProgress": [
+        {
+          "day": "Sun",
+          "start": null,
+          "minutes": 0
+        },
+        {
+          "day": "Mon",
+          "start": "09:15",
+          "minutes": 250
+        },
+        {
+          "day": "Tue",
+          "start": "08:30",
+          "minutes": 315
+        },
+        {
+          "day": "Wed",
+          "start": "09:40",
+          "minutes": 175
+        },
+        {
+          "day": "Thu",
+          "start": "09:00",
+          "minutes": 220
+        },
+        {
+          "day": "Fri",
+          "start": "09:30",
+          "minutes": 205
+        },
+        {
+          "day": "Sat",
+          "start": null,
+          "minutes": 0
+        }
+      ]
+    },
+    {
+      "id": "HR05",
+      "name": "Emma Baker",
+      "role": "HR Operations & Payroll",
+      "age": 45,
+      "startDate": "2013-11-04",
+      "email": "emma.baker@meridiangroup.com",
+      "location": "Leeds",
+      "photo": "face_18.jpg",
+      "tasks": [
+        {
+          "id": "HR05-T01",
+          "title": "Run payroll",
+          "category": "Payroll",
+          "priority": "High",
+          "dueOffsetDays": 1,
+          "status": "Open",
+          "description": "Run June payroll cycle"
+        },
+        {
+          "id": "HR05-T02",
+          "title": "Reconcile spend",
+          "category": "Finance",
+          "priority": "Medium",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "Reconcile training spend vs budget Q2"
+        },
+        {
+          "id": "HR05-T03",
+          "title": "Onboarding packs",
+          "category": "Onboarding",
+          "priority": "High",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "Process 4 new-hire onboarding packs"
+        },
+        {
+          "id": "HR05-T04",
+          "title": "Update master file",
+          "category": "Data",
+          "priority": "Medium",
+          "dueOffsetDays": -1,
+          "status": "Done",
+          "description": "Update headcount master file"
+        },
+        {
+          "id": "HR05-T05",
+          "title": "Verify pensions",
+          "category": "Compliance",
+          "priority": "High",
+          "dueOffsetDays": 2,
+          "status": "Open",
+          "description": "Verify pension contributions"
+        },
+        {
+          "id": "HR05-T06",
+          "title": "Archive Q2 exits",
+          "category": "Compliance",
+          "priority": "Low",
+          "dueOffsetDays": 3,
+          "status": "Open",
+          "description": "Archive Q2 termination paperwork"
+        }
+      ],
+      "emails": [
+        {
+          "id": "HR05-E01",
+          "senderName": "PayrollService",
+          "senderEmail": "support@loonservice.nl",
+          "subject": "June payroll cut-off reminder",
+          "preview": "Please submit final payroll changes by Thursday 17:00.",
+          "receivedMinutesAgo": 40,
+          "unread": true,
+          "body": "Reminder: the cut-off for June payroll changes is Thursday at 17:00. Please submit all new starters, leavers, and salary adjustments before then. Anything received after the deadline will roll into the July run."
+        },
+        {
+          "id": "HR05-E02",
+          "senderName": "David Johnson",
+          "senderEmail": "david.johnson@meridiangroup.com",
+          "subject": "New starters for July — details attached",
+          "preview": "Here are the 4 new contracts for onboarding setup.",
+          "receivedMinutesAgo": 110,
+          "unread": true,
+          "body": "Hi Emma, attached are the four signed contracts for July onboarding — two Production, one Sales, one Finance. Can you set up their payroll and system access? Start date is the 1st for all four."
+        },
+        {
+          "id": "HR05-E03",
+          "senderName": "Lucas Miller",
+          "senderEmail": "lucas.miller@meridiangroup.com",
+          "subject": "Re: Training cost reconciliation Q2",
+          "preview": "The SkillForge invoice should be coded to L&D.",
+          "receivedMinutesAgo": 260,
+          "unread": false,
+          "body": "Thanks Emma — the SkillForge invoice should be coded to the L&D external-vendor line, not general training. That should explain the overage. Let me know if you need anything else to close Q2."
+        },
+        {
+          "id": "HR05-E04",
+          "senderName": "Pension Fund",
+          "senderEmail": "noreply@pensioenfonds.nl",
+          "subject": "Q2 contribution statement",
+          "preview": "Your quarterly contribution statement is now available.",
+          "receivedMinutesAgo": 900,
+          "unread": false,
+          "body": "Your quarterly pension contribution statement is now available. Total contributions and any adjustments are detailed in the attached document. Please review and confirm before the 30th."
+        }
+      ],
+      "meetings": [
+        {
+          "id": "HR05-W1",
+          "title": "Weekly HR leadership sync",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Mon",
+          "dayOfMonth": null,
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Steven",
+              "photo": "face_11.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            },
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-W2",
+          "title": "Ops wrap-up",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Fri",
+          "dayOfMonth": null,
+          "startTime": "15:00",
+          "endTime": "15:30",
+          "location": "Room Maas",
+          "attendees": [
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M1",
+          "title": "Audit prep",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 2,
+          "startTime": "14:00",
+          "endTime": "15:00",
+          "location": "Room Delft",
+          "attendees": [
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M2",
+          "title": "Process improvement workshop",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 4,
+          "startTime": "13:00",
+          "endTime": "14:30",
+          "location": "Room Delft",
+          "attendees": [
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Sophie",
+              "photo": "face_02.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M3",
+          "title": "Pension reconciliation",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 6,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            },
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M4",
+          "title": "Payroll run",
+          "type": "deadline",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 8,
+          "startTime": "09:00",
+          "endTime": "11:00",
+          "location": "Teams",
+          "attendees": []
+        },
+        {
+          "id": "HR05-M5",
+          "title": "Offboarding processing",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 10,
+          "startTime": "11:00",
+          "endTime": "11:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            },
+            {
+              "name": "Nora",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M6",
+          "title": "Contract renewals",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 12,
+          "startTime": "15:00",
+          "endTime": "15:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Sophie",
+              "photo": "face_02.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M7",
+          "title": "Benefits enrollment review",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 19,
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "location": "Room Maas",
+          "attendees": [
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M8",
+          "title": "Compliance check",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 20,
+          "startTime": "10:00",
+          "endTime": "10:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Nadia",
+              "photo": "face_07.jpg"
+            },
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M9",
+          "title": "New-starter setup",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 21,
+          "startTime": "09:30",
+          "endTime": "10:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Emma",
+              "photo": "face_19.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            },
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M10",
+          "title": "Onboarding admin block",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 22,
+          "startTime": "13:00",
+          "endTime": "14:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "David",
+              "photo": "face_16.jpg"
+            },
+            {
+              "name": "Lucas",
+              "photo": "face_18.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M11",
+          "title": "HRIS data cleanup",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 26,
+          "startTime": "13:30",
+          "endTime": "15:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            },
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            },
+            {
+              "name": "Lucas",
+              "photo": "face_18.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M12",
+          "title": "Payroll cut-off check",
+          "type": "deadline",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 27,
+          "startTime": "10:00",
+          "endTime": "10:30",
+          "location": "Teams",
+          "attendees": []
+        }
+      ],
+      "activity": {
+        "Mon": [
+          "Email",
+          "Email",
+          "Email",
+          "Project",
+          "Break",
+          "Admin",
+          "Focus",
+          "Email",
+          "Admin"
+        ],
+        "Tue": [
+          "Meeting",
+          "Email",
+          "Email",
+          "Focus",
+          "Break",
+          "Focus",
+          "Admin",
+          "Meeting",
+          "Project"
+        ],
+        "Wed": [
+          "Admin",
+          "Email",
+          "Email",
+          "Project",
+          "Break",
+          "Admin",
+          "Meeting",
+          "Meeting",
+          "Focus"
+        ],
+        "Thu": [
+          "Meeting",
+          "Meeting",
+          "Project",
+          "Meeting",
+          "Break",
+          "Project",
+          "Admin",
+          "Email",
+          "Project"
+        ],
+        "Fri": [
+          "Email",
+          "Email",
+          "Email",
+          "Meeting",
+          "Break",
+          "Email",
+          "Focus",
+          "Focus",
+          "Project"
+        ]
+      },
+      "workWeek": [
+        {
+          "day": "Mon",
+          "mode": "Office"
+        },
+        {
+          "day": "Tue",
+          "mode": "Office"
+        },
+        {
+          "day": "Wed",
+          "mode": "Remote"
+        },
+        {
+          "day": "Thu",
+          "mode": "Office"
+        },
+        {
+          "day": "Fri",
+          "mode": "Hybrid"
+        }
+      ],
+      "loggedTodayMinutes": 167,
+      "weekProgress": [
+        {
+          "day": "Sun",
+          "start": null,
+          "minutes": 0
+        },
+        {
+          "day": "Mon",
+          "start": "08:45",
+          "minutes": 230
+        },
+        {
+          "day": "Tue",
+          "start": "09:20",
+          "minutes": 195
+        },
+        {
+          "day": "Wed",
+          "start": "09:00",
+          "minutes": 260
+        },
+        {
+          "day": "Thu",
+          "start": "09:50",
+          "minutes": 300
+        },
+        {
+          "day": "Fri",
+          "start": "09:10",
+          "minutes": 165
+        },
+        {
+          "day": "Sat",
+          "start": null,
+          "minutes": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+hr_id,meeting_id,Title,Type,Recurrence,DayOfWeek,DayOfMonth,StartTime,EndTime,Location,Attendees,AttendeePhotos
+HR01,HR01-W1,Weekly HR leadership sync,sync,weekly,Mon,,09:00,09:30,Teams,Sarah;Maud;Iris,face_17.jpg;face_14.jpg;face_12.jpg
+HR01,HR01-W2,Director office hours,meeting,weekly,Thu,,16:00,16:30,Teams,Nora;Maud;Tom,face_10.jpg;face_14.jpg;face_04.jpg
+HR01,HR01-M1,Town hall prep,meeting,monthly,,3,13:00,13:45,Room Delft,Anna;Aisha;David,face_01.jpg;face_20.jpg;face_16.jpg
+HR01,HR01-M2,Board meeting,meeting,monthly,,5,14:00,15:30,Room Aurora,Iris;Eva;Maud,face_12.jpg;face_09.jpg;face_14.jpg
+HR01,HR01-M3,1:1 David,1:1,monthly,,6,10:00,10:30,Teams,David,face_16.jpg
+HR01,HR01-M4,Skip-level 1:1s,1:1,monthly,,7,15:00,16:00,Teams,Steven,face_11.jpg
+HR01,HR01-M5,Vendor review — HRIS,review,monthly,,9,14:00,14:45,Teams,Tom;Tess,face_04.jpg;face_15.jpg
+HR01,HR01-M6,Diversity council,meeting,monthly,,12,10:00,11:00,Teams,Liam;Lisa;David,face_13.jpg;face_05.jpg;face_16.jpg
+HR01,HR01-M7,1:1 Aisha,1:1,monthly,,14,10:30,11:00,Teams,Aisha,face_20.jpg
+HR01,HR01-M8,Budget review Q3,review,monthly,,15,11:00,12:00,Room Delft,Rick;Eva,face_03.jpg;face_09.jpg
+HR01,HR01-M9,Policy sign-off,deadline,monthly,,21,16:00,16:30,Teams,,
+HR01,HR01-M10,Succession planning,workshop,monthly,,23,09:30,11:00,Room Aurora,Aisha;Rick;Iris;Steven;Anna,face_20.jpg;face_03.jpg;face_12.jpg;face_11.jpg;face_01.jpg
+HR01,HR01-M11,Q-review with CFO,review,monthly,,25,10:00,11:00,Room Aurora,Rick;Sarah,face_03.jpg;face_17.jpg
+HR01,HR01-M12,Comp & benefits review,review,monthly,,27,11:00,12:00,Room Delft,Eva;Ben,face_09.jpg;face_08.jpg
+HR02,HR02-W1,Weekly HR leadership sync,sync,weekly,Mon,,09:00,09:30,Teams,Rick;Eva;Maud,face_03.jpg;face_09.jpg;face_14.jpg
+HR02,HR02-W2,BP team standup,sync,weekly,Tue,,09:30,10:00,Teams,Iris;Nora;Sophie,face_12.jpg;face_10.jpg;face_02.jpg
+HR02,HR02-M1,Engagement workshop,workshop,monthly,,2,11:00,12:30,Room Delft,Lucas;Sophie;Sarah;Tess;Maud,face_18.jpg;face_02.jpg;face_17.jpg;face_15.jpg;face_14.jpg
+HR02,HR02-M2,Onboarding buddy sync,sync,monthly,,7,09:30,10:00,Teams,Tess;Nora;Tom,face_15.jpg;face_10.jpg;face_04.jpg
+HR02,HR02-M3,Manager 1:1 — Sales,1:1,monthly,,10,14:00,14:30,Teams,Anna,face_01.jpg
+HR02,HR02-M4,Grievance hearing,meeting,monthly,,11,10:00,11:00,Room Maas,Maud;Lisa;Rick,face_14.jpg;face_05.jpg;face_03.jpg
+HR02,HR02-M5,Headcount planning — Sales,meeting,monthly,,13,14:00,15:00,Teams,David;Iris;Maud,face_16.jpg;face_12.jpg;face_14.jpg
+HR02,HR02-M6,Exit interview,interview,monthly,,16,15:00,15:45,Teams,Rick;Lucas,face_03.jpg;face_18.jpg
+HR02,HR02-M7,Org design workshop,workshop,monthly,,19,13:00,14:30,Room Delft,Sarah;Aisha;Ben;Anna;Tess,face_17.jpg;face_20.jpg;face_08.jpg;face_01.jpg;face_15.jpg
+HR02,HR02-M8,Job architecture review,review,monthly,,20,10:00,11:00,Room Delft,Nora;Ben,face_10.jpg;face_08.jpg
+HR02,HR02-M9,Wellbeing initiative,meeting,monthly,,21,15:00,15:30,Teams,Sarah;Nadia;Anna,face_17.jpg;face_07.jpg;face_01.jpg
+HR02,HR02-M10,Performance calibration,review,monthly,,23,10:30,12:00,Room Aurora,Lucas;Anna,face_18.jpg;face_01.jpg
+HR02,HR02-M11,Talent review — Sales,review,monthly,,24,11:00,12:00,Room Aurora,Sophie;Eva,face_02.jpg;face_09.jpg
+HR02,HR02-M12,Manager 1:1 — Production,1:1,monthly,,25,13:30,14:00,Teams,Liam,face_13.jpg
+HR03,HR03-W1,Hiring sync,sync,weekly,Wed,,09:30,10:00,Teams,Sophie;Mark;Steven,face_02.jpg;face_06.jpg;face_11.jpg
+HR03,HR03-W2,Recruitment standup,sync,weekly,Fri,,13:00,13:30,Teams,Rick;Sarah;Maud,face_03.jpg;face_17.jpg;face_14.jpg
+HR03,HR03-M1,Career fair prep,workshop,monthly,,4,13:00,14:00,Room Delft,Nadia;Rick;Aisha;Nora;Tom,face_07.jpg;face_03.jpg;face_20.jpg;face_10.jpg;face_04.jpg
+HR03,HR03-M2,Intake — Finance role,meeting,monthly,,6,11:00,11:45,Teams,Mark;Tom;Rick,face_06.jpg;face_04.jpg;face_03.jpg
+HR03,HR03-M3,Interview — Data Analyst,interview,monthly,,7,14:00,14:45,Room Maas,Maud;Aisha,face_14.jpg;face_20.jpg
+HR03,HR03-M4,Offer review,review,monthly,,8,16:00,16:30,Teams,Liam;Tom,face_13.jpg;face_04.jpg
+HR03,HR03-M5,Pipeline review with Sarah,review,monthly,,11,10:00,10:30,Teams,Ben;Lisa,face_08.jpg;face_05.jpg
+HR03,HR03-M6,Hiring manager sync — Eng,meeting,monthly,,12,15:00,15:30,Teams,David;Lucas;Rick,face_16.jpg;face_18.jpg;face_03.jpg
+HR03,HR03-M7,Interview — Production Tech,interview,monthly,,14,10:00,10:45,Teams,Rick;Tom,face_03.jpg;face_04.jpg
+HR03,HR03-M8,Sourcing strategy,workshop,monthly,,15,10:00,11:00,Room Delft,Lisa;Nora;Tom;Mark;Rick,face_05.jpg;face_10.jpg;face_04.jpg;face_06.jpg;face_03.jpg
+HR03,HR03-M9,Panel interview — Manager,interview,monthly,,16,13:30,15:00,Room Aurora,Mark;Sophie,face_06.jpg;face_02.jpg
+HR03,HR03-M10,Reference calls block,meeting,monthly,,19,09:30,10:30,Teams,Eva;Maud;Steven,face_09.jpg;face_14.jpg;face_11.jpg
+HR03,HR03-M11,Interview — Sales Lead,interview,monthly,,20,11:00,11:45,Teams,Steven;Lisa,face_11.jpg;face_05.jpg
+HR03,HR03-M12,Agency review,review,monthly,,21,14:00,14:30,Teams,Emma;Maud,face_19.jpg;face_14.jpg
+HR04,HR04-W1,Weekly HR leadership sync,sync,weekly,Mon,,09:00,09:30,Teams,Sarah;Lisa;Rick,face_17.jpg;face_05.jpg;face_03.jpg
+HR04,HR04-W2,L&D check-in,sync,weekly,Thu,,11:00,11:30,Teams,Tess;Ben;Lisa,face_15.jpg;face_08.jpg;face_05.jpg
+HR04,HR04-M1,Trainer briefing,meeting,monthly,,2,11:00,12:00,Room Delft,Liam;Ben;Nadia,face_13.jpg;face_08.jpg;face_07.jpg
+HR04,HR04-M2,Skills workshop,workshop,monthly,,3,10:00,12:00,Room Delft,Lisa;Lucas;Aisha;Iris;Eva,face_05.jpg;face_18.jpg;face_20.jpg;face_12.jpg;face_09.jpg
+HR04,HR04-M3,Curriculum planning,workshop,monthly,,4,13:00,14:30,Room Delft,Mark;Nadia;Maud;Ben;Lucas,face_06.jpg;face_07.jpg;face_14.jpg;face_08.jpg;face_18.jpg
+HR04,HR04-M4,Vendor demo — SkillForge,meeting,monthly,,7,15:00,15:45,Teams,Lucas;Anna;Eva,face_18.jpg;face_01.jpg;face_09.jpg
+HR04,HR04-M5,E-learning build session,workshop,monthly,,8,13:00,15:00,Room Maas,Lucas;Ben;Nora;Mark;Eva,face_18.jpg;face_08.jpg;face_10.jpg;face_06.jpg;face_09.jpg
+HR04,HR04-M6,Budget reconciliation,review,monthly,,10,14:00,14:45,Teams,Lisa;Anna,face_05.jpg;face_01.jpg
+HR04,HR04-M7,Training impact analysis,review,monthly,,18,10:00,11:00,Teams,Tess;Tom,face_15.jpg;face_04.jpg
+HR04,HR04-M8,New-hire orientation,meeting,monthly,,20,09:00,10:00,Room Aurora,Maud;Tess;Emma,face_14.jpg;face_15.jpg;face_19.jpg
+HR04,HR04-M9,Compliance training review,review,monthly,,21,11:00,11:45,Teams,Rick;Aisha,face_03.jpg;face_20.jpg
+HR04,HR04-M10,Content review — onboarding,review,monthly,,22,14:00,15:00,Teams,Maud;Eva,face_14.jpg;face_09.jpg
+HR04,HR04-M11,Cohort 2 session,workshop,monthly,,24,09:30,11:30,Room Aurora,Sophie;Steven;Sarah;Nora;Lisa,face_02.jpg;face_11.jpg;face_17.jpg;face_10.jpg;face_05.jpg
+HR04,HR04-M12,Leadership cohort kickoff,workshop,monthly,,27,09:30,11:00,Room Aurora,Mark;Lisa;Emma;Steven;Rick,face_06.jpg;face_05.jpg;face_19.jpg;face_11.jpg;face_03.jpg
+HR05,HR05-W1,Weekly HR leadership sync,sync,weekly,Mon,,09:00,09:30,Teams,Steven;Eva;Iris,face_11.jpg;face_09.jpg;face_12.jpg
+HR05,HR05-W2,Ops wrap-up,sync,weekly,Fri,,15:00,15:30,Room Maas,Maud;Eva;Aisha,face_14.jpg;face_09.jpg;face_20.jpg
+HR05,HR05-M1,Audit prep,review,monthly,,2,14:00,15:00,Room Delft,Iris;Aisha,face_12.jpg;face_20.jpg
+HR05,HR05-M2,Process improvement workshop,workshop,monthly,,4,13:00,14:30,Room Delft,Maud;Aisha;Rick;Sophie;Eva,face_14.jpg;face_20.jpg;face_03.jpg;face_02.jpg;face_09.jpg
+HR05,HR05-M3,Pension reconciliation,review,monthly,,6,10:00,11:00,Teams,Eva;Mark,face_09.jpg;face_06.jpg
+HR05,HR05-M4,Payroll run,deadline,monthly,,8,09:00,11:00,Teams,,
+HR05,HR05-M5,Offboarding processing,meeting,monthly,,10,11:00,11:45,Teams,Iris;Nora;Maud,face_12.jpg;face_10.jpg;face_14.jpg
+HR05,HR05-M6,Contract renewals,review,monthly,,12,15:00,15:45,Teams,Sophie;Rick,face_02.jpg;face_03.jpg
+HR05,HR05-M7,Benefits enrollment review,review,monthly,,19,11:00,12:00,Room Maas,Tess;Rick,face_15.jpg;face_03.jpg
+HR05,HR05-M8,Compliance check,review,monthly,,20,10:00,10:30,Teams,Nadia;Tess,face_07.jpg;face_15.jpg
+HR05,HR05-M9,New-starter setup,meeting,monthly,,21,09:30,10:30,Teams,Emma;Tom;Iris,face_19.jpg;face_04.jpg;face_12.jpg
+HR05,HR05-M10,Onboarding admin block,meeting,monthly,,22,13:00,14:30,Teams,David;Lucas;Eva,face_16.jpg;face_18.jpg;face_09.jpg
+HR05,HR05-M11,HRIS data cleanup,meeting,monthly,,26,13:30,15:00,Teams,Mark;Iris;Lucas,face_06.jpg;face_12.jpg;face_18.jpg
+HR05,HR05-M12,Payroll cut-off check,deadline,monthly,,27,10:00,10:30,Teams,,

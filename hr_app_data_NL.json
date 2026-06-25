@@ -1,0 +1,2817 @@
+{
+  "_meta": {
+    "description": "HR login demo data. Evergreen dates: weekly meetings by dayOfWeek, monthly meetings by dayOfMonth; tasks by dueOffsetDays; emails by receivedMinutesAgo. Includes per-persona activity grid (day x hour), workWeek location, and loggedTodayMinutes for the time tracker.",
+    "photoBase": "https://raw.githubusercontent.com/RobertvandeVorst/HRapp/main/images/",
+    "activityHours": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "employees": [
+    {
+      "id": "HR01",
+      "name": "Sanne de Vries",
+      "role": "HR-directeur",
+      "age": 52,
+      "startDate": "2009-03-02",
+      "email": "sanne.devries@meridiangroup.com",
+      "location": "Amsterdam",
+      "photo": "face_03.jpg",
+      "tasks": [
+        {
+          "id": "HR01-T01",
+          "title": "Q2-rapport goedkeuren",
+          "category": "Rapportage",
+          "priority": "High",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "Q2-verlooprapport goedkeuren voor bestuur"
+        },
+        {
+          "id": "HR01-T02",
+          "title": "L&D-budget tekenen",
+          "category": "Budget",
+          "priority": "High",
+          "dueOffsetDays": 2,
+          "status": "Open",
+          "description": "L&D-budget 2026 definitief goedkeuren"
+        },
+        {
+          "id": "HR01-T03",
+          "title": "Retentieplan bekijken",
+          "category": "Retentie",
+          "priority": "Medium",
+          "dueOffsetDays": -1,
+          "status": "Open",
+          "description": "Actieplan spijtig verloop beoordelen"
+        },
+        {
+          "id": "HR01-T04",
+          "title": "Bestuursdeck maken",
+          "category": "Rapportage",
+          "priority": "High",
+          "dueOffsetDays": 1,
+          "status": "Open",
+          "description": "Bestuurspresentatie personeelsoverzicht voorbereiden"
+        },
+        {
+          "id": "HR01-T05",
+          "title": "2 aanbiedingen fiatteren",
+          "category": "Werving",
+          "priority": "Medium",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "Twee senior aanbiedingen goedkeuren"
+        },
+        {
+          "id": "HR01-T06",
+          "title": "1-op-1's met HRBP's",
+          "category": "People",
+          "priority": "Low",
+          "dueOffsetDays": 3,
+          "status": "Done",
+          "description": "Kwartaal-1-op-1's met HR-businesspartners"
+        }
+      ],
+      "emails": [
+        {
+          "id": "HR01-E01",
+          "senderName": "Mark Visser",
+          "senderEmail": "mark.visser@meridiangroep.nl",
+          "subject": "Re: Q2-prognose personeel & kosten",
+          "preview": "Kun je de verhouding inhuur/vast bevestigen vóór de bestuursvergadering?",
+          "receivedMinutesAgo": 35,
+          "unread": true,
+          "body": "Hoi Sanne, vóór de bestuursvergadering wil ik de verhouding inhuur/vast afstemmen. De prognose laat 8% hogere inhuurkosten zien dan in Q1 — kun je bevestigen of dat komt door de backfills in Productie? Ik bel vanmiddag graag even als dat makkelijker is."
+        },
+        {
+          "id": "HR01-E02",
+          "senderName": "Daan Jansen",
+          "senderEmail": "daan.jansen@meridiangroep.nl",
+          "subject": "Verdiepende verloopanalyse: afdeling Productie",
+          "preview": "Ik deel de uitsplitsing van het eerstejaarsverloop die je vroeg.",
+          "receivedMinutesAgo": 120,
+          "unread": true,
+          "body": "Sanne, hierbij de uitsplitsing van het eerstejaarsverloop die je vroeg. Het cluster Productie is de grootste oorzaak — vrijwillig vertrek binnen de eerste 12 maanden ligt ruim boven het bedrijfsgemiddelde, en werk-privébalans komt steeds terug in exitgesprekken. Alle cijfers in de bijlage; ik heb de spijtige gevallen gemarkeerd."
+        },
+        {
+          "id": "HR01-E03",
+          "senderName": "Bestuurssecretaris",
+          "senderEmail": "board@meridiangroep.nl",
+          "subject": "Agenda — Bestuursvergadering 26 juni",
+          "preview": "Jouw personeelsupdate is agendapunt 4 op de definitieve agenda.",
+          "receivedMinutesAgo": 240,
+          "unread": false,
+          "body": "Beste Sanne, hierbij de definitieve agenda voor de bestuursvergadering op 26 juni. Jouw personeelsupdate is agendapunt 4, met een slot van 15 minuten inclusief vragen. Stuur eventuele slides uiterlijk woensdag aan het eind van de dag, zodat ze vooraf rondgestuurd kunnen worden."
+        },
+        {
+          "id": "HR01-E04",
+          "senderName": "Lukas Meyer",
+          "senderEmail": "lukas.meyer@meridiangroep.nl",
+          "subject": "Opleidingsplan 2026 — klaar voor goedkeuring",
+          "preview": "Definitief, met afrondingsdoelen per programma.",
+          "receivedMinutesAgo": 1100,
+          "unread": false,
+          "body": "Hoi Sanne, het L&D-plan voor 2026 is definitief, met afrondingsdoelen per programma en een herzien budget. Kern: we verschuiven meer budget naar interne leiderschapsontwikkeling op basis van de resultaten van dit jaar. Klaar voor je goedkeuring wanneer het je uitkomt."
+        }
+      ],
+      "meetings": [
+        {
+          "id": "HR01-W1",
+          "title": "Wekelijkse HR-leiderschapssync",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Mon",
+          "dayOfMonth": null,
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Sanne",
+              "photo": "face_17.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-W2",
+          "title": "Spreekuur directeur",
+          "type": "meeting",
+          "recurrence": "weekly",
+          "dayOfWeek": "Thu",
+          "dayOfMonth": null,
+          "startTime": "16:00",
+          "endTime": "16:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Noor",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M1",
+          "title": "Voorbereiding town hall",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 3,
+          "startTime": "13:00",
+          "endTime": "13:45",
+          "location": "Zaal Delft",
+          "attendees": [
+            {
+              "name": "Anne",
+              "photo": "face_01.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            },
+            {
+              "name": "Daan",
+              "photo": "face_16.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M2",
+          "title": "Bestuursvergadering",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 5,
+          "startTime": "14:00",
+          "endTime": "15:30",
+          "location": "Zaal Aurora",
+          "attendees": [
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M3",
+          "title": "1-op-1 Daan",
+          "type": "1:1",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 6,
+          "startTime": "10:00",
+          "endTime": "10:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Daan",
+              "photo": "face_16.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M4",
+          "title": "Skip-level 1-op-1's",
+          "type": "1:1",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 7,
+          "startTime": "15:00",
+          "endTime": "16:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Sven",
+              "photo": "face_11.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M5",
+          "title": "Leveranciersreview — HRIS",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 9,
+          "startTime": "14:00",
+          "endTime": "14:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            },
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M6",
+          "title": "Diversiteitsraad",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 12,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Lars",
+              "photo": "face_13.jpg"
+            },
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            },
+            {
+              "name": "Daan",
+              "photo": "face_16.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M7",
+          "title": "1-op-1 Aisha",
+          "type": "1:1",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 14,
+          "startTime": "10:30",
+          "endTime": "11:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M8",
+          "title": "Budgetreview Q3",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 15,
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "location": "Zaal Delft",
+          "attendees": [
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M9",
+          "title": "Beleid goedkeuren",
+          "type": "deadline",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 21,
+          "startTime": "16:00",
+          "endTime": "16:30",
+          "location": "Teams",
+          "attendees": []
+        },
+        {
+          "id": "HR01-M10",
+          "title": "Opvolgingsplanning",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 23,
+          "startTime": "09:30",
+          "endTime": "11:00",
+          "location": "Zaal Aurora",
+          "attendees": [
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            },
+            {
+              "name": "Sven",
+              "photo": "face_11.jpg"
+            },
+            {
+              "name": "Anne",
+              "photo": "face_01.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M11",
+          "title": "Kwartaalreview met CFO",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 25,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "location": "Zaal Aurora",
+          "attendees": [
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Sanne",
+              "photo": "face_17.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR01-M12",
+          "title": "Review arbeidsvoorwaarden",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 27,
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "location": "Zaal Delft",
+          "attendees": [
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            },
+            {
+              "name": "Bram",
+              "photo": "face_08.jpg"
+            }
+          ]
+        }
+      ],
+      "activity": {
+        "Mon": [
+          "Email",
+          "Admin",
+          "Meeting",
+          "Email",
+          "Break",
+          "Focus",
+          "Email",
+          "Meeting",
+          "Admin"
+        ],
+        "Tue": [
+          "Meeting",
+          "Email",
+          "Meeting",
+          "Meeting",
+          "Break",
+          "Meeting",
+          "Meeting",
+          "Focus",
+          "Meeting"
+        ],
+        "Wed": [
+          "Meeting",
+          "Focus",
+          "Email",
+          "Meeting",
+          "Break",
+          "Project",
+          "Focus",
+          "Meeting",
+          "Project"
+        ],
+        "Thu": [
+          "Meeting",
+          "Meeting",
+          "Admin",
+          "Meeting",
+          "Break",
+          "Focus",
+          "Meeting",
+          "Project",
+          "Meeting"
+        ],
+        "Fri": [
+          "Admin",
+          "Focus",
+          "Project",
+          "Admin",
+          "Break",
+          "Focus",
+          "Meeting",
+          "Project",
+          "Project"
+        ]
+      },
+      "workWeek": [
+        {
+          "day": "Mon",
+          "mode": "Office"
+        },
+        {
+          "day": "Tue",
+          "mode": "Office"
+        },
+        {
+          "day": "Wed",
+          "mode": "Office"
+        },
+        {
+          "day": "Thu",
+          "mode": "Remote"
+        },
+        {
+          "day": "Fri",
+          "mode": "Hybrid"
+        }
+      ],
+      "loggedTodayMinutes": 182,
+      "weekProgress": [
+        {
+          "day": "Sun",
+          "start": null,
+          "minutes": 0
+        },
+        {
+          "day": "Mon",
+          "start": "09:10",
+          "minutes": 205
+        },
+        {
+          "day": "Tue",
+          "start": "08:50",
+          "minutes": 280
+        },
+        {
+          "day": "Wed",
+          "start": "10:00",
+          "minutes": 170
+        },
+        {
+          "day": "Thu",
+          "start": "09:25",
+          "minutes": 240
+        },
+        {
+          "day": "Fri",
+          "start": "09:00",
+          "minutes": 323
+        },
+        {
+          "day": "Sat",
+          "start": null,
+          "minutes": 0
+        }
+      ]
+    },
+    {
+      "id": "HR02",
+      "name": "Daan Jansen",
+      "role": "HR-businesspartner",
+      "age": 38,
+      "startDate": "2017-06-12",
+      "email": "daan.jansen@meridiangroup.com",
+      "location": "Eindhoven",
+      "photo": "face_07.jpg",
+      "tasks": [
+        {
+          "id": "HR02-T01",
+          "title": "Verloopanalyse Productie",
+          "category": "Rapportage",
+          "priority": "High",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "Verdiepende verloopanalyse Productie opstellen"
+        },
+        {
+          "id": "HR02-T02",
+          "title": "1-op-1's risicomanagers",
+          "category": "Retentie",
+          "priority": "High",
+          "dueOffsetDays": 1,
+          "status": "Open",
+          "description": "1-op-1's voeren met 3 risicomanagers"
+        },
+        {
+          "id": "HR02-T03",
+          "title": "Functiehuis Verkoop",
+          "category": "Organisatieontwerp",
+          "priority": "Medium",
+          "dueOffsetDays": 4,
+          "status": "Open",
+          "description": "Functiehuis Verkoop bijwerken"
+        },
+        {
+          "id": "HR02-T04",
+          "title": "Klachten afronden",
+          "category": "Arbeidsrelaties",
+          "priority": "High",
+          "dueOffsetDays": -2,
+          "status": "Open",
+          "description": "2 klachtdossiers afronden"
+        },
+        {
+          "id": "HR02-T05",
+          "title": "Vervolg survey",
+          "category": "Betrokkenheid",
+          "priority": "Medium",
+          "dueOffsetDays": 3,
+          "status": "Open",
+          "description": "Vervolgacties betrokkenheidsonderzoek opstellen"
+        },
+        {
+          "id": "HR02-T06",
+          "title": "Verlof goedkeuren",
+          "category": "Operatie",
+          "priority": "Low",
+          "dueOffsetDays": 0,
+          "status": "Done",
+          "description": "Verlofaanvragen juli voor BU goedkeuren"
+        }
+      ],
+      "emails": [
+        {
+          "id": "HR02-E01",
+          "senderName": "Sanne de Vries",
+          "senderEmail": "sanne.devries@meridiangroep.nl",
+          "subject": "Re: Verdiepende verloopanalyse: afdeling Productie",
+          "preview": "Kun je de spijtig/niet-spijtig-uitsplitsing nog vóór woensdag toevoegen?",
+          "receivedMinutesAgo": 25,
+          "unread": true,
+          "body": "Bedankt Daan, dit is precies wat ik nodig had. Kun je vóór de review van woensdag de uitsplitsing spijtig vs. niet-spijtig toevoegen? Ik wil het bestuur laten zien dat we mensen verliezen die we wilden behouden, niet alleen natuurlijk verloop."
+        },
+        {
+          "id": "HR02-E02",
+          "senderName": "Tom Bakker",
+          "senderEmail": "tom.bakker@meridiangroep.nl",
+          "subject": "Zorgen over werkdruk team",
+          "preview": "Twee van mijn technici geven een burn-outrisico aan.",
+          "receivedMinutesAgo": 90,
+          "unread": true,
+          "body": "Daan, twee van mijn technici geven aan dat ze tegen een burn-out aanzitten na de overuren van vorige maand. Ik wil ze niet kwijt — kunnen we kijken naar tijdelijke vervanging of het herverdelen van de diensten? Ik hoor graag jouw advies over de juiste aanpak."
+        },
+        {
+          "id": "HR02-E03",
+          "senderName": "Emma Bakker",
+          "senderEmail": "emma.bakker@meridiangroep.nl",
+          "subject": "Verversing personeelsdata afgerond",
+          "preview": "Het Q2-masterbestand is bijgewerkt en klaar.",
+          "receivedMinutesAgo": 300,
+          "unread": false,
+          "body": "Hoi Daan, het Q2-masterbestand met personeelsdata is ververst en gecontroleerd — 2.845 records over alle afdelingen. Je kunt het gebruiken voor de verdiepende verloopanalyse. Laat het weten als er cijfers vreemd lijken."
+        },
+        {
+          "id": "HR02-E04",
+          "senderName": "Pulse Survey",
+          "senderEmail": "noreply@pulsesurvey.io",
+          "subject": "Betrokkenheidsresultaten zijn beschikbaar",
+          "preview": "De nieuwste betrokkenheidsscores van je team staan klaar.",
+          "receivedMinutesAgo": 1440,
+          "unread": false,
+          "body": "De nieuwste betrokkenheidsresultaten van je team staan nu in het dashboard. De totaalscore is stabiel, maar het subteam Productie daalde op 'ondersteuning door leidinggevende'. Log in voor de volledige uitsplitsing per vraag en team."
+        }
+      ],
+      "meetings": [
+        {
+          "id": "HR02-W1",
+          "title": "Wekelijkse HR-leiderschapssync",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Mon",
+          "dayOfMonth": null,
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-W2",
+          "title": "BP-teamstandup",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Tue",
+          "dayOfMonth": null,
+          "startTime": "09:30",
+          "endTime": "10:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            },
+            {
+              "name": "Noor",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Sophie",
+              "photo": "face_02.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M1",
+          "title": "Betrokkenheidsworkshop",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 2,
+          "startTime": "11:00",
+          "endTime": "12:30",
+          "location": "Zaal Delft",
+          "attendees": [
+            {
+              "name": "Lukas",
+              "photo": "face_18.jpg"
+            },
+            {
+              "name": "Sophie",
+              "photo": "face_02.jpg"
+            },
+            {
+              "name": "Sanne",
+              "photo": "face_17.jpg"
+            },
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M2",
+          "title": "Onboarding-buddyoverleg",
+          "type": "sync",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 7,
+          "startTime": "09:30",
+          "endTime": "10:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            },
+            {
+              "name": "Noor",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M3",
+          "title": "Manager 1-op-1 — Verkoop",
+          "type": "1:1",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 10,
+          "startTime": "14:00",
+          "endTime": "14:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Anne",
+              "photo": "face_01.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M4",
+          "title": "Klachtenhoorzitting",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 11,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "location": "Zaal Maas",
+          "attendees": [
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M5",
+          "title": "Personeelsplanning — Verkoop",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 13,
+          "startTime": "14:00",
+          "endTime": "15:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Daan",
+              "photo": "face_16.jpg"
+            },
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M6",
+          "title": "Exitgesprek",
+          "type": "interview",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 16,
+          "startTime": "15:00",
+          "endTime": "15:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Lukas",
+              "photo": "face_18.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M7",
+          "title": "Workshop organisatieontwerp",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 19,
+          "startTime": "13:00",
+          "endTime": "14:30",
+          "location": "Zaal Delft",
+          "attendees": [
+            {
+              "name": "Sanne",
+              "photo": "face_17.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            },
+            {
+              "name": "Bram",
+              "photo": "face_08.jpg"
+            },
+            {
+              "name": "Anne",
+              "photo": "face_01.jpg"
+            },
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M8",
+          "title": "Review functiehuis",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 20,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "location": "Zaal Delft",
+          "attendees": [
+            {
+              "name": "Noor",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Bram",
+              "photo": "face_08.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M9",
+          "title": "Welzijnsinitiatief",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 21,
+          "startTime": "15:00",
+          "endTime": "15:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Sanne",
+              "photo": "face_17.jpg"
+            },
+            {
+              "name": "Nadia",
+              "photo": "face_07.jpg"
+            },
+            {
+              "name": "Anne",
+              "photo": "face_01.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M10",
+          "title": "Beoordelingskalibratie",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 23,
+          "startTime": "10:30",
+          "endTime": "12:00",
+          "location": "Zaal Aurora",
+          "attendees": [
+            {
+              "name": "Lukas",
+              "photo": "face_18.jpg"
+            },
+            {
+              "name": "Anne",
+              "photo": "face_01.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M11",
+          "title": "Talentreview — Verkoop",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 24,
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "location": "Zaal Aurora",
+          "attendees": [
+            {
+              "name": "Sophie",
+              "photo": "face_02.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR02-M12",
+          "title": "Manager 1-op-1 — Productie",
+          "type": "1:1",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 25,
+          "startTime": "13:30",
+          "endTime": "14:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Lars",
+              "photo": "face_13.jpg"
+            }
+          ]
+        }
+      ],
+      "activity": {
+        "Mon": [
+          "Email",
+          "Meeting",
+          "Meeting",
+          "Meeting",
+          "Break",
+          "Email",
+          "Meeting",
+          "Project",
+          "Meeting"
+        ],
+        "Tue": [
+          "Email",
+          "Meeting",
+          "Meeting",
+          "Email",
+          "Break",
+          "Focus",
+          "Email",
+          "Focus",
+          "Project"
+        ],
+        "Wed": [
+          "Email",
+          "Email",
+          "Focus",
+          "Meeting",
+          "Break",
+          "Project",
+          "Project",
+          "Meeting",
+          "Project"
+        ],
+        "Thu": [
+          "Meeting",
+          "Focus",
+          "Email",
+          "Project",
+          "Break",
+          "Email",
+          "Focus",
+          "Meeting",
+          "Email"
+        ],
+        "Fri": [
+          "Project",
+          "Meeting",
+          "Meeting",
+          "Focus",
+          "Break",
+          "Focus",
+          "Meeting",
+          "Email",
+          "Meeting"
+        ]
+      },
+      "workWeek": [
+        {
+          "day": "Mon",
+          "mode": "Office"
+        },
+        {
+          "day": "Tue",
+          "mode": "Hybrid"
+        },
+        {
+          "day": "Wed",
+          "mode": "Office"
+        },
+        {
+          "day": "Thu",
+          "mode": "Remote"
+        },
+        {
+          "day": "Fri",
+          "mode": "Office"
+        }
+      ],
+      "loggedTodayMinutes": 146,
+      "weekProgress": [
+        {
+          "day": "Sun",
+          "start": null,
+          "minutes": 0
+        },
+        {
+          "day": "Mon",
+          "start": "08:40",
+          "minutes": 300
+        },
+        {
+          "day": "Tue",
+          "start": "09:30",
+          "minutes": 210
+        },
+        {
+          "day": "Wed",
+          "start": "09:00",
+          "minutes": 265
+        },
+        {
+          "day": "Thu",
+          "start": "10:15",
+          "minutes": 150
+        },
+        {
+          "day": "Fri",
+          "start": "09:20",
+          "minutes": 190
+        },
+        {
+          "day": "Sat",
+          "start": null,
+          "minutes": 0
+        }
+      ]
+    },
+    {
+      "id": "HR03",
+      "name": "Aisha Khan",
+      "role": "Recruiter",
+      "age": 29,
+      "startDate": "2021-09-01",
+      "email": "aisha.khan@meridiangroup.com",
+      "location": "Rotterdam",
+      "photo": "face_11.jpg",
+      "tasks": [
+        {
+          "id": "HR03-T01",
+          "title": "Gesprekken plannen",
+          "category": "Werving",
+          "priority": "High",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "Laatste gesprekken plannen voor Data-analist"
+        },
+        {
+          "id": "HR03-T02",
+          "title": "Aanbod versturen",
+          "category": "Werving",
+          "priority": "High",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "Aanbod versturen aan kandidaat Productiemedewerker"
+        },
+        {
+          "id": "HR03-T03",
+          "title": "Tracker bijwerken",
+          "category": "Werving",
+          "priority": "Medium",
+          "dueOffsetDays": 1,
+          "status": "Open",
+          "description": "Kandidatenoverzicht bijwerken (12 nieuwe sollicitaties)"
+        },
+        {
+          "id": "HR03-T04",
+          "title": "Pijplijn-update",
+          "category": "Rapportage",
+          "priority": "Medium",
+          "dueOffsetDays": 1,
+          "status": "Open",
+          "description": "Wervingspijplijn-update voor Sanne voorbereiden"
+        },
+        {
+          "id": "HR03-T05",
+          "title": "Referenties checken",
+          "category": "Screening",
+          "priority": "Medium",
+          "dueOffsetDays": 2,
+          "status": "Open",
+          "description": "Referenties checken voor 2 finalisten"
+        },
+        {
+          "id": "HR03-T06",
+          "title": "3 vacatures plaatsen",
+          "category": "Sourcing",
+          "priority": "Low",
+          "dueOffsetDays": -1,
+          "status": "Done",
+          "description": "3 vacatures plaatsen op vacaturesites"
+        }
+      ],
+      "emails": [
+        {
+          "id": "HR03-E01",
+          "senderName": "Nadia el Amrani",
+          "senderEmail": "n.elamrani@gmail.com",
+          "subject": "Re: Data-analist — beschikbaarheid gesprek",
+          "preview": "Ik kan donderdagmiddag of vrijdagochtend.",
+          "receivedMinutesAgo": 15,
+          "unread": true,
+          "body": "Hoi Aisha, bedankt voor de update — ik ben echt enthousiast over de functie. Ik kan donderdagmiddag of vrijdagochtend voor de laatste ronde. Laat weten wat het panel uitkomt, dan maak ik het mogelijk."
+        },
+        {
+          "id": "HR03-E02",
+          "senderName": "Lisa Wong",
+          "senderEmail": "lisa.wong@meridiangroep.nl",
+          "subject": "Feedback op shortlist",
+          "preview": "Laten we verdergaan met kandidaat 1 en 3.",
+          "receivedMinutesAgo": 75,
+          "unread": true,
+          "body": "Hoi Aisha, ik heb de drie cv's voor de functie Data-analist bekeken. Laten we verdergaan met kandidaat 1 en 3 — beiden hebben de diepgang in SQL en dashboarding die we nodig hebben. Kandidaat 2 was sterk, maar paste minder goed in het team. Kunnen we ze deze week uitnodigen?"
+        },
+        {
+          "id": "HR03-E03",
+          "senderName": "LinkedIn",
+          "senderEmail": "notifications@linkedin.com",
+          "subject": "5 nieuwe sollicitanten voor je vacature",
+          "preview": "Nieuwe sollicitanten voor Productiemedewerker I.",
+          "receivedMinutesAgo": 200,
+          "unread": false,
+          "body": "Je hebt 5 nieuwe sollicitanten voor je vacature 'Productiemedewerker I'. Twee voldoen aan meer dan 80% van je criteria. Bekijk en reageer snel om kandidaten betrokken te houden."
+        },
+        {
+          "id": "HR03-E04",
+          "senderName": "Sanne de Vries",
+          "senderEmail": "sanne.devries@meridiangroep.nl",
+          "subject": "Pijplijn-update voor 1-op-1 donderdag",
+          "preview": "Kun je de time-to-fill-cijfers meenemen naar onze 1-op-1?",
+          "receivedMinutesAgo": 600,
+          "unread": false,
+          "body": "Aisha, ik kijk uit naar onze 1-op-1 op donderdag. Kun je de laatste time-to-fill-cijfers meenemen en de status van de twee senior functies? Het bestuur zal vragen naar de wervingssnelheid en ik wil dat we op één lijn zitten."
+        }
+      ],
+      "meetings": [
+        {
+          "id": "HR03-W1",
+          "title": "Wervingsoverleg",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Wed",
+          "dayOfMonth": null,
+          "startTime": "09:30",
+          "endTime": "10:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Sophie",
+              "photo": "face_02.jpg"
+            },
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            },
+            {
+              "name": "Sven",
+              "photo": "face_11.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-W2",
+          "title": "Wervingsstandup",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Fri",
+          "dayOfMonth": null,
+          "startTime": "13:00",
+          "endTime": "13:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Sanne",
+              "photo": "face_17.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M1",
+          "title": "Voorbereiding banenbeurs",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 4,
+          "startTime": "13:00",
+          "endTime": "14:00",
+          "location": "Zaal Delft",
+          "attendees": [
+            {
+              "name": "Nadia",
+              "photo": "face_07.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            },
+            {
+              "name": "Noor",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M2",
+          "title": "Intake — Financiële functie",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 6,
+          "startTime": "11:00",
+          "endTime": "11:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M3",
+          "title": "Sollicitatiegesprek — Data-analist",
+          "type": "interview",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 7,
+          "startTime": "14:00",
+          "endTime": "14:45",
+          "location": "Zaal Maas",
+          "attendees": [
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M4",
+          "title": "Aanbod beoordelen",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 8,
+          "startTime": "16:00",
+          "endTime": "16:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Lars",
+              "photo": "face_13.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M5",
+          "title": "Pijplijnreview met Sanne",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 11,
+          "startTime": "10:00",
+          "endTime": "10:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Bram",
+              "photo": "face_08.jpg"
+            },
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M6",
+          "title": "Overleg hiring manager — Engineering",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 12,
+          "startTime": "15:00",
+          "endTime": "15:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Daan",
+              "photo": "face_16.jpg"
+            },
+            {
+              "name": "Lukas",
+              "photo": "face_18.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M7",
+          "title": "Sollicitatiegesprek — Productiemedewerker",
+          "type": "interview",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 14,
+          "startTime": "10:00",
+          "endTime": "10:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M8",
+          "title": "Sourcingstrategie",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 15,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "location": "Zaal Delft",
+          "attendees": [
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            },
+            {
+              "name": "Noor",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            },
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M9",
+          "title": "Panelgesprek — Manager",
+          "type": "interview",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 16,
+          "startTime": "13:30",
+          "endTime": "15:00",
+          "location": "Zaal Aurora",
+          "attendees": [
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            },
+            {
+              "name": "Sophie",
+              "photo": "face_02.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M10",
+          "title": "Blok referentiegesprekken",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 19,
+          "startTime": "09:30",
+          "endTime": "10:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Sven",
+              "photo": "face_11.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M11",
+          "title": "Sollicitatiegesprek — Sales Lead",
+          "type": "interview",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 20,
+          "startTime": "11:00",
+          "endTime": "11:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Sven",
+              "photo": "face_11.jpg"
+            },
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR03-M12",
+          "title": "Bureau-evaluatie",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 21,
+          "startTime": "14:00",
+          "endTime": "14:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Emma",
+              "photo": "face_19.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            }
+          ]
+        }
+      ],
+      "activity": {
+        "Mon": [
+          "Email",
+          "Email",
+          "Admin",
+          "Admin",
+          "Break",
+          "Meeting",
+          "Meeting",
+          "Project",
+          "Meeting"
+        ],
+        "Tue": [
+          "Email",
+          "Email",
+          "Admin",
+          "Meeting",
+          "Break",
+          "Focus",
+          "Admin",
+          "Email",
+          "Admin"
+        ],
+        "Wed": [
+          "Email",
+          "Focus",
+          "Project",
+          "Meeting",
+          "Break",
+          "Email",
+          "Email",
+          "Admin",
+          "Email"
+        ],
+        "Thu": [
+          "Email",
+          "Meeting",
+          "Admin",
+          "Project",
+          "Break",
+          "Email",
+          "Meeting",
+          "Email",
+          "Admin"
+        ],
+        "Fri": [
+          "Meeting",
+          "Meeting",
+          "Focus",
+          "Focus",
+          "Break",
+          "Meeting",
+          "Meeting",
+          "Meeting",
+          "Email"
+        ]
+      },
+      "workWeek": [
+        {
+          "day": "Mon",
+          "mode": "Office"
+        },
+        {
+          "day": "Tue",
+          "mode": "Office"
+        },
+        {
+          "day": "Wed",
+          "mode": "Office"
+        },
+        {
+          "day": "Thu",
+          "mode": "Office"
+        },
+        {
+          "day": "Fri",
+          "mode": "Remote"
+        }
+      ],
+      "loggedTodayMinutes": 205,
+      "weekProgress": [
+        {
+          "day": "Sun",
+          "start": null,
+          "minutes": 0
+        },
+        {
+          "day": "Mon",
+          "start": "09:00",
+          "minutes": 180
+        },
+        {
+          "day": "Tue",
+          "start": "09:45",
+          "minutes": 235
+        },
+        {
+          "day": "Wed",
+          "start": "08:50",
+          "minutes": 295
+        },
+        {
+          "day": "Thu",
+          "start": "09:10",
+          "minutes": 200
+        },
+        {
+          "day": "Fri",
+          "start": "10:00",
+          "minutes": 160
+        },
+        {
+          "day": "Sat",
+          "start": null,
+          "minutes": 0
+        }
+      ]
+    },
+    {
+      "id": "HR04",
+      "name": "Lukas Meyer",
+      "role": "L&D-specialist",
+      "age": 34,
+      "startDate": "2019-02-18",
+      "email": "lukas.meyer@meridiangroup.com",
+      "location": "Utrecht",
+      "photo": "face_14.jpg",
+      "tasks": [
+        {
+          "id": "HR04-T01",
+          "title": "Opleidingsplan afronden",
+          "category": "Planning",
+          "priority": "High",
+          "dueOffsetDays": -1,
+          "status": "Done",
+          "description": "Opleidingsplan 2026 afronden"
+        },
+        {
+          "id": "HR04-T02",
+          "title": "Trainer boeken",
+          "category": "Logistiek",
+          "priority": "High",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "Trainer boeken voor leiderschapscohort"
+        },
+        {
+          "id": "HR04-T03",
+          "title": "Afronding bekijken",
+          "category": "Rapportage",
+          "priority": "Medium",
+          "dueOffsetDays": 1,
+          "status": "Open",
+          "description": "Afrondingspercentages Klantenservice beoordelen"
+        },
+        {
+          "id": "HR04-T04",
+          "title": "E-learning bijwerken",
+          "category": "Content",
+          "priority": "Medium",
+          "dueOffsetDays": 3,
+          "status": "Open",
+          "description": "E-learning-content voor onboarding bijwerken"
+        },
+        {
+          "id": "HR04-T05",
+          "title": "Trainingen opvolgen",
+          "category": "Compliance",
+          "priority": "High",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "14 openstaande verplichte trainingen opvolgen"
+        },
+        {
+          "id": "HR04-T06",
+          "title": "Impact-slide maken",
+          "category": "Rapportage",
+          "priority": "Medium",
+          "dueOffsetDays": 2,
+          "status": "Open",
+          "description": "Slide opleidingsimpact voor bestuur voorbereiden"
+        }
+      ],
+      "emails": [
+        {
+          "id": "HR04-E01",
+          "senderName": "Sanne de Vries",
+          "senderEmail": "sanne.devries@meridiangroep.nl",
+          "subject": "Re: Opleidingsplan 2026",
+          "preview": "Vandaag goedgekeurd. Voeg afrondingsdoelen toe aan de bestuursslide.",
+          "receivedMinutesAgo": 50,
+          "unread": true,
+          "body": "Ziet er goed uit, Lukas — ik keur het vandaag goed. Eén verzoek: voeg de afrondingsdoelen toe aan de bestuursslide, zodat de leiding de link tussen opleidingsbudget en resultaten ziet. Goed werk om dit samen te brengen."
+        },
+        {
+          "id": "HR04-E02",
+          "senderName": "SkillForge",
+          "senderEmail": "accounts@skillforge.com",
+          "subject": "Factuur & bevestiging cohort juni",
+          "preview": "Bevestiging van je leiderschapscohort voor volgende maand.",
+          "receivedMinutesAgo": 180,
+          "unread": false,
+          "body": "Beste Lukas, hierbij bevestigen we je leiderschapscohort voor volgende maand (12 deelnemers). De factuur zit in de bijlage en heeft een betaaltermijn van 30 dagen. Bevestig de definitieve deelnemerslijst graag een week vóór de startdatum."
+        },
+        {
+          "id": "HR04-E03",
+          "senderName": "LMS-systeem",
+          "senderEmail": "noreply@lms.meridiangroup.com",
+          "subject": "14 medewerkers met achterstallige verplichte training",
+          "preview": "De volgende medewerkers hebben verplichte modules niet afgerond.",
+          "receivedMinutesAgo": 720,
+          "unread": true,
+          "body": "Automatisch bericht: 14 medewerkers hebben hun verplichte trainingsmodules niet vóór de deadline afgerond. De lijst zit in de bijlage en leidinggevenden staan in de cc. Volg dit op om compliance vóór het kwartaaleinde te borgen."
+        },
+        {
+          "id": "HR04-E04",
+          "senderName": "Emma Bakker",
+          "senderEmail": "emma.bakker@meridiangroep.nl",
+          "subject": "Afstemming opleidingskosten Q2",
+          "preview": "De afstemming opleidingskosten vs budget zit in de bijlage.",
+          "receivedMinutesAgo": 1300,
+          "unread": false,
+          "body": "Hoi Lukas, de afstemming opleidingskosten vs budget over Q2 zit in de bijlage. We zitten totaal iets onder budget, maar de regel externe leveranciers is over — waarschijnlijk de SkillForge-factuur. Kun je de codering bevestigen, zodat ik het kwartaal kan afsluiten?"
+        }
+      ],
+      "meetings": [
+        {
+          "id": "HR04-W1",
+          "title": "Wekelijkse HR-leiderschapssync",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Mon",
+          "dayOfMonth": null,
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Sanne",
+              "photo": "face_17.jpg"
+            },
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-W2",
+          "title": "L&D-check-in",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Thu",
+          "dayOfMonth": null,
+          "startTime": "11:00",
+          "endTime": "11:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            },
+            {
+              "name": "Bram",
+              "photo": "face_08.jpg"
+            },
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M1",
+          "title": "Trainersbriefing",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 2,
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "location": "Zaal Delft",
+          "attendees": [
+            {
+              "name": "Lars",
+              "photo": "face_13.jpg"
+            },
+            {
+              "name": "Bram",
+              "photo": "face_08.jpg"
+            },
+            {
+              "name": "Nadia",
+              "photo": "face_07.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M2",
+          "title": "Vaardighedenworkshop",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 3,
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "location": "Zaal Delft",
+          "attendees": [
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            },
+            {
+              "name": "Lukas",
+              "photo": "face_18.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            },
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M3",
+          "title": "Curriculumplanning",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 4,
+          "startTime": "13:00",
+          "endTime": "14:30",
+          "location": "Zaal Delft",
+          "attendees": [
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            },
+            {
+              "name": "Nadia",
+              "photo": "face_07.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Bram",
+              "photo": "face_08.jpg"
+            },
+            {
+              "name": "Lukas",
+              "photo": "face_18.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M4",
+          "title": "Leveranciersdemo — SkillForge",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 7,
+          "startTime": "15:00",
+          "endTime": "15:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Lukas",
+              "photo": "face_18.jpg"
+            },
+            {
+              "name": "Anne",
+              "photo": "face_01.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M5",
+          "title": "E-learning bouwsessie",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 8,
+          "startTime": "13:00",
+          "endTime": "15:00",
+          "location": "Zaal Maas",
+          "attendees": [
+            {
+              "name": "Lukas",
+              "photo": "face_18.jpg"
+            },
+            {
+              "name": "Bram",
+              "photo": "face_08.jpg"
+            },
+            {
+              "name": "Noor",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M6",
+          "title": "Budgetafstemming",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 10,
+          "startTime": "14:00",
+          "endTime": "14:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            },
+            {
+              "name": "Anne",
+              "photo": "face_01.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M7",
+          "title": "Analyse opleidingsimpact",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 18,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M8",
+          "title": "Introductie nieuwe medewerkers",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 20,
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "location": "Zaal Aurora",
+          "attendees": [
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            },
+            {
+              "name": "Emma",
+              "photo": "face_19.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M9",
+          "title": "Review compliance-training",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 21,
+          "startTime": "11:00",
+          "endTime": "11:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M10",
+          "title": "Contentreview — onboarding",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 22,
+          "startTime": "14:00",
+          "endTime": "15:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M11",
+          "title": "Sessie cohort 2",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 24,
+          "startTime": "09:30",
+          "endTime": "11:30",
+          "location": "Zaal Aurora",
+          "attendees": [
+            {
+              "name": "Sophie",
+              "photo": "face_02.jpg"
+            },
+            {
+              "name": "Sven",
+              "photo": "face_11.jpg"
+            },
+            {
+              "name": "Sanne",
+              "photo": "face_17.jpg"
+            },
+            {
+              "name": "Noor",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR04-M12",
+          "title": "Kick-off leiderschapscohort",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 27,
+          "startTime": "09:30",
+          "endTime": "11:00",
+          "location": "Zaal Aurora",
+          "attendees": [
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            },
+            {
+              "name": "Lisa",
+              "photo": "face_05.jpg"
+            },
+            {
+              "name": "Emma",
+              "photo": "face_19.jpg"
+            },
+            {
+              "name": "Sven",
+              "photo": "face_11.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            }
+          ]
+        }
+      ],
+      "activity": {
+        "Mon": [
+          "Focus",
+          "Project",
+          "Email",
+          "Email",
+          "Break",
+          "Focus",
+          "Meeting",
+          "Focus",
+          "Focus"
+        ],
+        "Tue": [
+          "Meeting",
+          "Project",
+          "Meeting",
+          "Meeting",
+          "Break",
+          "Meeting",
+          "Email",
+          "Meeting",
+          "Meeting"
+        ],
+        "Wed": [
+          "Focus",
+          "Email",
+          "Focus",
+          "Meeting",
+          "Break",
+          "Project",
+          "Project",
+          "Focus",
+          "Project"
+        ],
+        "Thu": [
+          "Meeting",
+          "Meeting",
+          "Project",
+          "Focus",
+          "Break",
+          "Focus",
+          "Project",
+          "Focus",
+          "Focus"
+        ],
+        "Fri": [
+          "Meeting",
+          "Meeting",
+          "Admin",
+          "Meeting",
+          "Break",
+          "Project",
+          "Focus",
+          "Project",
+          "Focus"
+        ]
+      },
+      "workWeek": [
+        {
+          "day": "Mon",
+          "mode": "Remote"
+        },
+        {
+          "day": "Tue",
+          "mode": "Office"
+        },
+        {
+          "day": "Wed",
+          "mode": "Hybrid"
+        },
+        {
+          "day": "Thu",
+          "mode": "Office"
+        },
+        {
+          "day": "Fri",
+          "mode": "Remote"
+        }
+      ],
+      "loggedTodayMinutes": 124,
+      "weekProgress": [
+        {
+          "day": "Sun",
+          "start": null,
+          "minutes": 0
+        },
+        {
+          "day": "Mon",
+          "start": "09:15",
+          "minutes": 250
+        },
+        {
+          "day": "Tue",
+          "start": "08:30",
+          "minutes": 315
+        },
+        {
+          "day": "Wed",
+          "start": "09:40",
+          "minutes": 175
+        },
+        {
+          "day": "Thu",
+          "start": "09:00",
+          "minutes": 220
+        },
+        {
+          "day": "Fri",
+          "start": "09:30",
+          "minutes": 205
+        },
+        {
+          "day": "Sat",
+          "start": null,
+          "minutes": 0
+        }
+      ]
+    },
+    {
+      "id": "HR05",
+      "name": "Emma Bakker",
+      "role": "HR-operations & payroll",
+      "age": 45,
+      "startDate": "2013-11-04",
+      "email": "emma.bakker@meridiangroup.com",
+      "location": "Den Haag",
+      "photo": "face_18.jpg",
+      "tasks": [
+        {
+          "id": "HR05-T01",
+          "title": "Salarisrun",
+          "category": "Payroll",
+          "priority": "High",
+          "dueOffsetDays": 1,
+          "status": "Open",
+          "description": "Salarisrun juni uitvoeren"
+        },
+        {
+          "id": "HR05-T02",
+          "title": "Kosten afstemmen",
+          "category": "Financiën",
+          "priority": "Medium",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "Opleidingskosten vs budget Q2 afstemmen"
+        },
+        {
+          "id": "HR05-T03",
+          "title": "Onboardingpakketten",
+          "category": "Onboarding",
+          "priority": "High",
+          "dueOffsetDays": 0,
+          "status": "Open",
+          "description": "4 onboardingpakketten nieuwe medewerkers verwerken"
+        },
+        {
+          "id": "HR05-T04",
+          "title": "Bestand bijwerken",
+          "category": "Data",
+          "priority": "Medium",
+          "dueOffsetDays": -1,
+          "status": "Done",
+          "description": "Personeelsbestand bijwerken"
+        },
+        {
+          "id": "HR05-T05",
+          "title": "Pensioen verifiëren",
+          "category": "Compliance",
+          "priority": "High",
+          "dueOffsetDays": 2,
+          "status": "Open",
+          "description": "Pensioenbijdragen verifiëren"
+        },
+        {
+          "id": "HR05-T06",
+          "title": "Documenten archiveren",
+          "category": "Compliance",
+          "priority": "Low",
+          "dueOffsetDays": 3,
+          "status": "Open",
+          "description": "Uitdienstdocumenten Q2 archiveren"
+        }
+      ],
+      "emails": [
+        {
+          "id": "HR05-E01",
+          "senderName": "Loonservice",
+          "senderEmail": "support@loonservice.nl",
+          "subject": "Herinnering deadline salaris juni",
+          "preview": "Lever wijzigingen aan vóór donderdag 17:00.",
+          "receivedMinutesAgo": 40,
+          "unread": true,
+          "body": "Herinnering: de deadline voor salariswijzigingen van juni is donderdag om 17:00. Lever alle nieuwe medewerkers, vertrekkers en salarisaanpassingen vóór dat moment aan. Alles wat later binnenkomt, schuift door naar de run van juli."
+        },
+        {
+          "id": "HR05-E02",
+          "senderName": "Daan Jansen",
+          "senderEmail": "daan.jansen@meridiangroep.nl",
+          "subject": "Nieuwe medewerkers juli — gegevens in bijlage",
+          "preview": "Hierbij de 4 nieuwe contracten voor onboarding.",
+          "receivedMinutesAgo": 110,
+          "unread": true,
+          "body": "Hoi Emma, in de bijlage de vier getekende contracten voor onboarding in juli — twee Productie, één Verkoop, één Financiën. Kun je hun salaris en systeemtoegang inrichten? Startdatum is de 1e voor alle vier."
+        },
+        {
+          "id": "HR05-E03",
+          "senderName": "Lukas Meyer",
+          "senderEmail": "lukas.meyer@meridiangroep.nl",
+          "subject": "Re: Afstemming opleidingskosten Q2",
+          "preview": "De SkillForge-factuur hoort op L&D geboekt te worden.",
+          "receivedMinutesAgo": 260,
+          "unread": false,
+          "body": "Bedankt Emma — de SkillForge-factuur hoort op de regel L&D externe leveranciers, niet op algemene training. Dat verklaart de overschrijding. Laat weten of je nog iets nodig hebt om Q2 af te sluiten."
+        },
+        {
+          "id": "HR05-E04",
+          "senderName": "Pensioenfonds",
+          "senderEmail": "noreply@pensioenfonds.nl",
+          "subject": "Bijdrageoverzicht Q2",
+          "preview": "Je kwartaaloverzicht van de bijdragen is beschikbaar.",
+          "receivedMinutesAgo": 900,
+          "unread": false,
+          "body": "Je kwartaaloverzicht van de pensioenbijdragen is nu beschikbaar. De totale bijdragen en eventuele aanpassingen staan in het bijgevoegde document. Controleer en bevestig graag vóór de 30e."
+        }
+      ],
+      "meetings": [
+        {
+          "id": "HR05-W1",
+          "title": "Wekelijkse HR-leiderschapssync",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Mon",
+          "dayOfMonth": null,
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Sven",
+              "photo": "face_11.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            },
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-W2",
+          "title": "Operations-afsluiting",
+          "type": "sync",
+          "recurrence": "weekly",
+          "dayOfWeek": "Fri",
+          "dayOfMonth": null,
+          "startTime": "15:00",
+          "endTime": "15:30",
+          "location": "Zaal Maas",
+          "attendees": [
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M1",
+          "title": "Auditvoorbereiding",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 2,
+          "startTime": "14:00",
+          "endTime": "15:00",
+          "location": "Zaal Delft",
+          "attendees": [
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M2",
+          "title": "Workshop procesverbetering",
+          "type": "workshop",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 4,
+          "startTime": "13:00",
+          "endTime": "14:30",
+          "location": "Zaal Delft",
+          "attendees": [
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            },
+            {
+              "name": "Aisha",
+              "photo": "face_20.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            },
+            {
+              "name": "Sophie",
+              "photo": "face_02.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M3",
+          "title": "Pensioenafstemming",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 6,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            },
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M4",
+          "title": "Salarisverwerking",
+          "type": "deadline",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 8,
+          "startTime": "09:00",
+          "endTime": "11:00",
+          "location": "Teams",
+          "attendees": []
+        },
+        {
+          "id": "HR05-M5",
+          "title": "Offboarding verwerken",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 10,
+          "startTime": "11:00",
+          "endTime": "11:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            },
+            {
+              "name": "Noor",
+              "photo": "face_10.jpg"
+            },
+            {
+              "name": "Maud",
+              "photo": "face_14.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M6",
+          "title": "Contractverlengingen",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 12,
+          "startTime": "15:00",
+          "endTime": "15:45",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Sophie",
+              "photo": "face_02.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M7",
+          "title": "Review secundaire voorwaarden",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 19,
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "location": "Zaal Maas",
+          "attendees": [
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            },
+            {
+              "name": "Rick",
+              "photo": "face_03.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M8",
+          "title": "Compliancecontrole",
+          "type": "review",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 20,
+          "startTime": "10:00",
+          "endTime": "10:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Nadia",
+              "photo": "face_07.jpg"
+            },
+            {
+              "name": "Tess",
+              "photo": "face_15.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M9",
+          "title": "Inrichten nieuwe medewerkers",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 21,
+          "startTime": "09:30",
+          "endTime": "10:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Emma",
+              "photo": "face_19.jpg"
+            },
+            {
+              "name": "Tom",
+              "photo": "face_04.jpg"
+            },
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M10",
+          "title": "Onboarding-administratieblok",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 22,
+          "startTime": "13:00",
+          "endTime": "14:30",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Daan",
+              "photo": "face_16.jpg"
+            },
+            {
+              "name": "Lukas",
+              "photo": "face_18.jpg"
+            },
+            {
+              "name": "Eva",
+              "photo": "face_09.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M11",
+          "title": "HRIS-dataopschoning",
+          "type": "meeting",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 26,
+          "startTime": "13:30",
+          "endTime": "15:00",
+          "location": "Teams",
+          "attendees": [
+            {
+              "name": "Mark",
+              "photo": "face_06.jpg"
+            },
+            {
+              "name": "Iris",
+              "photo": "face_12.jpg"
+            },
+            {
+              "name": "Lukas",
+              "photo": "face_18.jpg"
+            }
+          ]
+        },
+        {
+          "id": "HR05-M12",
+          "title": "Controle salarisdeadline",
+          "type": "deadline",
+          "recurrence": "monthly",
+          "dayOfWeek": null,
+          "dayOfMonth": 27,
+          "startTime": "10:00",
+          "endTime": "10:30",
+          "location": "Teams",
+          "attendees": []
+        }
+      ],
+      "activity": {
+        "Mon": [
+          "Email",
+          "Email",
+          "Email",
+          "Project",
+          "Break",
+          "Admin",
+          "Focus",
+          "Email",
+          "Admin"
+        ],
+        "Tue": [
+          "Meeting",
+          "Email",
+          "Email",
+          "Focus",
+          "Break",
+          "Focus",
+          "Admin",
+          "Meeting",
+          "Project"
+        ],
+        "Wed": [
+          "Admin",
+          "Email",
+          "Email",
+          "Project",
+          "Break",
+          "Admin",
+          "Meeting",
+          "Meeting",
+          "Focus"
+        ],
+        "Thu": [
+          "Meeting",
+          "Meeting",
+          "Project",
+          "Meeting",
+          "Break",
+          "Project",
+          "Admin",
+          "Email",
+          "Project"
+        ],
+        "Fri": [
+          "Email",
+          "Email",
+          "Email",
+          "Meeting",
+          "Break",
+          "Email",
+          "Focus",
+          "Focus",
+          "Project"
+        ]
+      },
+      "workWeek": [
+        {
+          "day": "Mon",
+          "mode": "Office"
+        },
+        {
+          "day": "Tue",
+          "mode": "Office"
+        },
+        {
+          "day": "Wed",
+          "mode": "Remote"
+        },
+        {
+          "day": "Thu",
+          "mode": "Office"
+        },
+        {
+          "day": "Fri",
+          "mode": "Hybrid"
+        }
+      ],
+      "loggedTodayMinutes": 167,
+      "weekProgress": [
+        {
+          "day": "Sun",
+          "start": null,
+          "minutes": 0
+        },
+        {
+          "day": "Mon",
+          "start": "08:45",
+          "minutes": 230
+        },
+        {
+          "day": "Tue",
+          "start": "09:20",
+          "minutes": 195
+        },
+        {
+          "day": "Wed",
+          "start": "09:00",
+          "minutes": 260
+        },
+        {
+          "day": "Thu",
+          "start": "09:50",
+          "minutes": 300
+        },
+        {
+          "day": "Fri",
+          "start": "09:10",
+          "minutes": 165
+        },
+        {
+          "day": "Sat",
+          "start": null,
+          "minutes": 0
+        }
+      ]
+    }
+  ]
+}

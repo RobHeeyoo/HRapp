@@ -1,0 +1,71 @@
+hr_id,afspraak_id,Titel,Type,Herhaling,Weekdag,Maanddag,Begintijd,Eindtijd,Locatie,Deelnemers,DeelnemerFotos
+HR01,HR01-W1,Wekelijkse HR-leiderschapssync,sync,weekly,Mon,,09:00,09:30,Teams,Sanne;Maud;Iris,face_17.jpg;face_14.jpg;face_12.jpg
+HR01,HR01-W2,Spreekuur directeur,meeting,weekly,Thu,,16:00,16:30,Teams,Noor;Maud;Tom,face_10.jpg;face_14.jpg;face_04.jpg
+HR01,HR01-M1,Voorbereiding town hall,meeting,monthly,,3,13:00,13:45,Zaal Delft,Anne;Aisha;Daan,face_01.jpg;face_20.jpg;face_16.jpg
+HR01,HR01-M2,Bestuursvergadering,meeting,monthly,,5,14:00,15:30,Zaal Aurora,Iris;Eva;Maud,face_12.jpg;face_09.jpg;face_14.jpg
+HR01,HR01-M3,1-op-1 Daan,1:1,monthly,,6,10:00,10:30,Teams,Daan,face_16.jpg
+HR01,HR01-M4,Skip-level 1-op-1's,1:1,monthly,,7,15:00,16:00,Teams,Sven,face_11.jpg
+HR01,HR01-M5,Leveranciersreview — HRIS,review,monthly,,9,14:00,14:45,Teams,Tom;Tess,face_04.jpg;face_15.jpg
+HR01,HR01-M6,Diversiteitsraad,meeting,monthly,,12,10:00,11:00,Teams,Lars;Lisa;Daan,face_13.jpg;face_05.jpg;face_16.jpg
+HR01,HR01-M7,1-op-1 Aisha,1:1,monthly,,14,10:30,11:00,Teams,Aisha,face_20.jpg
+HR01,HR01-M8,Budgetreview Q3,review,monthly,,15,11:00,12:00,Zaal Delft,Rick;Eva,face_03.jpg;face_09.jpg
+HR01,HR01-M9,Beleid goedkeuren,deadline,monthly,,21,16:00,16:30,Teams,,
+HR01,HR01-M10,Opvolgingsplanning,workshop,monthly,,23,09:30,11:00,Zaal Aurora,Aisha;Rick;Iris;Sven;Anne,face_20.jpg;face_03.jpg;face_12.jpg;face_11.jpg;face_01.jpg
+HR01,HR01-M11,Kwartaalreview met CFO,review,monthly,,25,10:00,11:00,Zaal Aurora,Rick;Sanne,face_03.jpg;face_17.jpg
+HR01,HR01-M12,Review arbeidsvoorwaarden,review,monthly,,27,11:00,12:00,Zaal Delft,Eva;Bram,face_09.jpg;face_08.jpg
+HR02,HR02-W1,Wekelijkse HR-leiderschapssync,sync,weekly,Mon,,09:00,09:30,Teams,Rick;Eva;Maud,face_03.jpg;face_09.jpg;face_14.jpg
+HR02,HR02-W2,BP-teamstandup,sync,weekly,Tue,,09:30,10:00,Teams,Iris;Noor;Sophie,face_12.jpg;face_10.jpg;face_02.jpg
+HR02,HR02-M1,Betrokkenheidsworkshop,workshop,monthly,,2,11:00,12:30,Zaal Delft,Lukas;Sophie;Sanne;Tess;Maud,face_18.jpg;face_02.jpg;face_17.jpg;face_15.jpg;face_14.jpg
+HR02,HR02-M2,Onboarding-buddyoverleg,sync,monthly,,7,09:30,10:00,Teams,Tess;Noor;Tom,face_15.jpg;face_10.jpg;face_04.jpg
+HR02,HR02-M3,Manager 1-op-1 — Verkoop,1:1,monthly,,10,14:00,14:30,Teams,Anne,face_01.jpg
+HR02,HR02-M4,Klachtenhoorzitting,meeting,monthly,,11,10:00,11:00,Zaal Maas,Maud;Lisa;Rick,face_14.jpg;face_05.jpg;face_03.jpg
+HR02,HR02-M5,Personeelsplanning — Verkoop,meeting,monthly,,13,14:00,15:00,Teams,Daan;Iris;Maud,face_16.jpg;face_12.jpg;face_14.jpg
+HR02,HR02-M6,Exitgesprek,interview,monthly,,16,15:00,15:45,Teams,Rick;Lukas,face_03.jpg;face_18.jpg
+HR02,HR02-M7,Workshop organisatieontwerp,workshop,monthly,,19,13:00,14:30,Zaal Delft,Sanne;Aisha;Bram;Anne;Tess,face_17.jpg;face_20.jpg;face_08.jpg;face_01.jpg;face_15.jpg
+HR02,HR02-M8,Review functiehuis,review,monthly,,20,10:00,11:00,Zaal Delft,Noor;Bram,face_10.jpg;face_08.jpg
+HR02,HR02-M9,Welzijnsinitiatief,meeting,monthly,,21,15:00,15:30,Teams,Sanne;Nadia;Anne,face_17.jpg;face_07.jpg;face_01.jpg
+HR02,HR02-M10,Beoordelingskalibratie,review,monthly,,23,10:30,12:00,Zaal Aurora,Lukas;Anne,face_18.jpg;face_01.jpg
+HR02,HR02-M11,Talentreview — Verkoop,review,monthly,,24,11:00,12:00,Zaal Aurora,Sophie;Eva,face_02.jpg;face_09.jpg
+HR02,HR02-M12,Manager 1-op-1 — Productie,1:1,monthly,,25,13:30,14:00,Teams,Lars,face_13.jpg
+HR03,HR03-W1,Wervingsoverleg,sync,weekly,Wed,,09:30,10:00,Teams,Sophie;Mark;Sven,face_02.jpg;face_06.jpg;face_11.jpg
+HR03,HR03-W2,Wervingsstandup,sync,weekly,Fri,,13:00,13:30,Teams,Rick;Sanne;Maud,face_03.jpg;face_17.jpg;face_14.jpg
+HR03,HR03-M1,Voorbereiding banenbeurs,workshop,monthly,,4,13:00,14:00,Zaal Delft,Nadia;Rick;Aisha;Noor;Tom,face_07.jpg;face_03.jpg;face_20.jpg;face_10.jpg;face_04.jpg
+HR03,HR03-M2,Intake — Financiële functie,meeting,monthly,,6,11:00,11:45,Teams,Mark;Tom;Rick,face_06.jpg;face_04.jpg;face_03.jpg
+HR03,HR03-M3,Sollicitatiegesprek — Data-analist,interview,monthly,,7,14:00,14:45,Zaal Maas,Maud;Aisha,face_14.jpg;face_20.jpg
+HR03,HR03-M4,Aanbod beoordelen,review,monthly,,8,16:00,16:30,Teams,Lars;Tom,face_13.jpg;face_04.jpg
+HR03,HR03-M5,Pijplijnreview met Sanne,review,monthly,,11,10:00,10:30,Teams,Bram;Lisa,face_08.jpg;face_05.jpg
+HR03,HR03-M6,Overleg hiring manager — Engineering,meeting,monthly,,12,15:00,15:30,Teams,Daan;Lukas;Rick,face_16.jpg;face_18.jpg;face_03.jpg
+HR03,HR03-M7,Sollicitatiegesprek — Productiemedewerker,interview,monthly,,14,10:00,10:45,Teams,Rick;Tom,face_03.jpg;face_04.jpg
+HR03,HR03-M8,Sourcingstrategie,workshop,monthly,,15,10:00,11:00,Zaal Delft,Lisa;Noor;Tom;Mark;Rick,face_05.jpg;face_10.jpg;face_04.jpg;face_06.jpg;face_03.jpg
+HR03,HR03-M9,Panelgesprek — Manager,interview,monthly,,16,13:30,15:00,Zaal Aurora,Mark;Sophie,face_06.jpg;face_02.jpg
+HR03,HR03-M10,Blok referentiegesprekken,meeting,monthly,,19,09:30,10:30,Teams,Eva;Maud;Sven,face_09.jpg;face_14.jpg;face_11.jpg
+HR03,HR03-M11,Sollicitatiegesprek — Sales Lead,interview,monthly,,20,11:00,11:45,Teams,Sven;Lisa,face_11.jpg;face_05.jpg
+HR03,HR03-M12,Bureau-evaluatie,review,monthly,,21,14:00,14:30,Teams,Emma;Maud,face_19.jpg;face_14.jpg
+HR04,HR04-W1,Wekelijkse HR-leiderschapssync,sync,weekly,Mon,,09:00,09:30,Teams,Sanne;Lisa;Rick,face_17.jpg;face_05.jpg;face_03.jpg
+HR04,HR04-W2,L&D-check-in,sync,weekly,Thu,,11:00,11:30,Teams,Tess;Bram;Lisa,face_15.jpg;face_08.jpg;face_05.jpg
+HR04,HR04-M1,Trainersbriefing,meeting,monthly,,2,11:00,12:00,Zaal Delft,Lars;Bram;Nadia,face_13.jpg;face_08.jpg;face_07.jpg
+HR04,HR04-M2,Vaardighedenworkshop,workshop,monthly,,3,10:00,12:00,Zaal Delft,Lisa;Lukas;Aisha;Iris;Eva,face_05.jpg;face_18.jpg;face_20.jpg;face_12.jpg;face_09.jpg
+HR04,HR04-M3,Curriculumplanning,workshop,monthly,,4,13:00,14:30,Zaal Delft,Mark;Nadia;Maud;Bram;Lukas,face_06.jpg;face_07.jpg;face_14.jpg;face_08.jpg;face_18.jpg
+HR04,HR04-M4,Leveranciersdemo — SkillForge,meeting,monthly,,7,15:00,15:45,Teams,Lukas;Anne;Eva,face_18.jpg;face_01.jpg;face_09.jpg
+HR04,HR04-M5,E-learning bouwsessie,workshop,monthly,,8,13:00,15:00,Zaal Maas,Lukas;Bram;Noor;Mark;Eva,face_18.jpg;face_08.jpg;face_10.jpg;face_06.jpg;face_09.jpg
+HR04,HR04-M6,Budgetafstemming,review,monthly,,10,14:00,14:45,Teams,Lisa;Anne,face_05.jpg;face_01.jpg
+HR04,HR04-M7,Analyse opleidingsimpact,review,monthly,,18,10:00,11:00,Teams,Tess;Tom,face_15.jpg;face_04.jpg
+HR04,HR04-M8,Introductie nieuwe medewerkers,meeting,monthly,,20,09:00,10:00,Zaal Aurora,Maud;Tess;Emma,face_14.jpg;face_15.jpg;face_19.jpg
+HR04,HR04-M9,Review compliance-training,review,monthly,,21,11:00,11:45,Teams,Rick;Aisha,face_03.jpg;face_20.jpg
+HR04,HR04-M10,Contentreview — onboarding,review,monthly,,22,14:00,15:00,Teams,Maud;Eva,face_14.jpg;face_09.jpg
+HR04,HR04-M11,Sessie cohort 2,workshop,monthly,,24,09:30,11:30,Zaal Aurora,Sophie;Sven;Sanne;Noor;Lisa,face_02.jpg;face_11.jpg;face_17.jpg;face_10.jpg;face_05.jpg
+HR04,HR04-M12,Kick-off leiderschapscohort,workshop,monthly,,27,09:30,11:00,Zaal Aurora,Mark;Lisa;Emma;Sven;Rick,face_06.jpg;face_05.jpg;face_19.jpg;face_11.jpg;face_03.jpg
+HR05,HR05-W1,Wekelijkse HR-leiderschapssync,sync,weekly,Mon,,09:00,09:30,Teams,Sven;Eva;Iris,face_11.jpg;face_09.jpg;face_12.jpg
+HR05,HR05-W2,Operations-afsluiting,sync,weekly,Fri,,15:00,15:30,Zaal Maas,Maud;Eva;Aisha,face_14.jpg;face_09.jpg;face_20.jpg
+HR05,HR05-M1,Auditvoorbereiding,review,monthly,,2,14:00,15:00,Zaal Delft,Iris;Aisha,face_12.jpg;face_20.jpg
+HR05,HR05-M2,Workshop procesverbetering,workshop,monthly,,4,13:00,14:30,Zaal Delft,Maud;Aisha;Rick;Sophie;Eva,face_14.jpg;face_20.jpg;face_03.jpg;face_02.jpg;face_09.jpg
+HR05,HR05-M3,Pensioenafstemming,review,monthly,,6,10:00,11:00,Teams,Eva;Mark,face_09.jpg;face_06.jpg
+HR05,HR05-M4,Salarisverwerking,deadline,monthly,,8,09:00,11:00,Teams,,
+HR05,HR05-M5,Offboarding verwerken,meeting,monthly,,10,11:00,11:45,Teams,Iris;Noor;Maud,face_12.jpg;face_10.jpg;face_14.jpg
+HR05,HR05-M6,Contractverlengingen,review,monthly,,12,15:00,15:45,Teams,Sophie;Rick,face_02.jpg;face_03.jpg
+HR05,HR05-M7,Review secundaire voorwaarden,review,monthly,,19,11:00,12:00,Zaal Maas,Tess;Rick,face_15.jpg;face_03.jpg
+HR05,HR05-M8,Compliancecontrole,review,monthly,,20,10:00,10:30,Teams,Nadia;Tess,face_07.jpg;face_15.jpg
+HR05,HR05-M9,Inrichten nieuwe medewerkers,meeting,monthly,,21,09:30,10:30,Teams,Emma;Tom;Iris,face_19.jpg;face_04.jpg;face_12.jpg
+HR05,HR05-M10,Onboarding-administratieblok,meeting,monthly,,22,13:00,14:30,Teams,Daan;Lukas;Eva,face_16.jpg;face_18.jpg;face_09.jpg
+HR05,HR05-M11,HRIS-dataopschoning,meeting,monthly,,26,13:30,15:00,Teams,Mark;Iris;Lukas,face_06.jpg;face_12.jpg;face_18.jpg
+HR05,HR05-M12,Controle salarisdeadline,deadline,monthly,,27,10:00,10:30,Teams,,
