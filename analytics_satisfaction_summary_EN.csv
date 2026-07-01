@@ -1,4 +1,6 @@
 Metric,Value
-PctSatisfied(score>=4),74
-AvgScore,4.1
-StarRating,4.1/5
+PctHigh(satisfied),74
+PctAverage,21
+PctLow,5
+AvgScore(1-3),2.7
+Scale,"1-3 (1=low,2=average,3=high)"
