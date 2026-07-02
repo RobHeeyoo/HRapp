@@ -21,7 +21,7 @@
       "role": "HR Director",
       "age": 52,
       "startDate": "2009-03-02",
-      "email": "sarah.davies@meridiangroup.com",
+      "email": "sarah.davies@heeyoo.nl",
       "location": "London",
       "photo": "face_03.jpg",
       "tasks": [
@@ -84,7 +84,7 @@
         {
           "id": "HR01-E01",
           "senderName": "Mark Wilson",
-          "senderEmail": "mark.visser@meridiangroup.com",
+          "senderEmail": "mark.visser@heeyoo.nl",
           "subject": "Re: Q2 headcount & cost forecast",
           "preview": "Can you confirm the contractor-to-FTE ratio before the board meeting?",
           "receivedMinutesAgo": 35,
@@ -94,7 +94,7 @@
         {
           "id": "HR01-E02",
           "senderName": "David Johnson",
-          "senderEmail": "david.johnson@meridiangroup.com",
+          "senderEmail": "david.johnson@heeyoo.nl",
           "subject": "Attrition deep-dive: Production unit",
           "preview": "Sharing the first-year churn breakdown you asked for.",
           "receivedMinutesAgo": 120,
@@ -104,7 +104,7 @@
         {
           "id": "HR01-E03",
           "senderName": "Board Secretary",
-          "senderEmail": "board@meridiangroup.com",
+          "senderEmail": "board@heeyoo.nl",
           "subject": "Agenda — Board meeting 26 June",
           "preview": "Your workforce update is item 4 on the final agenda.",
           "receivedMinutesAgo": 240,
@@ -114,12 +114,52 @@
         {
           "id": "HR01-E04",
           "senderName": "Lucas Miller",
-          "senderEmail": "lucas.miller@meridiangroup.com",
+          "senderEmail": "lucas.miller@heeyoo.nl",
           "subject": "2026 training plan — ready for approval",
           "preview": "Finalised with completion targets per program.",
           "receivedMinutesAgo": 1100,
           "unread": false,
           "body": "Hi Sarah, the 2026 L&D plan is finalised with completion targets per program and a revised budget. Headline: we're shifting more spend toward internal leadership development based on this year's outcome data. Ready for your approval whenever you have a moment."
+        },
+        {
+          "id": "HR01-E05",
+          "senderName": "Priya Sharma",
+          "senderEmail": "priya.sharma@heeyoo.nl",
+          "subject": "Workforce cost review — Q3 planning",
+          "preview": "Need your headcount assumptions for the Q3 reforecast.",
+          "receivedMinutesAgo": 180,
+          "unread": true,
+          "body": "Hi Sarah, we're kicking off the Q3 reforecast and I need your latest headcount and contractor assumptions. Could you send the working numbers by Thursday so Finance can model the cost lines?"
+        },
+        {
+          "id": "HR01-E06",
+          "senderName": "James Whitfield",
+          "senderEmail": "james.whitfield@heeyoo.nl",
+          "subject": "Board pack — attrition narrative",
+          "preview": "Could you add a short commentary on the regrettable-attrition trend?",
+          "receivedMinutesAgo": 420,
+          "unread": false,
+          "body": "Sarah, the board pack is nearly ready. Could you add two or three lines on the regrettable-attrition trend and what we're doing about first-year churn? Keep it high-level."
+        },
+        {
+          "id": "HR01-E07",
+          "senderName": "Lucas Miller",
+          "senderEmail": "lucas.miller@heeyoo.nl",
+          "subject": "Leadership programme — extra seats",
+          "preview": "The Leadership track is oversubscribed; can we approve 6 more seats?",
+          "receivedMinutesAgo": 1440,
+          "unread": false,
+          "body": "The Leadership development track filled up faster than expected. I've got six strong people on the waitlist — are you comfortable approving the extra seats within the existing budget?"
+        },
+        {
+          "id": "HR01-E08",
+          "senderName": "Employee Pulse",
+          "senderEmail": "no-reply@heeyoo.nl",
+          "subject": "Engagement pulse results are in",
+          "preview": "Overall engagement ticked up; Sales still lags the company average.",
+          "receivedMinutesAgo": 90,
+          "unread": true,
+          "body": "This period's pulse is ready. Overall engagement improved versus last quarter, though Sales continues to sit below the company average. Full breakdown by department is in the dashboard."
         }
       ],
       "meetings": [
@@ -156,7 +196,7 @@
           "dayOfWeek": "Thu",
           "dayOfMonth": null,
           "startTime": "16:00",
-          "endTime": "16:30",
+          "endTime": "17:00",
           "location": "Teams",
           "attendees": [
             {
@@ -179,9 +219,9 @@
           "type": "meeting",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 3,
+          "dayOfMonth": 2,
           "startTime": "13:00",
-          "endTime": "13:45",
+          "endTime": "14:00",
           "location": "Room Delft",
           "attendees": [
             {
@@ -204,9 +244,9 @@
           "type": "meeting",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 5,
+          "dayOfMonth": 3,
           "startTime": "14:00",
-          "endTime": "15:30",
+          "endTime": "15:00",
           "location": "Room Aurora",
           "attendees": [
             {
@@ -231,7 +271,7 @@
           "dayOfWeek": null,
           "dayOfMonth": 6,
           "startTime": "10:00",
-          "endTime": "10:30",
+          "endTime": "10:45",
           "location": "Teams",
           "attendees": [
             {
@@ -248,7 +288,7 @@
           "dayOfWeek": null,
           "dayOfMonth": 7,
           "startTime": "15:00",
-          "endTime": "16:00",
+          "endTime": "15:45",
           "location": "Teams",
           "attendees": [
             {
@@ -263,9 +303,9 @@
           "type": "review",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 9,
+          "dayOfMonth": 8,
           "startTime": "14:00",
-          "endTime": "14:45",
+          "endTime": "15:00",
           "location": "Teams",
           "attendees": [
             {
@@ -284,7 +324,7 @@
           "type": "meeting",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 12,
+          "dayOfMonth": 9,
           "startTime": "10:00",
           "endTime": "11:00",
           "location": "Teams",
@@ -309,9 +349,9 @@
           "type": "1:1",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 14,
+          "dayOfMonth": 10,
           "startTime": "10:30",
-          "endTime": "11:00",
+          "endTime": "12:00",
           "location": "Teams",
           "attendees": [
             {
@@ -326,9 +366,9 @@
           "type": "review",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 15,
+          "dayOfMonth": 13,
           "startTime": "11:00",
-          "endTime": "12:00",
+          "endTime": "12:30",
           "location": "Room Delft",
           "attendees": [
             {
@@ -347,9 +387,9 @@
           "type": "deadline",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 21,
+          "dayOfMonth": 14,
           "startTime": "16:00",
-          "endTime": "16:30",
+          "endTime": "17:30",
           "location": "Teams",
           "attendees": []
         },
@@ -359,7 +399,7 @@
           "type": "workshop",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 23,
+          "dayOfMonth": 15,
           "startTime": "09:30",
           "endTime": "11:00",
           "location": "Room Aurora",
@@ -392,9 +432,9 @@
           "type": "review",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 25,
+          "dayOfMonth": 16,
           "startTime": "10:00",
-          "endTime": "11:00",
+          "endTime": "11:30",
           "location": "Room Aurora",
           "attendees": [
             {
@@ -413,9 +453,9 @@
           "type": "review",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 27,
+          "dayOfMonth": 17,
           "startTime": "11:00",
-          "endTime": "12:00",
+          "endTime": "13:00",
           "location": "Room Delft",
           "attendees": [
             {
@@ -553,7 +593,7 @@
       "role": "HR Business Partner",
       "age": 38,
       "startDate": "2017-06-12",
-      "email": "david.johnson@meridiangroup.com",
+      "email": "david.johnson@heeyoo.nl",
       "location": "Manchester",
       "photo": "face_07.jpg",
       "tasks": [
@@ -616,7 +656,7 @@
         {
           "id": "HR02-E01",
           "senderName": "Sarah Davies",
-          "senderEmail": "sarah.davies@meridiangroup.com",
+          "senderEmail": "sarah.davies@heeyoo.nl",
           "subject": "Re: Attrition deep-dive: Production unit",
           "preview": "Can you add the regrettable split before Wednesday?",
           "receivedMinutesAgo": 25,
@@ -626,7 +666,7 @@
         {
           "id": "HR02-E02",
           "senderName": "Tom Baker",
-          "senderEmail": "tom.bakker@meridiangroup.com",
+          "senderEmail": "tom.bakker@heeyoo.nl",
           "subject": "Concern about team workload",
           "preview": "Two of my technicians have flagged burnout risk.",
           "receivedMinutesAgo": 90,
@@ -636,7 +676,7 @@
         {
           "id": "HR02-E03",
           "senderName": "Emma Baker",
-          "senderEmail": "emma.baker@meridiangroup.com",
+          "senderEmail": "emma.baker@heeyoo.nl",
           "subject": "Headcount data refresh complete",
           "preview": "The Q2 master file is updated and ready.",
           "receivedMinutesAgo": 300,
@@ -646,12 +686,52 @@
         {
           "id": "HR02-E04",
           "senderName": "Pulse Survey",
-          "senderEmail": "noreply@pulsesurvey.io",
+          "senderEmail": "noreply@heeyoo.nl",
           "subject": "Engagement results are ready",
           "preview": "Your team's latest engagement scores are available.",
           "receivedMinutesAgo": 1440,
           "unread": false,
           "body": "Your team's latest engagement results are now available in the dashboard. The overall score is steady, but the Production sub-team dipped on 'manager support'. Log in to view the full breakdown by question and team."
+        },
+        {
+          "id": "HR02-E05",
+          "senderName": "Rachel Green",
+          "senderEmail": "rachel.green@heeyoo.nl",
+          "subject": "Cover for two long-term absences",
+          "preview": "Two of my team are on extended leave — can we arrange temporary cover?",
+          "receivedMinutesAgo": 150,
+          "unread": true,
+          "body": "Hi David, I now have two people on extended leave in Production. Can we look at temporary cover or a short-term contractor so the line isn't understaffed through the summer?"
+        },
+        {
+          "id": "HR02-E06",
+          "senderName": "Tom Baxter",
+          "senderEmail": "tom.baxter@heeyoo.nl",
+          "subject": "Performance conversation — guidance",
+          "preview": "I'd like your steer before a difficult review.",
+          "receivedMinutesAgo": 600,
+          "unread": false,
+          "body": "David, I've got a tricky performance conversation coming up and want to handle it well. Could we grab 20 minutes so you can steer me on tone and what to document?"
+        },
+        {
+          "id": "HR02-E07",
+          "senderName": "Absence Desk",
+          "senderEmail": "absence@heeyoo.nl",
+          "subject": "Return-to-work interviews overdue",
+          "preview": "Two return-to-work interviews are overdue in your queue.",
+          "receivedMinutesAgo": 1320,
+          "unread": true,
+          "body": "A reminder that two return-to-work interviews are past their due date in your queue. Completing them keeps the absence records compliant — let us know if you need the templates."
+        },
+        {
+          "id": "HR02-E08",
+          "senderName": "Sofia Martinez",
+          "senderEmail": "sofia.martinez@heeyoo.nl",
+          "subject": "Flexible working request",
+          "preview": "I'd like to discuss moving to a 4-day week.",
+          "receivedMinutesAgo": 2880,
+          "unread": false,
+          "body": "Hi David, I'd like to explore moving to a four-day week from next quarter. Could we set up a short chat to talk through how it would work for my role and team?"
         }
       ],
       "meetings": [
@@ -688,7 +768,7 @@
           "dayOfWeek": "Tue",
           "dayOfMonth": null,
           "startTime": "09:30",
-          "endTime": "10:00",
+          "endTime": "10:15",
           "location": "Teams",
           "attendees": [
             {
@@ -711,9 +791,9 @@
           "type": "workshop",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 2,
+          "dayOfMonth": 7,
           "startTime": "11:00",
-          "endTime": "12:30",
+          "endTime": "12:00",
           "location": "Room Delft",
           "attendees": [
             {
@@ -744,9 +824,9 @@
           "type": "sync",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 7,
+          "dayOfMonth": 8,
           "startTime": "09:30",
-          "endTime": "10:00",
+          "endTime": "10:15",
           "location": "Teams",
           "attendees": [
             {
@@ -769,9 +849,9 @@
           "type": "1:1",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 10,
+          "dayOfMonth": 9,
           "startTime": "14:00",
-          "endTime": "14:30",
+          "endTime": "15:00",
           "location": "Teams",
           "attendees": [
             {
@@ -786,7 +866,7 @@
           "type": "meeting",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 11,
+          "dayOfMonth": 10,
           "startTime": "10:00",
           "endTime": "11:00",
           "location": "Room Maas",
@@ -836,9 +916,9 @@
           "type": "interview",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 16,
+          "dayOfMonth": 14,
           "startTime": "15:00",
-          "endTime": "15:45",
+          "endTime": "16:00",
           "location": "Teams",
           "attendees": [
             {
@@ -857,7 +937,7 @@
           "type": "workshop",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 19,
+          "dayOfMonth": 15,
           "startTime": "13:00",
           "endTime": "14:30",
           "location": "Room Delft",
@@ -890,9 +970,9 @@
           "type": "review",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 20,
+          "dayOfMonth": 16,
           "startTime": "10:00",
-          "endTime": "11:00",
+          "endTime": "11:30",
           "location": "Room Delft",
           "attendees": [
             {
@@ -911,9 +991,9 @@
           "type": "meeting",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 21,
+          "dayOfMonth": 17,
           "startTime": "15:00",
-          "endTime": "15:30",
+          "endTime": "16:30",
           "location": "Teams",
           "attendees": [
             {
@@ -936,7 +1016,7 @@
           "type": "review",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 23,
+          "dayOfMonth": 20,
           "startTime": "10:30",
           "endTime": "12:00",
           "location": "Room Aurora",
@@ -957,9 +1037,9 @@
           "type": "review",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 24,
+          "dayOfMonth": 21,
           "startTime": "11:00",
-          "endTime": "12:00",
+          "endTime": "12:30",
           "location": "Room Aurora",
           "attendees": [
             {
@@ -978,9 +1058,9 @@
           "type": "1:1",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 25,
+          "dayOfMonth": 22,
           "startTime": "13:30",
-          "endTime": "14:00",
+          "endTime": "15:30",
           "location": "Teams",
           "attendees": [
             {
@@ -1114,7 +1194,7 @@
       "role": "Recruiter",
       "age": 29,
       "startDate": "2021-09-01",
-      "email": "aisha.khan@meridiangroup.com",
+      "email": "aisha.khan@heeyoo.nl",
       "location": "Birmingham",
       "photo": "face_11.jpg",
       "tasks": [
@@ -1177,7 +1257,7 @@
         {
           "id": "HR03-E01",
           "senderName": "Nadia Hassan",
-          "senderEmail": "n.elamrani@gmail.com",
+          "senderEmail": "n.elamrani@heeyoo.nl",
           "subject": "Re: Data Analyst — interview availability",
           "preview": "I'm available Thursday afternoon or Friday morning.",
           "receivedMinutesAgo": 15,
@@ -1187,7 +1267,7 @@
         {
           "id": "HR03-E02",
           "senderName": "Lisa Wong",
-          "senderEmail": "lisa.wong@meridiangroup.com",
+          "senderEmail": "lisa.wong@heeyoo.nl",
           "subject": "Feedback on shortlist",
           "preview": "Let's move forward with candidates 1 and 3.",
           "receivedMinutesAgo": 75,
@@ -1197,7 +1277,7 @@
         {
           "id": "HR03-E03",
           "senderName": "LinkedIn",
-          "senderEmail": "notifications@linkedin.com",
+          "senderEmail": "notifications@heeyoo.nl",
           "subject": "5 new applicants for your job post",
           "preview": "New applicants for Production Technician I.",
           "receivedMinutesAgo": 200,
@@ -1207,12 +1287,52 @@
         {
           "id": "HR03-E04",
           "senderName": "Sarah Davies",
-          "senderEmail": "sarah.davies@meridiangroup.com",
+          "senderEmail": "sarah.davies@heeyoo.nl",
           "subject": "Pipeline update for Thursday 1:1",
           "preview": "Can you bring time-to-fill numbers to our 1:1?",
           "receivedMinutesAgo": 600,
           "unread": false,
           "body": "Aisha, looking forward to our 1:1 on Thursday. Could you bring the latest time-to-fill numbers and the status of the two senior roles? The board will ask about recruitment velocity and I want us aligned."
+        },
+        {
+          "id": "HR03-E05",
+          "senderName": "Daniel Osei",
+          "senderEmail": "daniel.osei@heeyoo.nl",
+          "subject": "Data Analyst shortlist",
+          "preview": "Can we book the final three for panels this week?",
+          "receivedMinutesAgo": 120,
+          "unread": true,
+          "body": "Hi Aisha, thanks for the shortlist. The final three look strong — can we get them booked for panel interviews this week before they go cold? I can flex my calendar."
+        },
+        {
+          "id": "HR03-E06",
+          "senderName": "BrightPath Recruitment",
+          "senderEmail": "team@heeyoo.nl",
+          "subject": "Two senior engineers — profiles attached",
+          "preview": "Sharing two strong profiles for the platform team.",
+          "receivedMinutesAgo": 300,
+          "unread": true,
+          "body": "Hi Aisha, sharing two senior engineer profiles we think fit the platform role well. Both are available to interview next week — happy to arrange intro calls if useful."
+        },
+        {
+          "id": "HR03-E07",
+          "senderName": "Chloe Adams",
+          "senderEmail": "chloe.adams@heeyoo.nl",
+          "subject": "Re: Offer — a couple of questions",
+          "preview": "Thanks for the offer! Could you clarify relocation support?",
+          "receivedMinutesAgo": 720,
+          "unread": false,
+          "body": "Hi Aisha, thank you so much for the offer — I'm excited. Before I sign, could you clarify the relocation support and the start-date flexibility? Then I'm ready to go."
+        },
+        {
+          "id": "HR03-E08",
+          "senderName": "Onboarding",
+          "senderEmail": "onboarding@heeyoo.nl",
+          "subject": "New starter checklist — 3 pending",
+          "preview": "Three starters begin Monday; equipment requests still open.",
+          "receivedMinutesAgo": 60,
+          "unread": true,
+          "body": "Three new starters begin Monday and their equipment requests are still open. Could you nudge IT so laptops and accounts are ready for day one?"
         }
       ],
       "meetings": [
@@ -1249,7 +1369,7 @@
           "dayOfWeek": "Fri",
           "dayOfMonth": null,
           "startTime": "13:00",
-          "endTime": "13:30",
+          "endTime": "13:45",
           "location": "Teams",
           "attendees": [
             {
@@ -1272,9 +1392,9 @@
           "type": "workshop",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 4,
+          "dayOfMonth": 10,
           "startTime": "13:00",
-          "endTime": "14:00",
+          "endTime": "13:45",
           "location": "Room Delft",
           "attendees": [
             {
@@ -1305,9 +1425,9 @@
           "type": "meeting",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 6,
+          "dayOfMonth": 13,
           "startTime": "11:00",
-          "endTime": "11:45",
+          "endTime": "12:00",
           "location": "Teams",
           "attendees": [
             {
@@ -1330,9 +1450,9 @@
           "type": "interview",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 7,
+          "dayOfMonth": 14,
           "startTime": "14:00",
-          "endTime": "14:45",
+          "endTime": "15:00",
           "location": "Room Maas",
           "attendees": [
             {
@@ -1351,9 +1471,9 @@
           "type": "review",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 8,
+          "dayOfMonth": 15,
           "startTime": "16:00",
-          "endTime": "16:30",
+          "endTime": "17:00",
           "location": "Teams",
           "attendees": [
             {
@@ -1372,9 +1492,9 @@
           "type": "review",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 11,
+          "dayOfMonth": 16,
           "startTime": "10:00",
-          "endTime": "10:30",
+          "endTime": "11:00",
           "location": "Teams",
           "attendees": [
             {
@@ -1393,9 +1513,9 @@
           "type": "meeting",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 12,
+          "dayOfMonth": 17,
           "startTime": "15:00",
-          "endTime": "15:30",
+          "endTime": "16:00",
           "location": "Teams",
           "attendees": [
             {
@@ -1418,9 +1538,9 @@
           "type": "interview",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 14,
+          "dayOfMonth": 20,
           "startTime": "10:00",
-          "endTime": "10:45",
+          "endTime": "11:30",
           "location": "Teams",
           "attendees": [
             {
@@ -1439,9 +1559,9 @@
           "type": "workshop",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 15,
+          "dayOfMonth": 21,
           "startTime": "10:00",
-          "endTime": "11:00",
+          "endTime": "11:30",
           "location": "Room Delft",
           "attendees": [
             {
@@ -1472,7 +1592,7 @@
           "type": "interview",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 16,
+          "dayOfMonth": 22,
           "startTime": "13:30",
           "endTime": "15:00",
           "location": "Room Aurora",
@@ -1493,9 +1613,9 @@
           "type": "meeting",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 19,
+          "dayOfMonth": 23,
           "startTime": "09:30",
-          "endTime": "10:30",
+          "endTime": "11:00",
           "location": "Teams",
           "attendees": [
             {
@@ -1518,9 +1638,9 @@
           "type": "interview",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 20,
+          "dayOfMonth": 24,
           "startTime": "11:00",
-          "endTime": "11:45",
+          "endTime": "12:30",
           "location": "Teams",
           "attendees": [
             {
@@ -1539,9 +1659,9 @@
           "type": "review",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 21,
+          "dayOfMonth": 27,
           "startTime": "14:00",
-          "endTime": "14:30",
+          "endTime": "16:00",
           "location": "Teams",
           "attendees": [
             {
@@ -1679,7 +1799,7 @@
       "role": "L&D Specialist",
       "age": 34,
       "startDate": "2019-02-18",
-      "email": "lucas.miller@meridiangroup.com",
+      "email": "lucas.miller@heeyoo.nl",
       "location": "Bristol",
       "photo": "face_14.jpg",
       "tasks": [
@@ -1742,7 +1862,7 @@
         {
           "id": "HR04-E01",
           "senderName": "Sarah Davies",
-          "senderEmail": "sarah.davies@meridiangroup.com",
+          "senderEmail": "sarah.davies@heeyoo.nl",
           "subject": "Re: 2026 training plan",
           "preview": "Approving today. Add completion targets to the board slide.",
           "receivedMinutesAgo": 50,
@@ -1752,7 +1872,7 @@
         {
           "id": "HR04-E02",
           "senderName": "SkillForge",
-          "senderEmail": "accounts@skillforge.com",
+          "senderEmail": "accounts@heeyoo.nl",
           "subject": "Invoice & June cohort confirmation",
           "preview": "Confirming your Leadership Development cohort for next month.",
           "receivedMinutesAgo": 180,
@@ -1762,7 +1882,7 @@
         {
           "id": "HR04-E03",
           "senderName": "LMS System",
-          "senderEmail": "noreply@lms.meridiangroup.com",
+          "senderEmail": "noreply@heeyoo.nl",
           "subject": "14 employees overdue on mandatory training",
           "preview": "The following employees have not completed required modules.",
           "receivedMinutesAgo": 720,
@@ -1772,12 +1892,52 @@
         {
           "id": "HR04-E04",
           "senderName": "Emma Baker",
-          "senderEmail": "emma.baker@meridiangroup.com",
+          "senderEmail": "emma.baker@heeyoo.nl",
           "subject": "Training cost reconciliation Q2",
           "preview": "The training spend vs budget reconciliation is attached.",
           "receivedMinutesAgo": 1300,
           "unread": false,
           "body": "Hi Lucas, the Q2 training spend vs budget reconciliation is attached. We're tracking slightly under budget overall, but the external-vendor line is over — likely the SkillForge invoice. Can you confirm the coding so I can close the quarter?"
+        },
+        {
+          "id": "HR04-E05",
+          "senderName": "SkillForge Academy",
+          "senderEmail": "hello@heeyoo.nl",
+          "subject": "Q3 leadership cohort — scheduling",
+          "preview": "Proposing dates for the next leadership cohort; which suits?",
+          "receivedMinutesAgo": 240,
+          "unread": true,
+          "body": "Hi Lucas, we're ready to schedule the Q3 leadership cohort. I've proposed three date options in the attachment — let me know which works and we'll lock the trainers."
+        },
+        {
+          "id": "HR04-E06",
+          "senderName": "Emma Baker",
+          "senderEmail": "emma.baker@heeyoo.nl",
+          "subject": "Training budget reallocation",
+          "preview": "Can we shift underused Communication budget to Technical?",
+          "receivedMinutesAgo": 900,
+          "unread": false,
+          "body": "Lucas, the Communication programme is tracking under budget while Technical is oversubscribed. Are you okay to reallocate the difference? I'll process it once you confirm."
+        },
+        {
+          "id": "HR04-E07",
+          "senderName": "Nathan Brooks",
+          "senderEmail": "nathan.brooks@heeyoo.nl",
+          "subject": "Certification renewals due",
+          "preview": "Four of my engineers have certs expiring next month.",
+          "receivedMinutesAgo": 1500,
+          "unread": false,
+          "body": "Hi Lucas, four of my engineers have certifications expiring next month. Can we get them into a renewal cohort so there's no lapse? Happy to prioritise whoever you suggest."
+        },
+        {
+          "id": "HR04-E08",
+          "senderName": "Learning Platform",
+          "senderEmail": "no-reply@heeyoo.nl",
+          "subject": "Course completion dip in June",
+          "preview": "Completion rates dropped last month; summary attached.",
+          "receivedMinutesAgo": 75,
+          "unread": true,
+          "body": "June course completion dropped compared with May, mostly on self-paced modules. The summary is attached — you may want to send a gentle nudge to the lagging teams."
         }
       ],
       "meetings": [
@@ -1814,7 +1974,7 @@
           "dayOfWeek": "Thu",
           "dayOfMonth": null,
           "startTime": "11:00",
-          "endTime": "11:30",
+          "endTime": "11:45",
           "location": "Teams",
           "attendees": [
             {
@@ -1839,7 +1999,7 @@
           "dayOfWeek": null,
           "dayOfMonth": 2,
           "startTime": "11:00",
-          "endTime": "12:00",
+          "endTime": "11:45",
           "location": "Room Delft",
           "attendees": [
             {
@@ -1864,7 +2024,7 @@
           "dayOfWeek": null,
           "dayOfMonth": 3,
           "startTime": "10:00",
-          "endTime": "12:00",
+          "endTime": "11:00",
           "location": "Room Delft",
           "attendees": [
             {
@@ -1895,9 +2055,9 @@
           "type": "workshop",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 4,
+          "dayOfMonth": 6,
           "startTime": "13:00",
-          "endTime": "14:30",
+          "endTime": "14:00",
           "location": "Room Delft",
           "attendees": [
             {
@@ -1928,9 +2088,9 @@
           "type": "meeting",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 7,
+          "dayOfMonth": 15,
           "startTime": "15:00",
-          "endTime": "15:45",
+          "endTime": "16:00",
           "location": "Teams",
           "attendees": [
             {
@@ -1953,9 +2113,9 @@
           "type": "workshop",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 8,
+          "dayOfMonth": 16,
           "startTime": "13:00",
-          "endTime": "15:00",
+          "endTime": "14:00",
           "location": "Room Maas",
           "attendees": [
             {
@@ -1986,9 +2146,9 @@
           "type": "review",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 10,
+          "dayOfMonth": 17,
           "startTime": "14:00",
-          "endTime": "14:45",
+          "endTime": "15:00",
           "location": "Teams",
           "attendees": [
             {
@@ -2007,9 +2167,9 @@
           "type": "review",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 18,
+          "dayOfMonth": 20,
           "startTime": "10:00",
-          "endTime": "11:00",
+          "endTime": "11:30",
           "location": "Teams",
           "attendees": [
             {
@@ -2028,9 +2188,9 @@
           "type": "meeting",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 20,
+          "dayOfMonth": 21,
           "startTime": "09:00",
-          "endTime": "10:00",
+          "endTime": "10:30",
           "location": "Room Aurora",
           "attendees": [
             {
@@ -2053,9 +2213,9 @@
           "type": "review",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 21,
+          "dayOfMonth": 22,
           "startTime": "11:00",
-          "endTime": "11:45",
+          "endTime": "12:30",
           "location": "Teams",
           "attendees": [
             {
@@ -2074,9 +2234,9 @@
           "type": "review",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 22,
+          "dayOfMonth": 23,
           "startTime": "14:00",
-          "endTime": "15:00",
+          "endTime": "15:30",
           "location": "Teams",
           "attendees": [
             {
@@ -2097,7 +2257,7 @@
           "dayOfWeek": null,
           "dayOfMonth": 24,
           "startTime": "09:30",
-          "endTime": "11:30",
+          "endTime": "11:00",
           "location": "Room Aurora",
           "attendees": [
             {
@@ -2130,7 +2290,7 @@
           "dayOfWeek": null,
           "dayOfMonth": 27,
           "startTime": "09:30",
-          "endTime": "11:00",
+          "endTime": "11:30",
           "location": "Room Aurora",
           "attendees": [
             {
@@ -2280,7 +2440,7 @@
       "role": "HR Operations & Payroll",
       "age": 45,
       "startDate": "2013-11-04",
-      "email": "emma.baker@meridiangroup.com",
+      "email": "emma.baker@heeyoo.nl",
       "location": "Leeds",
       "photo": "face_18.jpg",
       "tasks": [
@@ -2343,7 +2503,7 @@
         {
           "id": "HR05-E01",
           "senderName": "PayrollService",
-          "senderEmail": "support@loonservice.nl",
+          "senderEmail": "support@heeyoo.nl",
           "subject": "June payroll cut-off reminder",
           "preview": "Please submit final payroll changes by Thursday 17:00.",
           "receivedMinutesAgo": 40,
@@ -2353,7 +2513,7 @@
         {
           "id": "HR05-E02",
           "senderName": "David Johnson",
-          "senderEmail": "david.johnson@meridiangroup.com",
+          "senderEmail": "david.johnson@heeyoo.nl",
           "subject": "New starters for July — details attached",
           "preview": "Here are the 4 new contracts for onboarding setup.",
           "receivedMinutesAgo": 110,
@@ -2363,7 +2523,7 @@
         {
           "id": "HR05-E03",
           "senderName": "Lucas Miller",
-          "senderEmail": "lucas.miller@meridiangroup.com",
+          "senderEmail": "lucas.miller@heeyoo.nl",
           "subject": "Re: Training cost reconciliation Q2",
           "preview": "The SkillForge invoice should be coded to L&D.",
           "receivedMinutesAgo": 260,
@@ -2373,12 +2533,52 @@
         {
           "id": "HR05-E04",
           "senderName": "Pension Fund",
-          "senderEmail": "noreply@pensioenfonds.nl",
+          "senderEmail": "noreply@heeyoo.nl",
           "subject": "Q2 contribution statement",
           "preview": "Your quarterly contribution statement is now available.",
           "receivedMinutesAgo": 900,
           "unread": false,
           "body": "Your quarterly pension contribution statement is now available. Total contributions and any adjustments are detailed in the attached document. Please review and confirm before the 30th."
+        },
+        {
+          "id": "HR05-E05",
+          "senderName": "PayrollPlus Support",
+          "senderEmail": "support@heeyoo.nl",
+          "subject": "July run — cut-off reminder",
+          "preview": "Please submit variable inputs by the 20th.",
+          "receivedMinutesAgo": 200,
+          "unread": true,
+          "body": "Hi Emma, a reminder that variable pay inputs for the July run are due by the 20th. Anything received after that moves to the August run — let us know if you need an extension."
+        },
+        {
+          "id": "HR05-E06",
+          "senderName": "Liam Carter",
+          "senderEmail": "liam.carter@heeyoo.nl",
+          "subject": "Payslip query — overtime",
+          "preview": "My June payslip seems to miss two overtime shifts.",
+          "receivedMinutesAgo": 480,
+          "unread": false,
+          "body": "Hi Emma, I think my June payslip is missing two overtime shifts from the end of the month. Could you check against my logged hours? Happy to send the dates."
+        },
+        {
+          "id": "HR05-E07",
+          "senderName": "Benefits Team",
+          "senderEmail": "benefits@heeyoo.nl",
+          "subject": "Pension provider switch — action",
+          "preview": "We need updated enrolment data for the new provider.",
+          "receivedMinutesAgo": 1080,
+          "unread": true,
+          "body": "Emma, the pension provider switch goes live next month. We need the updated enrolment file from your side to avoid gaps — can you send it by Friday?"
+        },
+        {
+          "id": "HR05-E08",
+          "senderName": "Olivia Reed",
+          "senderEmail": "olivia.reed@heeyoo.nl",
+          "subject": "Two contracts expiring",
+          "preview": "Can you confirm renewal or offboarding for two fixed-term staff?",
+          "receivedMinutesAgo": 2400,
+          "unread": false,
+          "body": "Hi Emma, two of my fixed-term team members have contracts expiring in three weeks. Could you confirm whether we're renewing or offboarding so I can plan cover?"
         }
       ],
       "meetings": [
@@ -2415,7 +2615,7 @@
           "dayOfWeek": "Fri",
           "dayOfMonth": null,
           "startTime": "15:00",
-          "endTime": "15:30",
+          "endTime": "15:45",
           "location": "Room Maas",
           "attendees": [
             {
@@ -2440,7 +2640,7 @@
           "dayOfWeek": null,
           "dayOfMonth": 2,
           "startTime": "14:00",
-          "endTime": "15:00",
+          "endTime": "14:45",
           "location": "Room Delft",
           "attendees": [
             {
@@ -2459,9 +2659,9 @@
           "type": "workshop",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 4,
+          "dayOfMonth": 3,
           "startTime": "13:00",
-          "endTime": "14:30",
+          "endTime": "14:00",
           "location": "Room Delft",
           "attendees": [
             {
@@ -2513,9 +2713,9 @@
           "type": "deadline",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 8,
+          "dayOfMonth": 7,
           "startTime": "09:00",
-          "endTime": "11:00",
+          "endTime": "10:00",
           "location": "Teams",
           "attendees": []
         },
@@ -2525,9 +2725,9 @@
           "type": "meeting",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 10,
+          "dayOfMonth": 8,
           "startTime": "11:00",
-          "endTime": "11:45",
+          "endTime": "12:00",
           "location": "Teams",
           "attendees": [
             {
@@ -2550,9 +2750,9 @@
           "type": "review",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 12,
+          "dayOfMonth": 9,
           "startTime": "15:00",
-          "endTime": "15:45",
+          "endTime": "16:00",
           "location": "Teams",
           "attendees": [
             {
@@ -2571,9 +2771,9 @@
           "type": "review",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 19,
+          "dayOfMonth": 20,
           "startTime": "11:00",
-          "endTime": "12:00",
+          "endTime": "12:30",
           "location": "Room Maas",
           "attendees": [
             {
@@ -2592,9 +2792,9 @@
           "type": "review",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 20,
+          "dayOfMonth": 21,
           "startTime": "10:00",
-          "endTime": "10:30",
+          "endTime": "11:30",
           "location": "Teams",
           "attendees": [
             {
@@ -2613,9 +2813,9 @@
           "type": "meeting",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 21,
+          "dayOfMonth": 22,
           "startTime": "09:30",
-          "endTime": "10:30",
+          "endTime": "11:00",
           "location": "Teams",
           "attendees": [
             {
@@ -2638,7 +2838,7 @@
           "type": "meeting",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 22,
+          "dayOfMonth": 23,
           "startTime": "13:00",
           "endTime": "14:30",
           "location": "Teams",
@@ -2663,7 +2863,7 @@
           "type": "meeting",
           "recurrence": "monthly",
           "dayOfWeek": null,
-          "dayOfMonth": 26,
+          "dayOfMonth": 24,
           "startTime": "13:30",
           "endTime": "15:00",
           "location": "Teams",
@@ -2690,7 +2890,7 @@
           "dayOfWeek": null,
           "dayOfMonth": 27,
           "startTime": "10:00",
-          "endTime": "10:30",
+          "endTime": "12:00",
           "location": "Teams",
           "attendees": []
         }
