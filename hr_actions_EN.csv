@@ -1,121 +1,118 @@
 HRID,HRName,Year,Month,MonthName,Category,Action
-HR02,David Johnson,2026,1,January,Absence,Follow up on long-term absence of Alfie Wood (Production).
-HR02,David Johnson,2026,1,January,Absence,Follow up on long-term absence of Olivia Wilson (Software Engineering).
-HR03,Aisha Khan,2026,1,January,Onboarding,"Prepare onboarding for Ava Wilson (Production), starts February."
-HR03,Aisha Khan,2026,1,January,Onboarding,"Prepare onboarding for Sophia Cooper (Sales), starts February."
-HR03,Aisha Khan,2026,1,January,Onboarding,"Prepare onboarding for Logan Wilson (Sales), starts February."
-HR01,Sarah Davies,2026,2,February,Retention,Review regrettable exit of James Wilson — capture lessons for retention.
-HR01,Sarah Davies,2026,2,February,Retention,Review regrettable exit of Noah Cooper — capture lessons for retention.
-HR01,Sarah Davies,2026,2,February,Workforce,"Review February workforce movement: 3 in, 2 out."
-HR02,David Johnson,2026,2,February,Absence,Follow up on long-term absence of Jessica Wood (Production).
-HR03,Aisha Khan,2026,2,February,Onboarding,"Prepare onboarding for Lucy Cooper (IT/IS), starts March."
-HR03,Aisha Khan,2026,2,February,Onboarding,"Prepare onboarding for Ella Wood (Executive Office), starts March."
-HR04,Lucas Miller,2026,2,February,Training,Schedule onboarding training for 3 new hire(s) starting February.
-HR05,Emma Baker,2026,2,February,Offboarding,Process offboarding for James Wilson (last day in February).
-HR05,Emma Baker,2026,2,February,Offboarding,Process offboarding for Noah Cooper (last day in February).
-HR01,Sarah Davies,2026,3,March,Retention,Review regrettable exit of Alfie Wood — capture lessons for retention.
-HR01,Sarah Davies,2026,3,March,Workforce,"Review March workforce movement: 2 in, 2 out."
-HR02,David Johnson,2026,3,March,Absence,Follow up on long-term absence of Sophia Cooper (Production).
-HR03,Aisha Khan,2026,3,March,Onboarding,"Prepare onboarding for Olivia Wilson (Production), starts April."
-HR03,Aisha Khan,2026,3,March,Onboarding,"Prepare onboarding for Oliver Wood (Production), starts April."
-HR03,Aisha Khan,2026,3,March,Onboarding,"Prepare onboarding for Poppy Cooper (IT/IS), starts April."
-HR04,Lucas Miller,2026,3,March,Training,Schedule onboarding training for 2 new hire(s) starting March.
-HR05,Emma Baker,2026,3,March,Offboarding,Process offboarding for Alfie Wood (last day in March).
-HR05,Emma Baker,2026,3,March,Offboarding,Process offboarding for Jessica Wood (last day in March).
-HR01,Sarah Davies,2026,4,April,Workforce,"Review April workforce movement: 3 in, 2 out."
-HR02,David Johnson,2026,4,April,Absence,Follow up on long-term absence of William Cooper (Production).
-HR03,Aisha Khan,2026,4,April,Onboarding,"Prepare onboarding for Mason Cooper (Production), starts May."
-HR03,Aisha Khan,2026,4,April,Onboarding,"Prepare onboarding for Emma Wood (Production), starts May."
-HR03,Aisha Khan,2026,4,April,Onboarding,"Prepare onboarding for Lucas Cooper (Production), starts May."
-HR04,Lucas Miller,2026,4,April,Training,Schedule onboarding training for 3 new hire(s) starting April.
-HR05,Emma Baker,2026,4,April,Offboarding,Process offboarding for Ruby Cooper (last day in April).
-HR05,Emma Baker,2026,4,April,Offboarding,Process offboarding for Sophia Cooper (last day in April).
-HR01,Sarah Davies,2026,5,May,Retention,Review regrettable exit of Olivia Wilson — capture lessons for retention.
-HR01,Sarah Davies,2026,5,May,Workforce,"Review May workforce movement: 3 in, 2 out."
-HR02,David Johnson,2026,5,May,Absence,Follow up on long-term absence of Lucas Cooper (Production).
-HR03,Aisha Khan,2026,5,May,Onboarding,"Prepare onboarding for Oscar Wilson (Production), starts June."
-HR03,Aisha Khan,2026,5,May,Onboarding,"Prepare onboarding for Thomas Wilson (Production), starts June."
-HR03,Aisha Khan,2026,5,May,Onboarding,"Prepare onboarding for Chloe Wood (Production), starts June."
-HR03,Aisha Khan,2026,5,May,Onboarding,"Prepare onboarding for Isla Cooper (Production), starts June."
-HR03,Aisha Khan,2026,5,May,Onboarding,"Prepare onboarding for Olivia Wilson (Production), starts June."
-HR04,Lucas Miller,2026,5,May,Training,Schedule onboarding training for 3 new hire(s) starting May.
-HR05,Emma Baker,2026,5,May,Offboarding,Process offboarding for Henry Wilson (last day in May).
-HR05,Emma Baker,2026,5,May,Offboarding,Process offboarding for Olivia Wilson (last day in May).
-HR05,Emma Baker,2026,5,May,Contract,Contract of Olivia Wilson expires 2026-06-11 — initiate renewal or offboarding.
-HR05,Emma Baker,2026,5,May,Contract,Contract of Grace Wood expires 2026-06-09 — initiate renewal or offboarding.
-HR05,Emma Baker,2026,5,May,Contract,Contract of Emma Wood expires 2026-06-06 — initiate renewal or offboarding.
-HR01,Sarah Davies,2026,6,June,Retention,Review regrettable exit of Daniel Wilson — capture lessons for retention.
-HR01,Sarah Davies,2026,6,June,Retention,Review regrettable exit of Ruby Cooper — capture lessons for retention.
-HR01,Sarah Davies,2026,6,June,Retention,Review regrettable exit of James Wilson — capture lessons for retention.
-HR01,Sarah Davies,2026,6,June,Workforce,"Review June workforce movement: 5 in, 4 out."
-HR02,David Johnson,2026,6,June,Planning,Arrange holiday coverage for Production ahead of the summer leave period.
-HR03,Aisha Khan,2026,6,June,Onboarding,"Prepare onboarding for Leo Wood (Production), starts July."
-HR03,Aisha Khan,2026,6,June,Onboarding,"Prepare onboarding for Poppy Cooper (Production), starts July."
-HR04,Lucas Miller,2026,6,June,Training,Schedule onboarding training for 5 new hire(s) starting June.
-HR05,Emma Baker,2026,6,June,Offboarding,Process offboarding for Ava Wilson (last day in June).
-HR05,Emma Baker,2026,6,June,Offboarding,Process offboarding for Daniel Wilson (last day in June).
-HR05,Emma Baker,2026,6,June,Offboarding,Process offboarding for Ruby Cooper (last day in June).
-HR05,Emma Baker,2026,6,June,Offboarding,Process offboarding for James Wilson (last day in June).
-HR05,Emma Baker,2026,6,June,Contract,Contract of Florence Wilson expires 2026-07-24 — initiate renewal or offboarding.
-HR05,Emma Baker,2026,6,June,Contract,Contract of Hannah Wilson expires 2026-07-24 — initiate renewal or offboarding.
-HR05,Emma Baker,2026,6,June,Contract,Contract of Oliver Wood expires 2026-07-12 — initiate renewal or offboarding.
-HR05,Emma Baker,2026,6,June,Contract,Contract of Oscar Wilson expires 2026-07-24 — initiate renewal or offboarding.
-HR05,Emma Baker,2026,6,June,Contract,Contract of Megan Wood expires 2026-07-15 — initiate renewal or offboarding.
-HR05,Emma Baker,2026,6,June,Contract,Contract of Freya Wilson expires 2026-07-29 — initiate renewal or offboarding.
-HR05,Emma Baker,2026,6,June,Contract,Contract of Lucy Cooper expires 2026-07-24 — initiate renewal or offboarding.
-HR05,Emma Baker,2026,6,June,Contract,Contract of Sophie Wilson expires 2026-07-04 — initiate renewal or offboarding.
-HR05,Emma Baker,2026,6,June,Contract,Contract of Noah Cooper expires 2026-07-24 — initiate renewal or offboarding.
-HR01,Sarah Davies,2026,7,July,Retention,Review regrettable exit of Florence Wilson — capture lessons for retention.
-HR01,Sarah Davies,2026,7,July,Workforce,"Review July workforce movement: 2 in, 2 out."
-HR03,Aisha Khan,2026,7,July,Onboarding,"Prepare onboarding for Logan Wilson (Production), starts August."
-HR03,Aisha Khan,2026,7,July,Onboarding,"Prepare onboarding for Grace Wood (Software Engineering), starts August."
-HR04,Lucas Miller,2026,7,July,Training,Schedule onboarding training for 2 new hire(s) starting July.
-HR05,Emma Baker,2026,7,July,Offboarding,Process offboarding for Florence Wilson (last day in July).
-HR05,Emma Baker,2026,7,July,Offboarding,Process offboarding for Lucas Cooper (last day in July).
-HR01,Sarah Davies,2026,8,August,Workforce,"Review August workforce movement: 2 in, 2 out."
-HR02,David Johnson,2026,8,August,Absence,Follow up on long-term absence of Jack Cooper (Production).
-HR02,David Johnson,2026,8,August,Absence,Follow up on long-term absence of Ella Wood (Production).
-HR02,David Johnson,2026,8,August,Absence,Follow up on long-term absence of Freya Wilson (IT/IS).
-HR03,Aisha Khan,2026,8,August,Onboarding,"Prepare onboarding for Jessica Wood (Production), starts September."
-HR03,Aisha Khan,2026,8,August,Onboarding,"Prepare onboarding for Jack Cooper (IT/IS), starts September."
-HR03,Aisha Khan,2026,8,August,Onboarding,"Prepare onboarding for William Cooper (IT/IS), starts September."
-HR04,Lucas Miller,2026,8,August,Training,Schedule onboarding training for 2 new hire(s) starting August.
-HR05,Emma Baker,2026,8,August,Offboarding,Process offboarding for Lucas Cooper (last day in August).
-HR05,Emma Baker,2026,8,August,Offboarding,Process offboarding for Charlie Wood (last day in August).
-HR05,Emma Baker,2026,8,August,Contract,Contract of Charlotte Cooper expires 2026-09-13 — initiate renewal or offboarding.
-HR05,Emma Baker,2026,8,August,Contract,Contract of Charlie Wood expires 2026-09-22 — initiate renewal or offboarding.
-HR01,Sarah Davies,2026,9,September,Retention,Review regrettable exit of Mason Cooper — capture lessons for retention.
-HR01,Sarah Davies,2026,9,September,Workforce,"Review September workforce movement: 3 in, 2 out."
-HR02,David Johnson,2026,9,September,Absence,Follow up on long-term absence of Lucy Cooper (Production).
-HR02,David Johnson,2026,9,September,Absence,Follow up on long-term absence of Ava Wilson (Production).
-HR02,David Johnson,2026,9,September,Absence,Follow up on long-term absence of Thomas Wilson (IT/IS).
-HR03,Aisha Khan,2026,9,September,Onboarding,"Prepare onboarding for Alfie Wood (Production), starts October."
-HR03,Aisha Khan,2026,9,September,Onboarding,"Prepare onboarding for Ella Wood (Production), starts October."
-HR03,Aisha Khan,2026,9,September,Onboarding,"Prepare onboarding for Lily Cooper (Production), starts October."
-HR04,Lucas Miller,2026,9,September,Training,Schedule onboarding training for 3 new hire(s) starting September.
-HR05,Emma Baker,2026,9,September,Offboarding,Process offboarding for Mason Cooper (last day in September).
-HR05,Emma Baker,2026,9,September,Offboarding,Process offboarding for Alfie Wood (last day in September).
-HR05,Emma Baker,2026,9,September,Contract,Contract of James Wilson expires 2026-10-04 — initiate renewal or offboarding.
-HR05,Emma Baker,2026,9,September,Contract,Contract of Oliver Wood expires 2026-10-31 — initiate renewal or offboarding.
-HR05,Emma Baker,2026,9,September,Contract,Contract of Joseph Wood expires 2026-10-02 — initiate renewal or offboarding.
-HR05,Emma Baker,2026,9,September,Contract,Contract of Jessica Wood expires 2026-10-13 — initiate renewal or offboarding.
-HR05,Emma Baker,2026,9,September,Contract,Contract of Freya Wilson expires 2026-10-13 — initiate renewal or offboarding.
-HR05,Emma Baker,2026,9,September,Contract,Contract of Florence Wilson expires 2026-10-22 — initiate renewal or offboarding.
-HR01,Sarah Davies,2026,10,October,Retention,Review regrettable exit of Ella Wood — capture lessons for retention.
-HR01,Sarah Davies,2026,10,October,Workforce,"Review October workforce movement: 3 in, 1 out."
-HR03,Aisha Khan,2026,10,October,Onboarding,"Prepare onboarding for Jacob Wilson (Production), starts November."
-HR03,Aisha Khan,2026,10,October,Onboarding,"Prepare onboarding for Isla Cooper (IT/IS), starts November."
-HR04,Lucas Miller,2026,10,October,Training,Schedule onboarding training for 3 new hire(s) starting October.
-HR05,Emma Baker,2026,10,October,Offboarding,Process offboarding for Ella Wood (last day in October).
-HR05,Emma Baker,2026,10,October,Contract,Contract of Ruby Cooper expires 2026-11-14 — initiate renewal or offboarding.
-HR05,Emma Baker,2026,10,October,Contract,Contract of Mason Cooper expires 2026-11-25 — initiate renewal or offboarding.
-HR01,Sarah Davies,2026,11,November,Retention,Review regrettable exit of Grace Wood — capture lessons for retention.
-HR01,Sarah Davies,2026,11,November,Workforce,"Review November workforce movement: 2 in, 1 out."
-HR02,David Johnson,2026,11,November,Absence,Follow up on long-term absence of Oscar Wilson (IT/IS).
-HR04,Lucas Miller,2026,11,November,Training,Schedule onboarding training for 2 new hire(s) starting November.
-HR05,Emma Baker,2026,11,November,Offboarding,Process offboarding for Grace Wood (last day in November).
-HR05,Emma Baker,2026,11,November,Contract,Contract of Hannah Wilson expires 2026-12-03 — initiate renewal or offboarding.
-HR01,Sarah Davies,2026,12,December,Retention,Review regrettable exit of George Wood — capture lessons for retention.
-HR01,Sarah Davies,2026,12,December,Workforce,"Review December workforce movement: 0 in, 2 out."
-HR05,Emma Baker,2026,12,December,Offboarding,Process offboarding for George Wood (last day in December).
-HR05,Emma Baker,2026,12,December,Offboarding,Process offboarding for Ava Wilson (last day in December).
+HR01,Sarah Davies,2026,1,January,Workforce,Assess team impact of Callum Wood's role change (Software Engineering).
+HR01,Sarah Davies,2026,2,February,Workforce,Assess team impact of Max Cooper's role change (Production).
+HR01,Sarah Davies,2026,3,March,Workforce,Review regrettable exit of William Cooper (Production) — capture retention lessons.
+HR01,Sarah Davies,2026,3,March,Workforce,Review regrettable exit of Leo Wilson (Production) — capture retention lessons.
+HR01,Sarah Davies,2026,3,March,Workforce,Assess team impact of Olivia Wilson's role change (Sales).
+HR01,Sarah Davies,2026,4,April,Workforce,Review regrettable exit of Ethan Wood (Production) — capture retention lessons.
+HR01,Sarah Davies,2026,4,April,Workforce,Assess team impact of Isabella Cooper's role change (Production).
+HR01,Sarah Davies,2026,5,May,Workforce,Assess team impact of Julian Wood's role change (Production).
+HR01,Sarah Davies,2026,6,June,Workforce,Review regrettable exit of Florence Wilson (Production) — capture retention lessons.
+HR01,Sarah Davies,2026,6,June,Workforce,Assess team impact of Callum Wood's role change (Production).
+HR01,Sarah Davies,2026,7,July,Workforce,Review regrettable exit of Hannah Cooper (Software Engineering) — capture retention lessons.
+HR01,Sarah Davies,2026,7,July,Workforce,Review regrettable exit of Ryan Wilson (Production) — capture retention lessons.
+HR01,Sarah Davies,2026,7,July,Workforce,Review regrettable exit of George Wilson (Software Engineering) — capture retention lessons.
+HR01,Sarah Davies,2026,7,July,Workforce,Assess team impact of Mason Wood's role change (Production).
+HR01,Sarah Davies,2026,8,August,Workforce,Review regrettable exit of Mia Wilson (Production) — capture retention lessons.
+HR01,Sarah Davies,2026,8,August,Workforce,Assess team impact of Harriet Wood's role change (Production).
+HR01,Sarah Davies,2026,9,September,Workforce,Assess team impact of Rebecca Cooper's role change (Production).
+HR01,Sarah Davies,2026,10,October,Workforce,Review regrettable exit of Dominic Cooper (Production) — capture retention lessons.
+HR01,Sarah Davies,2026,10,October,Workforce,Assess team impact of Imogen Wood's role change (Software Engineering).
+HR01,Sarah Davies,2026,11,November,Workforce,Review regrettable exit of Esme Wood (Production) — capture retention lessons.
+HR01,Sarah Davies,2026,11,November,Workforce,Assess team impact of Mia Wilson's role change (Sales).
+HR01,Sarah Davies,2026,12,December,Workforce,Review regrettable exit of Sebastian Wood (Production) — capture retention lessons.
+HR01,Sarah Davies,2026,12,December,Workforce,Review regrettable exit of Daisy Wood (Production) — capture retention lessons.
+HR02,David Johnson,2026,2,February,Absence,Follow up on long-term absence of Isla Cooper (Production).
+HR02,David Johnson,2026,2,February,Absence,Arrange interim cover for Isla Cooper (Production) during leave.
+HR02,David Johnson,2026,4,April,Absence,Follow up on long-term absence of Rebecca Cooper (Production).
+HR02,David Johnson,2026,4,April,Absence,Arrange interim cover for Rebecca Cooper (Production) during leave.
+HR02,David Johnson,2026,9,September,Absence,Follow up on long-term absence of Clara Wood (IT/IS).
+HR02,David Johnson,2026,9,September,Absence,Arrange interim cover for Clara Wood (IT/IS) during leave.
+HR02,David Johnson,2026,9,September,Absence,Follow up on long-term absence of Vincent Cooper (Production).
+HR02,David Johnson,2026,9,September,Absence,Arrange interim cover for Vincent Cooper (Production) during leave.
+HR02,David Johnson,2026,11,November,Absence,Follow up on long-term absence of Ruby Cooper (Production).
+HR02,David Johnson,2026,11,November,Absence,Arrange interim cover for Ruby Cooper (Production) during leave.
+HR02,David Johnson,2026,11,November,Absence,Follow up on long-term absence of Isabella Cooper (IT/IS).
+HR02,David Johnson,2026,11,November,Absence,Arrange interim cover for Isabella Cooper (IT/IS) during leave.
+HR03,Aisha Khan,2026,2,February,Onboarding,Onboard Evie Wilson (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,2,February,Onboarding,Onboard Sophie Cooper (Sales) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,2,February,Onboarding,Onboard Ethan Wilson (Sales) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,3,March,Onboarding,Onboard Ruby Cooper (IT/IS) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,3,March,Onboarding,Onboard Zoe Wood (Executive Office) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,4,April,Onboarding,Onboard Julian Wood (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,4,April,Onboarding,Onboard Ava Wilson (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,4,April,Onboarding,Onboard Rebecca Cooper (IT/IS) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,5,May,Onboarding,Onboard Luke Cooper (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,5,May,Onboarding,Onboard Iris Wood (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,5,May,Onboarding,Onboard Noah Cooper (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,6,June,Onboarding,Onboard George Wilson (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,6,June,Onboarding,Onboard Clara Wood (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,6,June,Onboarding,Onboard Isaac Wilson (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,6,June,Onboarding,Onboard Grace Cooper (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,6,June,Onboarding,Onboard Florence Wilson (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,7,July,Onboarding,Onboard Beatrice Cooper (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,7,July,Onboarding,Onboard James Wood (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,8,August,Onboarding,Onboard Benjamin Wilson (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,8,August,Onboarding,Onboard Imogen Wood (Software Engineering) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,9,September,Onboarding,Onboard Emma Wood (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,9,September,Onboarding,Onboard Joshua Cooper (IT/IS) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,9,September,Onboarding,Onboard Dominic Cooper (IT/IS) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,10,October,Onboarding,Onboard Samuel Wood (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,10,October,Onboarding,Onboard Zoe Wood (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,10,October,Onboarding,Onboard Matilda Cooper (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,11,November,Onboarding,Onboard Gabriel Wilson (Production) — first-week check-in and equipment setup.
+HR03,Aisha Khan,2026,11,November,Onboarding,Onboard Rosie Cooper (IT/IS) — first-week check-in and equipment setup.
+HR04,Lucas Miller,2026,1,January,Training,Enrolled Callum Wood (Software Engineering) in Communication Skills.
+HR04,Lucas Miller,2026,2,February,Training,Enrolled Freya Wilson (Admin Offices) in Technical Skills.
+HR04,Lucas Miller,2026,3,March,Training,Enrolled Emily Cooper (IT/IS) in Customer Service.
+HR04,Lucas Miller,2026,4,April,Training,Enrolled Maya Wood (Production) in Project Management.
+HR04,Lucas Miller,2026,5,May,Training,Enrolled Finley Wood (Production) in Project Management.
+HR04,Lucas Miller,2026,6,June,Training,Enrolled Ruby Cooper (IT/IS) in Technical Skills.
+HR04,Lucas Miller,2026,7,July,Training,Enrolled Grace Cooper (Production) in Technical Skills.
+HR04,Lucas Miller,2026,8,August,Training,Enrolled Eleanor Cooper (Production) in Communication Skills.
+HR04,Lucas Miller,2026,9,September,Training,Enrolled Vincent Cooper (Production) in Leadership Development.
+HR04,Lucas Miller,2026,10,October,Training,Enrolled Isabella Cooper (IT/IS) in Customer Service.
+HR05,Emma Baker,2026,1,January,Contract,Contract review for Callum Wood (Software Engineering) — renewal decision due.
+HR05,Emma Baker,2026,1,January,Contract,Contract review for Lily Cooper (Production) — renewal decision due.
+HR05,Emma Baker,2026,2,February,Contract,Contract review for Ava Wilson (Software Engineering) — renewal decision due.
+HR05,Emma Baker,2026,2,February,Contract,Contract review for Harriet Wood (Sales) — renewal decision due.
+HR05,Emma Baker,2026,3,March,Offboarding,Offboarding William Cooper (Production) — exit administration and final pay.
+HR05,Emma Baker,2026,3,March,Offboarding,Offboarding Leo Wilson (Production) — exit administration and final pay.
+HR05,Emma Baker,2026,3,March,Contract,Contract review for Dylan Cooper (Production) — renewal decision due.
+HR05,Emma Baker,2026,3,March,Contract,Contract review for Callum Wood (Production) — renewal decision due.
+HR05,Emma Baker,2026,4,April,Offboarding,Offboarding Hazel Wood (Production) — exit administration and final pay.
+HR05,Emma Baker,2026,4,April,Offboarding,Offboarding Ethan Wood (Production) — exit administration and final pay.
+HR05,Emma Baker,2026,4,April,Contract,Contract review for Faith Wilson (Production) — renewal decision due.
+HR05,Emma Baker,2026,4,April,Contract,Contract review for Arthur Cooper (Production) — renewal decision due.
+HR05,Emma Baker,2026,5,May,Offboarding,Offboarding Sophie Cooper (Production) — exit administration and final pay.
+HR05,Emma Baker,2026,5,May,Offboarding,Offboarding Willow Cooper (Production) — exit administration and final pay.
+HR05,Emma Baker,2026,5,May,Contract,Contract review for Max Cooper (Production) — renewal decision due.
+HR05,Emma Baker,2026,5,May,Contract,Contract review for Clara Wood (IT/IS) — renewal decision due.
+HR05,Emma Baker,2026,6,June,Offboarding,Offboarding Logan Wilson (Production) — exit administration and final pay.
+HR05,Emma Baker,2026,6,June,Offboarding,Offboarding Florence Wilson (Production) — exit administration and final pay.
+HR05,Emma Baker,2026,6,June,Contract,Contract review for Louis Cooper (Production) — renewal decision due.
+HR05,Emma Baker,2026,6,June,Contract,Contract review for Phoebe Wood (IT/IS) — renewal decision due.
+HR05,Emma Baker,2026,7,July,Offboarding,Offboarding Hannah Cooper (Software Engineering) — exit administration and final pay.
+HR05,Emma Baker,2026,7,July,Offboarding,Offboarding Poppy Wilson (Production) — exit administration and final pay.
+HR05,Emma Baker,2026,7,July,Offboarding,Offboarding Ryan Wilson (Production) — exit administration and final pay.
+HR05,Emma Baker,2026,7,July,Offboarding,Offboarding George Wilson (Software Engineering) — exit administration and final pay.
+HR05,Emma Baker,2026,7,July,Contract,Contract review for Freya Wilson (Admin Offices) — renewal decision due.
+HR05,Emma Baker,2026,7,July,Contract,Contract review for Harriet Wood (Production) — renewal decision due.
+HR05,Emma Baker,2026,8,August,Offboarding,Offboarding Alfie Cooper (IT/IS) — exit administration and final pay.
+HR05,Emma Baker,2026,8,August,Offboarding,Offboarding Mia Wilson (Production) — exit administration and final pay.
+HR05,Emma Baker,2026,8,August,Contract,Contract review for Mason Cooper (Admin Offices) — renewal decision due.
+HR05,Emma Baker,2026,8,August,Contract,Contract review for Theo Wilson (Production) — renewal decision due.
+HR05,Emma Baker,2026,9,September,Offboarding,Offboarding Joshua Cooper (Production) — exit administration and final pay.
+HR05,Emma Baker,2026,9,September,Offboarding,Offboarding Jack Wood (Production) — exit administration and final pay.
+HR05,Emma Baker,2026,9,September,Contract,Contract review for Jacob Cooper (Production) — renewal decision due.
+HR05,Emma Baker,2026,9,September,Contract,Contract review for Leo Wilson (IT/IS) — renewal decision due.
+HR05,Emma Baker,2026,10,October,Offboarding,Offboarding Dominic Cooper (Production) — exit administration and final pay.
+HR05,Emma Baker,2026,10,October,Offboarding,Offboarding Benjamin Wood (Sales) — exit administration and final pay.
+HR05,Emma Baker,2026,10,October,Contract,Contract review for Emily Cooper (Production) — renewal decision due.
+HR05,Emma Baker,2026,10,October,Contract,Contract review for Phoebe Wood (Production) — renewal decision due.
+HR05,Emma Baker,2026,11,November,Offboarding,Offboarding Esme Wood (Production) — exit administration and final pay.
+HR05,Emma Baker,2026,11,November,Contract,Contract review for Julian Wood (Production) — renewal decision due.
+HR05,Emma Baker,2026,11,November,Contract,Contract review for Lara Cooper (Production) — renewal decision due.
+HR05,Emma Baker,2026,12,December,Offboarding,Offboarding Sebastian Wood (Production) — exit administration and final pay.
+HR05,Emma Baker,2026,12,December,Offboarding,Offboarding Evie Wilson (IT/IS) — exit administration and final pay.
+HR05,Emma Baker,2026,12,December,Offboarding,Offboarding Daisy Wood (Production) — exit administration and final pay.
