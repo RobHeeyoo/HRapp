@@ -1,424 +1,424 @@
 MedewerkerID,Naam,Jaar,Maand,Maandnaam,Status,Ziektedagen,Vakantiedagen
-2921,Finn Visser,2026,1,Januari,Actief,0,10
-2921,Finn Visser,2026,2,Februari,Actief,0,0
-2921,Finn Visser,2026,3,Maart,Actief,0,0
-2921,Finn Visser,2026,4,April,Actief,0,0
-2921,Finn Visser,2026,5,Mei,Actief,0,0
-2921,Finn Visser,2026,6,Juni,Uit dienst,0,0
-2921,Finn Visser,2026,7,Juli,Uit dienst,0,0
-2921,Finn Visser,2026,8,Augustus,Uit dienst,0,0
-2921,Finn Visser,2026,9,September,Uit dienst,0,0
-2921,Finn Visser,2026,10,Oktober,Uit dienst,0,0
-2921,Finn Visser,2026,11,November,Uit dienst,0,0
-2921,Finn Visser,2026,12,December,Uit dienst,0,0
-3697,Thijs de Wit,2026,1,Januari,Actief,5,5
-3697,Thijs de Wit,2026,2,Februari,Actief,0,0
-3697,Thijs de Wit,2026,3,Maart,Actief,2,1
-3697,Thijs de Wit,2026,4,April,Uit dienst,0,0
-3697,Thijs de Wit,2026,5,Mei,Uit dienst,0,0
-3697,Thijs de Wit,2026,6,Juni,Uit dienst,0,0
-3697,Thijs de Wit,2026,7,Juli,Uit dienst,0,0
-3697,Thijs de Wit,2026,8,Augustus,Uit dienst,0,0
-3697,Thijs de Wit,2026,9,September,Uit dienst,0,0
-3697,Thijs de Wit,2026,10,Oktober,Uit dienst,0,0
-3697,Thijs de Wit,2026,11,November,Uit dienst,0,0
-3697,Thijs de Wit,2026,12,December,Uit dienst,0,0
-2973,Bas Koning,2026,1,Januari,Actief,0,0
-2973,Bas Koning,2026,2,Februari,Actief,0,0
-2973,Bas Koning,2026,3,Maart,Actief,0,2
-2973,Bas Koning,2026,4,April,Actief,0,0
-2973,Bas Koning,2026,5,Mei,Actief,6,0
-2973,Bas Koning,2026,6,Juni,Actief,0,13
-2973,Bas Koning,2026,7,Juli,Actief,0,2
-2973,Bas Koning,2026,8,Augustus,Actief,0,0
-2973,Bas Koning,2026,9,September,Uit dienst,0,0
-2973,Bas Koning,2026,10,Oktober,Uit dienst,0,0
-2973,Bas Koning,2026,11,November,Uit dienst,0,0
-2973,Bas Koning,2026,12,December,Uit dienst,0,0
-1314,Sophie Mulder,2026,1,Januari,Actief,0,0
-1314,Sophie Mulder,2026,2,Februari,Actief,0,0
-1314,Sophie Mulder,2026,3,Maart,Actief,0,0
-1314,Sophie Mulder,2026,4,April,Actief,0,2
-1314,Sophie Mulder,2026,5,Mei,Actief,0,0
-1314,Sophie Mulder,2026,6,Juni,Actief,0,10
-1314,Sophie Mulder,2026,7,Juli,Uit dienst,0,0
-1314,Sophie Mulder,2026,8,Augustus,Uit dienst,0,0
-1314,Sophie Mulder,2026,9,September,Uit dienst,0,0
-1314,Sophie Mulder,2026,10,Oktober,Uit dienst,0,0
-1314,Sophie Mulder,2026,11,November,Uit dienst,0,0
-1314,Sophie Mulder,2026,12,December,Uit dienst,0,0
-2400,Nora Kok,2026,1,Januari,Actief,1,0
-2400,Nora Kok,2026,2,Februari,Actief,0,0
-2400,Nora Kok,2026,3,Maart,Actief,0,0
-2400,Nora Kok,2026,4,April,Actief,0,0
-2400,Nora Kok,2026,5,Mei,Actief,0,0
-2400,Nora Kok,2026,6,Juni,Actief,0,0
-2400,Nora Kok,2026,7,Juli,Actief,0,12
-2400,Nora Kok,2026,8,Augustus,Actief,0,0
-2400,Nora Kok,2026,9,September,Actief,0,0
-2400,Nora Kok,2026,10,Oktober,Actief,0,8
-2400,Nora Kok,2026,11,November,Uit dienst,0,0
-2400,Nora Kok,2026,12,December,Uit dienst,0,0
-3110,Evi de Vries,2026,1,Januari,Actief,1,0
-3110,Evi de Vries,2026,2,Februari,Actief,0,0
-3110,Evi de Vries,2026,3,Maart,Actief,0,8
-3110,Evi de Vries,2026,4,April,Actief,0,0
-3110,Evi de Vries,2026,5,Mei,Uit dienst,0,0
-3110,Evi de Vries,2026,6,Juni,Uit dienst,0,0
-3110,Evi de Vries,2026,7,Juli,Uit dienst,0,0
-3110,Evi de Vries,2026,8,Augustus,Uit dienst,0,0
-3110,Evi de Vries,2026,9,September,Uit dienst,0,0
-3110,Evi de Vries,2026,10,Oktober,Uit dienst,0,0
-3110,Evi de Vries,2026,11,November,Uit dienst,0,0
-3110,Evi de Vries,2026,12,December,Uit dienst,0,0
-2036,Daan Peters,2026,1,Januari,Actief,0,4
-2036,Daan Peters,2026,2,Februari,Actief,2,0
-2036,Daan Peters,2026,3,Maart,Uit dienst,0,0
-2036,Daan Peters,2026,4,April,Uit dienst,0,0
-2036,Daan Peters,2026,5,Mei,Uit dienst,0,0
-2036,Daan Peters,2026,6,Juni,Uit dienst,0,0
-2036,Daan Peters,2026,7,Juli,Uit dienst,0,0
-2036,Daan Peters,2026,8,Augustus,Uit dienst,0,0
-2036,Daan Peters,2026,9,September,Uit dienst,0,0
-2036,Daan Peters,2026,10,Oktober,Uit dienst,0,0
-2036,Daan Peters,2026,11,November,Uit dienst,0,0
-2036,Daan Peters,2026,12,December,Uit dienst,0,0
-3093,Jesse van Dijk,2026,1,Januari,Actief,0,0
-3093,Jesse van Dijk,2026,2,Februari,Actief,0,0
-3093,Jesse van Dijk,2026,3,Maart,Actief,0,10
-3093,Jesse van Dijk,2026,4,April,Actief,0,0
-3093,Jesse van Dijk,2026,5,Mei,Actief,0,4
-3093,Jesse van Dijk,2026,6,Juni,Actief,0,0
-3093,Jesse van Dijk,2026,7,Juli,Actief,0,3
-3093,Jesse van Dijk,2026,8,Augustus,Actief,0,0
-3093,Jesse van Dijk,2026,9,September,Uit dienst,0,0
-3093,Jesse van Dijk,2026,10,Oktober,Uit dienst,0,0
-3093,Jesse van Dijk,2026,11,November,Uit dienst,0,0
-3093,Jesse van Dijk,2026,12,December,Uit dienst,0,0
-2031,Lars Bakker,2026,1,Januari,Actief,0,5
-2031,Lars Bakker,2026,2,Februari,Actief,0,1
-2031,Lars Bakker,2026,3,Maart,Actief,0,0
-2031,Lars Bakker,2026,4,April,Actief,1,3
-2031,Lars Bakker,2026,5,Mei,Actief,0,2
-2031,Lars Bakker,2026,6,Juni,Actief,0,3
-2031,Lars Bakker,2026,7,Juli,Actief,0,0
-2031,Lars Bakker,2026,8,Augustus,Actief,0,3
-2031,Lars Bakker,2026,9,September,Actief,1,2
-2031,Lars Bakker,2026,10,Oktober,Uit dienst,0,0
-2031,Lars Bakker,2026,11,November,Uit dienst,0,0
-2031,Lars Bakker,2026,12,December,Uit dienst,0,0
-3255,Julia Brouwer,2026,1,Januari,Actief,2,10
-3255,Julia Brouwer,2026,2,Februari,Actief,0,0
-3255,Julia Brouwer,2026,3,Maart,Actief,0,0
-3255,Julia Brouwer,2026,4,April,Actief,0,0
-3255,Julia Brouwer,2026,5,Mei,Actief,0,0
-3255,Julia Brouwer,2026,6,Juni,Uit dienst,0,0
-3255,Julia Brouwer,2026,7,Juli,Uit dienst,0,0
-3255,Julia Brouwer,2026,8,Augustus,Uit dienst,0,0
-3255,Julia Brouwer,2026,9,September,Uit dienst,0,0
-3255,Julia Brouwer,2026,10,Oktober,Uit dienst,0,0
-3255,Julia Brouwer,2026,11,November,Uit dienst,0,0
-3255,Julia Brouwer,2026,12,December,Uit dienst,0,0
-3087,Eva Verhoeven,2026,1,Januari,Actief,2,5
-3087,Eva Verhoeven,2026,2,Februari,Actief,0,0
-3087,Eva Verhoeven,2026,3,Maart,Actief,0,0
-3087,Eva Verhoeven,2026,4,April,Actief,0,0
-3087,Eva Verhoeven,2026,5,Mei,Actief,0,0
-3087,Eva Verhoeven,2026,6,Juni,Actief,0,0
-3087,Eva Verhoeven,2026,7,Juli,Actief,0,0
-3087,Eva Verhoeven,2026,8,Augustus,Actief,0,13
-3087,Eva Verhoeven,2026,9,September,Actief,0,0
-3087,Eva Verhoeven,2026,10,Oktober,Actief,0,0
-3087,Eva Verhoeven,2026,11,November,Actief,0,2
-3087,Eva Verhoeven,2026,12,December,Uit dienst,0,0
-1599,Maud de Boer,2026,1,Januari,Actief,0,0
-1599,Maud de Boer,2026,2,Februari,Actief,0,0
-1599,Maud de Boer,2026,3,Maart,Actief,5,0
-1599,Maud de Boer,2026,4,April,Actief,0,8
-1599,Maud de Boer,2026,5,Mei,Uit dienst,0,0
-1599,Maud de Boer,2026,6,Juni,Uit dienst,0,0
-1599,Maud de Boer,2026,7,Juli,Uit dienst,0,0
-1599,Maud de Boer,2026,8,Augustus,Uit dienst,0,0
-1599,Maud de Boer,2026,9,September,Uit dienst,0,0
-1599,Maud de Boer,2026,10,Oktober,Uit dienst,0,0
-1599,Maud de Boer,2026,11,November,Uit dienst,0,0
-1599,Maud de Boer,2026,12,December,Uit dienst,0,0
-3372,Femke van der Meer,2026,1,Januari,Actief,0,0
-3372,Femke van der Meer,2026,2,Februari,Actief,0,0
-3372,Femke van der Meer,2026,3,Maart,Actief,0,1
-3372,Femke van der Meer,2026,4,April,Actief,0,1
-3372,Femke van der Meer,2026,5,Mei,Actief,0,5
-3372,Femke van der Meer,2026,6,Juni,Actief,0,0
-3372,Femke van der Meer,2026,7,Juli,Actief,0,8
-3372,Femke van der Meer,2026,8,Augustus,Uit dienst,0,0
-3372,Femke van der Meer,2026,9,September,Uit dienst,0,0
-3372,Femke van der Meer,2026,10,Oktober,Uit dienst,0,0
-3372,Femke van der Meer,2026,11,November,Uit dienst,0,0
-3372,Femke van der Meer,2026,12,December,Uit dienst,0,0
-2106,Levi Peeters,2026,1,Januari,Actief,0,2
-2106,Levi Peeters,2026,2,Februari,Actief,0,3
-2106,Levi Peeters,2026,3,Maart,Actief,0,0
-2106,Levi Peeters,2026,4,April,Actief,0,0
-2106,Levi Peeters,2026,5,Mei,Actief,0,0
-2106,Levi Peeters,2026,6,Juni,Actief,0,0
-2106,Levi Peeters,2026,7,Juli,Actief,0,10
-2106,Levi Peeters,2026,8,Augustus,Actief,0,0
-2106,Levi Peeters,2026,9,September,Actief,0,5
-2106,Levi Peeters,2026,10,Oktober,Actief,0,0
-2106,Levi Peeters,2026,11,November,Actief,0,0
-2106,Levi Peeters,2026,12,December,Actief,0,0
-2026,Cas Vos,2026,1,Januari,Actief,2,4
-2026,Cas Vos,2026,2,Februari,Actief,0,0
-2026,Cas Vos,2026,3,Maart,Uit dienst,0,0
-2026,Cas Vos,2026,4,April,Uit dienst,0,0
-2026,Cas Vos,2026,5,Mei,Uit dienst,0,0
-2026,Cas Vos,2026,6,Juni,Uit dienst,0,0
-2026,Cas Vos,2026,7,Juli,Uit dienst,0,0
-2026,Cas Vos,2026,8,Augustus,Uit dienst,0,0
-2026,Cas Vos,2026,9,September,Uit dienst,0,0
-2026,Cas Vos,2026,10,Oktober,Uit dienst,0,0
-2026,Cas Vos,2026,11,November,Uit dienst,0,0
-2026,Cas Vos,2026,12,December,Uit dienst,0,0
-2195,Niels Kuipers,2026,1,Januari,Actief,0,10
-2195,Niels Kuipers,2026,2,Februari,Actief,0,0
-2195,Niels Kuipers,2026,3,Maart,Actief,0,0
-2195,Niels Kuipers,2026,4,April,Actief,0,0
-2195,Niels Kuipers,2026,5,Mei,Actief,0,0
-2195,Niels Kuipers,2026,6,Juni,Actief,0,2
-2195,Niels Kuipers,2026,7,Juli,Uit dienst,0,0
-2195,Niels Kuipers,2026,8,Augustus,Uit dienst,0,0
-2195,Niels Kuipers,2026,9,September,Uit dienst,0,0
-2195,Niels Kuipers,2026,10,Oktober,Uit dienst,0,0
-2195,Niels Kuipers,2026,11,November,Uit dienst,0,0
-2195,Niels Kuipers,2026,12,December,Uit dienst,0,0
-2022,Anna van den Berg,2026,1,Januari,Actief,0,1
-2022,Anna van den Berg,2026,2,Februari,Actief,8,0
-2022,Anna van den Berg,2026,3,Maart,Actief,1,5
-2022,Anna van den Berg,2026,4,April,Uit dienst,0,0
-2022,Anna van den Berg,2026,5,Mei,Uit dienst,0,0
-2022,Anna van den Berg,2026,6,Juni,Uit dienst,0,0
-2022,Anna van den Berg,2026,7,Juli,Uit dienst,0,0
-2022,Anna van den Berg,2026,8,Augustus,Uit dienst,0,0
-2022,Anna van den Berg,2026,9,September,Uit dienst,0,0
-2022,Anna van den Berg,2026,10,Oktober,Uit dienst,0,0
-2022,Anna van den Berg,2026,11,November,Uit dienst,0,0
-2022,Anna van den Berg,2026,12,December,Uit dienst,0,0
-1815,Liv Dekker,2026,1,Januari,Actief,2,0
-1815,Liv Dekker,2026,2,Februari,Actief,0,0
-1815,Liv Dekker,2026,3,Maart,Actief,0,0
-1815,Liv Dekker,2026,4,April,Actief,0,2
-1815,Liv Dekker,2026,5,Mei,Actief,0,2
-1815,Liv Dekker,2026,6,Juni,Actief,0,0
-1815,Liv Dekker,2026,7,Juli,Actief,1,5
-1815,Liv Dekker,2026,8,Augustus,Actief,0,10
-1815,Liv Dekker,2026,9,September,Actief,0,0
-1815,Liv Dekker,2026,10,Oktober,Actief,0,5
-1815,Liv Dekker,2026,11,November,Actief,0,0
-1815,Liv Dekker,2026,12,December,Actief,0,0
-1976,Loes Maas,2026,1,Januari,Actief,0,0
-1976,Loes Maas,2026,2,Februari,Actief,0,0
-1976,Loes Maas,2026,3,Maart,Actief,0,0
-1976,Loes Maas,2026,4,April,Actief,0,0
-1976,Loes Maas,2026,5,Mei,Actief,0,5
-1976,Loes Maas,2026,6,Juni,Actief,0,0
-1976,Loes Maas,2026,7,Juli,Actief,0,10
-1976,Loes Maas,2026,8,Augustus,Actief,0,0
-1976,Loes Maas,2026,9,September,Actief,0,3
-1976,Loes Maas,2026,10,Oktober,Actief,2,5
-1976,Loes Maas,2026,11,November,Actief,0,0
-1976,Loes Maas,2026,12,December,Actief,0,2
-3063,Sem Meijer,2026,1,Januari,Actief,0,0
-3063,Sem Meijer,2026,2,Februari,Actief,0,0
-3063,Sem Meijer,2026,3,Maart,Actief,0,0
-3063,Sem Meijer,2026,4,April,Actief,0,0
-3063,Sem Meijer,2026,5,Mei,Actief,2,5
-3063,Sem Meijer,2026,6,Juni,Actief,0,0
-3063,Sem Meijer,2026,7,Juli,Actief,0,13
-3063,Sem Meijer,2026,8,Augustus,Actief,0,0
-3063,Sem Meijer,2026,9,September,Actief,0,0
-3063,Sem Meijer,2026,10,Oktober,Actief,0,0
-3063,Sem Meijer,2026,11,November,Actief,0,0
-3063,Sem Meijer,2026,12,December,Actief,0,2
-1404,Sven Smits,2026,1,Januari,Actief,2,3
-1404,Sven Smits,2026,2,Februari,Actief,0,3
-1404,Sven Smits,2026,3,Maart,Actief,0,0
-1404,Sven Smits,2026,4,April,Actief,0,5
-1404,Sven Smits,2026,5,Mei,Actief,0,0
-1404,Sven Smits,2026,6,Juni,Actief,0,0
-1404,Sven Smits,2026,7,Juli,Actief,0,10
-1404,Sven Smits,2026,8,Augustus,Actief,0,0
-1404,Sven Smits,2026,9,September,Actief,0,0
-1404,Sven Smits,2026,10,Oktober,Actief,0,0
-1404,Sven Smits,2026,11,November,Actief,0,0
-1404,Sven Smits,2026,12,December,Actief,0,0
-1603,Stijn Huisman,2026,1,Januari,Nog niet in dienst,0,0
-1603,Stijn Huisman,2026,2,Februari,Nog niet in dienst,0,0
-1603,Stijn Huisman,2026,3,Maart,Nog niet in dienst,0,0
-1603,Stijn Huisman,2026,4,April,Nog niet in dienst,0,0
-1603,Stijn Huisman,2026,5,Mei,Nog niet in dienst,0,0
-1603,Stijn Huisman,2026,6,Juni,Nog niet in dienst,0,0
-1603,Stijn Huisman,2026,7,Juli,Nog niet in dienst,0,0
-1603,Stijn Huisman,2026,8,Augustus,Actief,0,5
-1603,Stijn Huisman,2026,9,September,Actief,0,3
-1603,Stijn Huisman,2026,10,Oktober,Actief,0,0
-1603,Stijn Huisman,2026,11,November,Actief,0,0
-1603,Stijn Huisman,2026,12,December,Actief,0,2
-2816,Mila Bos,2026,1,Januari,Actief,0,0
-2816,Mila Bos,2026,2,Februari,Actief,1,0
-2816,Mila Bos,2026,3,Maart,Actief,0,0
-2816,Mila Bos,2026,4,April,Actief,0,3
-2816,Mila Bos,2026,5,Mei,Actief,0,5
-2816,Mila Bos,2026,6,Juni,Actief,0,0
-2816,Mila Bos,2026,7,Juli,Actief,0,10
-2816,Mila Bos,2026,8,Augustus,Actief,0,2
-2816,Mila Bos,2026,9,September,Actief,0,0
-2816,Mila Bos,2026,10,Oktober,Actief,0,0
-2816,Mila Bos,2026,11,November,Actief,0,0
-2816,Mila Bos,2026,12,December,Actief,0,0
-1471,Fenna Vermeulen,2026,1,Januari,Actief,0,0
-1471,Fenna Vermeulen,2026,2,Februari,Actief,0,0
-1471,Fenna Vermeulen,2026,3,Maart,Actief,1,3
-1471,Fenna Vermeulen,2026,4,April,Actief,0,5
-1471,Fenna Vermeulen,2026,5,Mei,Actief,0,0
-1471,Fenna Vermeulen,2026,6,Juni,Actief,2,0
-1471,Fenna Vermeulen,2026,7,Juli,Actief,0,0
-1471,Fenna Vermeulen,2026,8,Augustus,Actief,0,10
-1471,Fenna Vermeulen,2026,9,September,Actief,0,5
-1471,Fenna Vermeulen,2026,10,Oktober,Actief,0,0
-1471,Fenna Vermeulen,2026,11,November,Actief,0,0
-1471,Fenna Vermeulen,2026,12,December,Actief,0,2
-2008,Floor de Jong,2026,1,Januari,Actief,0,0
-2008,Floor de Jong,2026,2,Februari,Actief,0,0
-2008,Floor de Jong,2026,3,Maart,Actief,2,0
-2008,Floor de Jong,2026,4,April,Actief,0,0
-2008,Floor de Jong,2026,5,Mei,Actief,0,0
-2008,Floor de Jong,2026,6,Juni,Actief,0,0
-2008,Floor de Jong,2026,7,Juli,Actief,0,2
-2008,Floor de Jong,2026,8,Augustus,Actief,0,10
-2008,Floor de Jong,2026,9,September,Actief,0,0
-2008,Floor de Jong,2026,10,Oktober,Actief,0,0
-2008,Floor de Jong,2026,11,November,Actief,0,0
-2008,Floor de Jong,2026,12,December,Actief,0,7
-2291,Iris van Leeuwen,2026,1,Januari,Actief,0,3
-2291,Iris van Leeuwen,2026,2,Februari,Actief,0,0
-2291,Iris van Leeuwen,2026,3,Maart,Actief,0,0
-2291,Iris van Leeuwen,2026,4,April,Actief,0,3
-2291,Iris van Leeuwen,2026,5,Mei,Actief,0,0
-2291,Iris van Leeuwen,2026,6,Juni,Actief,0,5
-2291,Iris van Leeuwen,2026,7,Juli,Actief,0,0
-2291,Iris van Leeuwen,2026,8,Augustus,Actief,0,10
-2291,Iris van Leeuwen,2026,9,September,Actief,0,0
-2291,Iris van Leeuwen,2026,10,Oktober,Actief,0,0
-2291,Iris van Leeuwen,2026,11,November,Actief,0,0
-2291,Iris van Leeuwen,2026,12,December,Actief,0,0
-3007,Liam Willems,2026,1,Januari,Actief,0,0
-3007,Liam Willems,2026,2,Februari,Actief,0,0
-3007,Liam Willems,2026,3,Maart,Actief,0,0
-3007,Liam Willems,2026,4,April,Actief,0,0
-3007,Liam Willems,2026,5,Mei,Actief,0,0
-3007,Liam Willems,2026,6,Juni,Actief,0,8
-3007,Liam Willems,2026,7,Juli,Actief,0,3
-3007,Liam Willems,2026,8,Augustus,Actief,0,10
-3007,Liam Willems,2026,9,September,Actief,0,0
-3007,Liam Willems,2026,10,Oktober,Actief,0,0
-3007,Liam Willems,2026,11,November,Actief,2,0
-3007,Liam Willems,2026,12,December,Actief,0,0
-1440,Tim Smit,2026,1,Januari,Nog niet in dienst,0,0
-1440,Tim Smit,2026,2,Februari,Nog niet in dienst,0,0
-1440,Tim Smit,2026,3,Maart,Nog niet in dienst,0,0
-1440,Tim Smit,2026,4,April,Nog niet in dienst,0,0
-1440,Tim Smit,2026,5,Mei,Nog niet in dienst,0,0
-1440,Tim Smit,2026,6,Juni,Actief,0,4
-1440,Tim Smit,2026,7,Juli,Actief,0,0
-1440,Tim Smit,2026,8,Augustus,Actief,2,0
-1440,Tim Smit,2026,9,September,Actief,0,2
-1440,Tim Smit,2026,10,Oktober,Actief,0,3
-1440,Tim Smit,2026,11,November,Actief,0,0
-1440,Tim Smit,2026,12,December,Actief,0,6
-1963,Tom Dijkstra,2026,1,Januari,Actief,0,0
-1963,Tom Dijkstra,2026,2,Februari,Actief,0,0
-1963,Tom Dijkstra,2026,3,Maart,Actief,0,3
-1963,Tom Dijkstra,2026,4,April,Actief,0,5
-1963,Tom Dijkstra,2026,5,Mei,Actief,0,0
-1963,Tom Dijkstra,2026,6,Juni,Actief,0,0
-1963,Tom Dijkstra,2026,7,Juli,Actief,0,10
-1963,Tom Dijkstra,2026,8,Augustus,Actief,2,0
-1963,Tom Dijkstra,2026,9,September,Actief,0,0
-1963,Tom Dijkstra,2026,10,Oktober,Actief,0,0
-1963,Tom Dijkstra,2026,11,November,Actief,0,2
-1963,Tom Dijkstra,2026,12,December,Actief,0,0
-2447,Lotte Prins,2026,1,Januari,Actief,0,0
-2447,Lotte Prins,2026,2,Februari,Actief,0,0
-2447,Lotte Prins,2026,3,Maart,Actief,2,0
-2447,Lotte Prins,2026,4,April,Met verlof,0,0
-2447,Lotte Prins,2026,5,Mei,Actief,0,0
-2447,Lotte Prins,2026,6,Juni,Actief,0,0
-2447,Lotte Prins,2026,7,Juli,Actief,0,12
-2447,Lotte Prins,2026,8,Augustus,Actief,0,0
-2447,Lotte Prins,2026,9,September,Actief,1,2
-2447,Lotte Prins,2026,10,Oktober,Actief,0,0
-2447,Lotte Prins,2026,11,November,Actief,0,0
-2447,Lotte Prins,2026,12,December,Actief,0,5
-3328,Roos de Groot,2026,1,Januari,Actief,0,0
-3328,Roos de Groot,2026,2,Februari,Actief,0,0
-3328,Roos de Groot,2026,3,Maart,Actief,0,0
-3328,Roos de Groot,2026,4,April,Actief,2,3
-3328,Roos de Groot,2026,5,Mei,Actief,0,0
-3328,Roos de Groot,2026,6,Juni,Actief,0,0
-3328,Roos de Groot,2026,7,Juli,Actief,0,10
-3328,Roos de Groot,2026,8,Augustus,Actief,0,5
-3328,Roos de Groot,2026,9,September,Actief,0,3
-3328,Roos de Groot,2026,10,Oktober,Actief,0,0
-3328,Roos de Groot,2026,11,November,Actief,0,0
-3328,Roos de Groot,2026,12,December,Actief,1,0
-1282,Maaike Jacobs,2026,1,Januari,Actief,0,0
-1282,Maaike Jacobs,2026,2,Februari,Actief,0,0
-1282,Maaike Jacobs,2026,3,Maart,Actief,0,0
-1282,Maaike Jacobs,2026,4,April,Actief,0,0
-1282,Maaike Jacobs,2026,5,Mei,Actief,0,0
-1282,Maaike Jacobs,2026,6,Juni,Actief,0,0
-1282,Maaike Jacobs,2026,7,Juli,Actief,0,7
-1282,Maaike Jacobs,2026,8,Augustus,Actief,1,10
-1282,Maaike Jacobs,2026,9,September,Actief,0,0
-1282,Maaike Jacobs,2026,10,Oktober,Actief,0,0
-1282,Maaike Jacobs,2026,11,November,Actief,0,0
-1282,Maaike Jacobs,2026,12,December,Actief,0,3
-3119,Lucas Jansen,2026,1,Januari,Actief,0,0
-3119,Lucas Jansen,2026,2,Februari,Actief,0,0
-3119,Lucas Jansen,2026,3,Maart,Actief,0,0
-3119,Lucas Jansen,2026,4,April,Actief,0,2
-3119,Lucas Jansen,2026,5,Mei,Actief,0,3
-3119,Lucas Jansen,2026,6,Juni,Actief,0,0
-3119,Lucas Jansen,2026,7,Juli,Actief,0,5
-3119,Lucas Jansen,2026,8,Augustus,Actief,0,10
-3119,Lucas Jansen,2026,9,September,Actief,0,0
-3119,Lucas Jansen,2026,10,Oktober,Actief,0,0
-3119,Lucas Jansen,2026,11,November,Actief,0,0
-3119,Lucas Jansen,2026,12,December,Actief,0,0
-3276,Bram Hendriks,2026,1,Januari,Actief,0,5
-3276,Bram Hendriks,2026,2,Februari,Actief,0,0
-3276,Bram Hendriks,2026,3,Maart,Actief,0,0
-3276,Bram Hendriks,2026,4,April,Actief,0,0
-3276,Bram Hendriks,2026,5,Mei,Actief,0,0
-3276,Bram Hendriks,2026,6,Juni,Actief,0,0
-3276,Bram Hendriks,2026,7,Juli,Actief,0,10
-3276,Bram Hendriks,2026,8,Augustus,Actief,0,3
-3276,Bram Hendriks,2026,9,September,Actief,0,3
-3276,Bram Hendriks,2026,10,Oktober,Actief,0,0
-3276,Bram Hendriks,2026,11,November,Actief,0,0
-3276,Bram Hendriks,2026,12,December,Actief,0,0
-2122,Jasper Hofman,2026,1,Januari,Actief,0,0
-2122,Jasper Hofman,2026,2,Februari,Actief,0,0
-2122,Jasper Hofman,2026,3,Maart,Actief,0,0
-2122,Jasper Hofman,2026,4,April,Actief,0,0
-2122,Jasper Hofman,2026,5,Mei,Actief,0,5
-2122,Jasper Hofman,2026,6,Juni,Actief,0,0
-2122,Jasper Hofman,2026,7,Juli,Actief,0,13
-2122,Jasper Hofman,2026,8,Augustus,Actief,0,0
-2122,Jasper Hofman,2026,9,September,Actief,0,3
-2122,Jasper Hofman,2026,10,Oktober,Actief,0,0
-2122,Jasper Hofman,2026,11,November,Actief,0,0
-2122,Jasper Hofman,2026,12,December,Actief,0,0
+2921,Levi Visser,2026,1,Januari,Actief,0,10
+2921,Levi Visser,2026,2,Februari,Actief,0,0
+2921,Levi Visser,2026,3,Maart,Actief,0,0
+2921,Levi Visser,2026,4,April,Actief,0,0
+2921,Levi Visser,2026,5,Mei,Actief,0,0
+2921,Levi Visser,2026,6,Juni,Uit dienst,0,0
+2921,Levi Visser,2026,7,Juli,Uit dienst,0,0
+2921,Levi Visser,2026,8,Augustus,Uit dienst,0,0
+2921,Levi Visser,2026,9,September,Uit dienst,0,0
+2921,Levi Visser,2026,10,Oktober,Uit dienst,0,0
+2921,Levi Visser,2026,11,November,Uit dienst,0,0
+2921,Levi Visser,2026,12,December,Uit dienst,0,0
+3697,Mees de Wit,2026,1,Januari,Actief,5,5
+3697,Mees de Wit,2026,2,Februari,Actief,0,0
+3697,Mees de Wit,2026,3,Maart,Actief,2,1
+3697,Mees de Wit,2026,4,April,Uit dienst,0,0
+3697,Mees de Wit,2026,5,Mei,Uit dienst,0,0
+3697,Mees de Wit,2026,6,Juni,Uit dienst,0,0
+3697,Mees de Wit,2026,7,Juli,Uit dienst,0,0
+3697,Mees de Wit,2026,8,Augustus,Uit dienst,0,0
+3697,Mees de Wit,2026,9,September,Uit dienst,0,0
+3697,Mees de Wit,2026,10,Oktober,Uit dienst,0,0
+3697,Mees de Wit,2026,11,November,Uit dienst,0,0
+3697,Mees de Wit,2026,12,December,Uit dienst,0,0
+2973,Rick Koning,2026,1,Januari,Actief,0,0
+2973,Rick Koning,2026,2,Februari,Actief,0,0
+2973,Rick Koning,2026,3,Maart,Actief,0,2
+2973,Rick Koning,2026,4,April,Actief,0,0
+2973,Rick Koning,2026,5,Mei,Actief,6,0
+2973,Rick Koning,2026,6,Juni,Actief,0,13
+2973,Rick Koning,2026,7,Juli,Actief,0,2
+2973,Rick Koning,2026,8,Augustus,Actief,0,0
+2973,Rick Koning,2026,9,September,Uit dienst,0,0
+2973,Rick Koning,2026,10,Oktober,Uit dienst,0,0
+2973,Rick Koning,2026,11,November,Uit dienst,0,0
+2973,Rick Koning,2026,12,December,Uit dienst,0,0
+1314,Loes Mulder,2026,1,Januari,Actief,0,0
+1314,Loes Mulder,2026,2,Februari,Actief,0,0
+1314,Loes Mulder,2026,3,Maart,Actief,0,0
+1314,Loes Mulder,2026,4,April,Actief,0,2
+1314,Loes Mulder,2026,5,Mei,Actief,0,0
+1314,Loes Mulder,2026,6,Juni,Actief,0,10
+1314,Loes Mulder,2026,7,Juli,Uit dienst,0,0
+1314,Loes Mulder,2026,8,Augustus,Uit dienst,0,0
+1314,Loes Mulder,2026,9,September,Uit dienst,0,0
+1314,Loes Mulder,2026,10,Oktober,Uit dienst,0,0
+1314,Loes Mulder,2026,11,November,Uit dienst,0,0
+1314,Loes Mulder,2026,12,December,Uit dienst,0,0
+2400,Femke Kok,2026,1,Januari,Actief,1,0
+2400,Femke Kok,2026,2,Februari,Actief,0,0
+2400,Femke Kok,2026,3,Maart,Actief,0,0
+2400,Femke Kok,2026,4,April,Actief,0,0
+2400,Femke Kok,2026,5,Mei,Actief,0,0
+2400,Femke Kok,2026,6,Juni,Actief,0,0
+2400,Femke Kok,2026,7,Juli,Actief,0,12
+2400,Femke Kok,2026,8,Augustus,Actief,0,0
+2400,Femke Kok,2026,9,September,Actief,0,0
+2400,Femke Kok,2026,10,Oktober,Actief,0,8
+2400,Femke Kok,2026,11,November,Uit dienst,0,0
+2400,Femke Kok,2026,12,December,Uit dienst,0,0
+3110,Indy de Vries,2026,1,Januari,Actief,1,0
+3110,Indy de Vries,2026,2,Februari,Actief,0,0
+3110,Indy de Vries,2026,3,Maart,Actief,0,8
+3110,Indy de Vries,2026,4,April,Actief,0,0
+3110,Indy de Vries,2026,5,Mei,Uit dienst,0,0
+3110,Indy de Vries,2026,6,Juni,Uit dienst,0,0
+3110,Indy de Vries,2026,7,Juli,Uit dienst,0,0
+3110,Indy de Vries,2026,8,Augustus,Uit dienst,0,0
+3110,Indy de Vries,2026,9,September,Uit dienst,0,0
+3110,Indy de Vries,2026,10,Oktober,Uit dienst,0,0
+3110,Indy de Vries,2026,11,November,Uit dienst,0,0
+3110,Indy de Vries,2026,12,December,Uit dienst,0,0
+2036,Willem Peters,2026,1,Januari,Actief,0,4
+2036,Willem Peters,2026,2,Februari,Actief,2,0
+2036,Willem Peters,2026,3,Maart,Uit dienst,0,0
+2036,Willem Peters,2026,4,April,Uit dienst,0,0
+2036,Willem Peters,2026,5,Mei,Uit dienst,0,0
+2036,Willem Peters,2026,6,Juni,Uit dienst,0,0
+2036,Willem Peters,2026,7,Juli,Uit dienst,0,0
+2036,Willem Peters,2026,8,Augustus,Uit dienst,0,0
+2036,Willem Peters,2026,9,September,Uit dienst,0,0
+2036,Willem Peters,2026,10,Oktober,Uit dienst,0,0
+2036,Willem Peters,2026,11,November,Uit dienst,0,0
+2036,Willem Peters,2026,12,December,Uit dienst,0,0
+3093,Roel van Dijk,2026,1,Januari,Actief,0,0
+3093,Roel van Dijk,2026,2,Februari,Actief,0,0
+3093,Roel van Dijk,2026,3,Maart,Actief,0,10
+3093,Roel van Dijk,2026,4,April,Actief,0,0
+3093,Roel van Dijk,2026,5,Mei,Actief,0,4
+3093,Roel van Dijk,2026,6,Juni,Actief,0,0
+3093,Roel van Dijk,2026,7,Juli,Actief,0,3
+3093,Roel van Dijk,2026,8,Augustus,Actief,0,0
+3093,Roel van Dijk,2026,9,September,Uit dienst,0,0
+3093,Roel van Dijk,2026,10,Oktober,Uit dienst,0,0
+3093,Roel van Dijk,2026,11,November,Uit dienst,0,0
+3093,Roel van Dijk,2026,12,December,Uit dienst,0,0
+2031,Hugo Bakker,2026,1,Januari,Actief,0,5
+2031,Hugo Bakker,2026,2,Februari,Actief,0,1
+2031,Hugo Bakker,2026,3,Maart,Actief,0,0
+2031,Hugo Bakker,2026,4,April,Actief,1,3
+2031,Hugo Bakker,2026,5,Mei,Actief,0,2
+2031,Hugo Bakker,2026,6,Juni,Actief,0,3
+2031,Hugo Bakker,2026,7,Juli,Actief,0,0
+2031,Hugo Bakker,2026,8,Augustus,Actief,0,3
+2031,Hugo Bakker,2026,9,September,Actief,1,2
+2031,Hugo Bakker,2026,10,Oktober,Uit dienst,0,0
+2031,Hugo Bakker,2026,11,November,Uit dienst,0,0
+2031,Hugo Bakker,2026,12,December,Uit dienst,0,0
+3255,Nora Brouwer,2026,1,Januari,Actief,2,10
+3255,Nora Brouwer,2026,2,Februari,Actief,0,0
+3255,Nora Brouwer,2026,3,Maart,Actief,0,0
+3255,Nora Brouwer,2026,4,April,Actief,0,0
+3255,Nora Brouwer,2026,5,Mei,Actief,0,0
+3255,Nora Brouwer,2026,6,Juni,Uit dienst,0,0
+3255,Nora Brouwer,2026,7,Juli,Uit dienst,0,0
+3255,Nora Brouwer,2026,8,Augustus,Uit dienst,0,0
+3255,Nora Brouwer,2026,9,September,Uit dienst,0,0
+3255,Nora Brouwer,2026,10,Oktober,Uit dienst,0,0
+3255,Nora Brouwer,2026,11,November,Uit dienst,0,0
+3255,Nora Brouwer,2026,12,December,Uit dienst,0,0
+3087,Nova Verhoeven,2026,1,Januari,Actief,2,5
+3087,Nova Verhoeven,2026,2,Februari,Actief,0,0
+3087,Nova Verhoeven,2026,3,Maart,Actief,0,0
+3087,Nova Verhoeven,2026,4,April,Actief,0,0
+3087,Nova Verhoeven,2026,5,Mei,Actief,0,0
+3087,Nova Verhoeven,2026,6,Juni,Actief,0,0
+3087,Nova Verhoeven,2026,7,Juli,Actief,0,0
+3087,Nova Verhoeven,2026,8,Augustus,Actief,0,13
+3087,Nova Verhoeven,2026,9,September,Actief,0,0
+3087,Nova Verhoeven,2026,10,Oktober,Actief,0,0
+3087,Nova Verhoeven,2026,11,November,Actief,0,2
+3087,Nova Verhoeven,2026,12,December,Uit dienst,0,0
+1599,Britt de Boer,2026,1,Januari,Actief,0,0
+1599,Britt de Boer,2026,2,Februari,Actief,0,0
+1599,Britt de Boer,2026,3,Maart,Actief,5,0
+1599,Britt de Boer,2026,4,April,Actief,0,8
+1599,Britt de Boer,2026,5,Mei,Uit dienst,0,0
+1599,Britt de Boer,2026,6,Juni,Uit dienst,0,0
+1599,Britt de Boer,2026,7,Juli,Uit dienst,0,0
+1599,Britt de Boer,2026,8,Augustus,Uit dienst,0,0
+1599,Britt de Boer,2026,9,September,Uit dienst,0,0
+1599,Britt de Boer,2026,10,Oktober,Uit dienst,0,0
+1599,Britt de Boer,2026,11,November,Uit dienst,0,0
+1599,Britt de Boer,2026,12,December,Uit dienst,0,0
+3372,Puck van der Meer,2026,1,Januari,Actief,0,0
+3372,Puck van der Meer,2026,2,Februari,Actief,0,0
+3372,Puck van der Meer,2026,3,Maart,Actief,0,1
+3372,Puck van der Meer,2026,4,April,Actief,0,1
+3372,Puck van der Meer,2026,5,Mei,Actief,0,5
+3372,Puck van der Meer,2026,6,Juni,Actief,0,0
+3372,Puck van der Meer,2026,7,Juli,Actief,0,8
+3372,Puck van der Meer,2026,8,Augustus,Uit dienst,0,0
+3372,Puck van der Meer,2026,9,September,Uit dienst,0,0
+3372,Puck van der Meer,2026,10,Oktober,Uit dienst,0,0
+3372,Puck van der Meer,2026,11,November,Uit dienst,0,0
+3372,Puck van der Meer,2026,12,December,Uit dienst,0,0
+2106,Maarten Peeters,2026,1,Januari,Actief,0,2
+2106,Maarten Peeters,2026,2,Februari,Actief,0,3
+2106,Maarten Peeters,2026,3,Maart,Actief,0,0
+2106,Maarten Peeters,2026,4,April,Actief,0,0
+2106,Maarten Peeters,2026,5,Mei,Actief,0,0
+2106,Maarten Peeters,2026,6,Juni,Actief,0,0
+2106,Maarten Peeters,2026,7,Juli,Actief,0,10
+2106,Maarten Peeters,2026,8,Augustus,Actief,0,0
+2106,Maarten Peeters,2026,9,September,Actief,0,5
+2106,Maarten Peeters,2026,10,Oktober,Actief,0,0
+2106,Maarten Peeters,2026,11,November,Actief,0,0
+2106,Maarten Peeters,2026,12,December,Actief,0,0
+2026,Erik Vos,2026,1,Januari,Actief,2,4
+2026,Erik Vos,2026,2,Februari,Actief,0,0
+2026,Erik Vos,2026,3,Maart,Uit dienst,0,0
+2026,Erik Vos,2026,4,April,Uit dienst,0,0
+2026,Erik Vos,2026,5,Mei,Uit dienst,0,0
+2026,Erik Vos,2026,6,Juni,Uit dienst,0,0
+2026,Erik Vos,2026,7,Juli,Uit dienst,0,0
+2026,Erik Vos,2026,8,Augustus,Uit dienst,0,0
+2026,Erik Vos,2026,9,September,Uit dienst,0,0
+2026,Erik Vos,2026,10,Oktober,Uit dienst,0,0
+2026,Erik Vos,2026,11,November,Uit dienst,0,0
+2026,Erik Vos,2026,12,December,Uit dienst,0,0
+2195,Jorrit Kuipers,2026,1,Januari,Actief,0,10
+2195,Jorrit Kuipers,2026,2,Februari,Actief,0,0
+2195,Jorrit Kuipers,2026,3,Maart,Actief,0,0
+2195,Jorrit Kuipers,2026,4,April,Actief,0,0
+2195,Jorrit Kuipers,2026,5,Mei,Actief,0,0
+2195,Jorrit Kuipers,2026,6,Juni,Actief,0,2
+2195,Jorrit Kuipers,2026,7,Juli,Uit dienst,0,0
+2195,Jorrit Kuipers,2026,8,Augustus,Uit dienst,0,0
+2195,Jorrit Kuipers,2026,9,September,Uit dienst,0,0
+2195,Jorrit Kuipers,2026,10,Oktober,Uit dienst,0,0
+2195,Jorrit Kuipers,2026,11,November,Uit dienst,0,0
+2195,Jorrit Kuipers,2026,12,December,Uit dienst,0,0
+2022,Isa van den Berg,2026,1,Januari,Actief,0,1
+2022,Isa van den Berg,2026,2,Februari,Actief,8,0
+2022,Isa van den Berg,2026,3,Maart,Actief,1,5
+2022,Isa van den Berg,2026,4,April,Uit dienst,0,0
+2022,Isa van den Berg,2026,5,Mei,Uit dienst,0,0
+2022,Isa van den Berg,2026,6,Juni,Uit dienst,0,0
+2022,Isa van den Berg,2026,7,Juli,Uit dienst,0,0
+2022,Isa van den Berg,2026,8,Augustus,Uit dienst,0,0
+2022,Isa van den Berg,2026,9,September,Uit dienst,0,0
+2022,Isa van den Berg,2026,10,Oktober,Uit dienst,0,0
+2022,Isa van den Berg,2026,11,November,Uit dienst,0,0
+2022,Isa van den Berg,2026,12,December,Uit dienst,0,0
+1815,Amber Dekker,2026,1,Januari,Actief,2,0
+1815,Amber Dekker,2026,2,Februari,Actief,0,0
+1815,Amber Dekker,2026,3,Maart,Actief,0,0
+1815,Amber Dekker,2026,4,April,Actief,0,2
+1815,Amber Dekker,2026,5,Mei,Actief,0,2
+1815,Amber Dekker,2026,6,Juni,Actief,0,0
+1815,Amber Dekker,2026,7,Juli,Actief,1,5
+1815,Amber Dekker,2026,8,Augustus,Actief,0,10
+1815,Amber Dekker,2026,9,September,Actief,0,0
+1815,Amber Dekker,2026,10,Oktober,Actief,0,5
+1815,Amber Dekker,2026,11,November,Actief,0,0
+1815,Amber Dekker,2026,12,December,Actief,0,0
+1976,Wende Maas,2026,1,Januari,Actief,0,0
+1976,Wende Maas,2026,2,Februari,Actief,0,0
+1976,Wende Maas,2026,3,Maart,Actief,0,0
+1976,Wende Maas,2026,4,April,Actief,0,0
+1976,Wende Maas,2026,5,Mei,Actief,0,5
+1976,Wende Maas,2026,6,Juni,Actief,0,0
+1976,Wende Maas,2026,7,Juli,Actief,0,10
+1976,Wende Maas,2026,8,Augustus,Actief,0,0
+1976,Wende Maas,2026,9,September,Actief,0,3
+1976,Wende Maas,2026,10,Oktober,Actief,2,5
+1976,Wende Maas,2026,11,November,Actief,0,0
+1976,Wende Maas,2026,12,December,Actief,0,2
+3063,Hidde Meijer,2026,1,Januari,Actief,0,0
+3063,Hidde Meijer,2026,2,Februari,Actief,0,0
+3063,Hidde Meijer,2026,3,Maart,Actief,0,0
+3063,Hidde Meijer,2026,4,April,Actief,0,0
+3063,Hidde Meijer,2026,5,Mei,Actief,2,5
+3063,Hidde Meijer,2026,6,Juni,Actief,0,0
+3063,Hidde Meijer,2026,7,Juli,Actief,0,13
+3063,Hidde Meijer,2026,8,Augustus,Actief,0,0
+3063,Hidde Meijer,2026,9,September,Actief,0,0
+3063,Hidde Meijer,2026,10,Oktober,Actief,0,0
+3063,Hidde Meijer,2026,11,November,Actief,0,0
+3063,Hidde Meijer,2026,12,December,Actief,0,2
+1404,Ruben Smits,2026,1,Januari,Actief,2,3
+1404,Ruben Smits,2026,2,Februari,Actief,0,3
+1404,Ruben Smits,2026,3,Maart,Actief,0,0
+1404,Ruben Smits,2026,4,April,Actief,0,5
+1404,Ruben Smits,2026,5,Mei,Actief,0,0
+1404,Ruben Smits,2026,6,Juni,Actief,0,0
+1404,Ruben Smits,2026,7,Juli,Actief,0,10
+1404,Ruben Smits,2026,8,Augustus,Actief,0,0
+1404,Ruben Smits,2026,9,September,Actief,0,0
+1404,Ruben Smits,2026,10,Oktober,Actief,0,0
+1404,Ruben Smits,2026,11,November,Actief,0,0
+1404,Ruben Smits,2026,12,December,Actief,0,0
+1603,Floris Huisman,2026,1,Januari,Nog niet in dienst,0,0
+1603,Floris Huisman,2026,2,Februari,Nog niet in dienst,0,0
+1603,Floris Huisman,2026,3,Maart,Nog niet in dienst,0,0
+1603,Floris Huisman,2026,4,April,Nog niet in dienst,0,0
+1603,Floris Huisman,2026,5,Mei,Nog niet in dienst,0,0
+1603,Floris Huisman,2026,6,Juni,Nog niet in dienst,0,0
+1603,Floris Huisman,2026,7,Juli,Nog niet in dienst,0,0
+1603,Floris Huisman,2026,8,Augustus,Actief,0,5
+1603,Floris Huisman,2026,9,September,Actief,0,3
+1603,Floris Huisman,2026,10,Oktober,Actief,0,0
+1603,Floris Huisman,2026,11,November,Actief,0,0
+1603,Floris Huisman,2026,12,December,Actief,0,2
+2816,Fleur Bos,2026,1,Januari,Actief,0,0
+2816,Fleur Bos,2026,2,Februari,Actief,1,0
+2816,Fleur Bos,2026,3,Maart,Actief,0,0
+2816,Fleur Bos,2026,4,April,Actief,0,3
+2816,Fleur Bos,2026,5,Mei,Actief,0,5
+2816,Fleur Bos,2026,6,Juni,Actief,0,0
+2816,Fleur Bos,2026,7,Juli,Actief,0,10
+2816,Fleur Bos,2026,8,Augustus,Actief,0,2
+2816,Fleur Bos,2026,9,September,Actief,0,0
+2816,Fleur Bos,2026,10,Oktober,Actief,0,0
+2816,Fleur Bos,2026,11,November,Actief,0,0
+2816,Fleur Bos,2026,12,December,Actief,0,0
+1471,Eva Vermeulen,2026,1,Januari,Actief,0,0
+1471,Eva Vermeulen,2026,2,Februari,Actief,0,0
+1471,Eva Vermeulen,2026,3,Maart,Actief,1,3
+1471,Eva Vermeulen,2026,4,April,Actief,0,5
+1471,Eva Vermeulen,2026,5,Mei,Actief,0,0
+1471,Eva Vermeulen,2026,6,Juni,Actief,2,0
+1471,Eva Vermeulen,2026,7,Juli,Actief,0,0
+1471,Eva Vermeulen,2026,8,Augustus,Actief,0,10
+1471,Eva Vermeulen,2026,9,September,Actief,0,5
+1471,Eva Vermeulen,2026,10,Oktober,Actief,0,0
+1471,Eva Vermeulen,2026,11,November,Actief,0,0
+1471,Eva Vermeulen,2026,12,December,Actief,0,2
+2008,Elin de Jong,2026,1,Januari,Actief,0,0
+2008,Elin de Jong,2026,2,Februari,Actief,0,0
+2008,Elin de Jong,2026,3,Maart,Actief,2,0
+2008,Elin de Jong,2026,4,April,Actief,0,0
+2008,Elin de Jong,2026,5,Mei,Actief,0,0
+2008,Elin de Jong,2026,6,Juni,Actief,0,0
+2008,Elin de Jong,2026,7,Juli,Actief,0,2
+2008,Elin de Jong,2026,8,Augustus,Actief,0,10
+2008,Elin de Jong,2026,9,September,Actief,0,0
+2008,Elin de Jong,2026,10,Oktober,Actief,0,0
+2008,Elin de Jong,2026,11,November,Actief,0,0
+2008,Elin de Jong,2026,12,December,Actief,0,7
+2291,Jasmijn van Leeuwen,2026,1,Januari,Actief,0,3
+2291,Jasmijn van Leeuwen,2026,2,Februari,Actief,0,0
+2291,Jasmijn van Leeuwen,2026,3,Maart,Actief,0,0
+2291,Jasmijn van Leeuwen,2026,4,April,Actief,0,3
+2291,Jasmijn van Leeuwen,2026,5,Mei,Actief,0,0
+2291,Jasmijn van Leeuwen,2026,6,Juni,Actief,0,5
+2291,Jasmijn van Leeuwen,2026,7,Juli,Actief,0,0
+2291,Jasmijn van Leeuwen,2026,8,Augustus,Actief,0,10
+2291,Jasmijn van Leeuwen,2026,9,September,Actief,0,0
+2291,Jasmijn van Leeuwen,2026,10,Oktober,Actief,0,0
+2291,Jasmijn van Leeuwen,2026,11,November,Actief,0,0
+2291,Jasmijn van Leeuwen,2026,12,December,Actief,0,0
+3007,Jeroen Willems,2026,1,Januari,Actief,0,0
+3007,Jeroen Willems,2026,2,Februari,Actief,0,0
+3007,Jeroen Willems,2026,3,Maart,Actief,0,0
+3007,Jeroen Willems,2026,4,April,Actief,0,0
+3007,Jeroen Willems,2026,5,Mei,Actief,0,0
+3007,Jeroen Willems,2026,6,Juni,Actief,0,8
+3007,Jeroen Willems,2026,7,Juli,Actief,0,3
+3007,Jeroen Willems,2026,8,Augustus,Actief,0,10
+3007,Jeroen Willems,2026,9,September,Actief,0,0
+3007,Jeroen Willems,2026,10,Oktober,Actief,0,0
+3007,Jeroen Willems,2026,11,November,Actief,2,0
+3007,Jeroen Willems,2026,12,December,Actief,0,0
+1440,Lars Smit,2026,1,Januari,Nog niet in dienst,0,0
+1440,Lars Smit,2026,2,Februari,Nog niet in dienst,0,0
+1440,Lars Smit,2026,3,Maart,Nog niet in dienst,0,0
+1440,Lars Smit,2026,4,April,Nog niet in dienst,0,0
+1440,Lars Smit,2026,5,Mei,Nog niet in dienst,0,0
+1440,Lars Smit,2026,6,Juni,Actief,0,4
+1440,Lars Smit,2026,7,Juli,Actief,0,0
+1440,Lars Smit,2026,8,Augustus,Actief,2,0
+1440,Lars Smit,2026,9,September,Actief,0,2
+1440,Lars Smit,2026,10,Oktober,Actief,0,3
+1440,Lars Smit,2026,11,November,Actief,0,0
+1440,Lars Smit,2026,12,December,Actief,0,6
+1963,Thomas Dijkstra,2026,1,Januari,Actief,0,0
+1963,Thomas Dijkstra,2026,2,Februari,Actief,0,0
+1963,Thomas Dijkstra,2026,3,Maart,Actief,0,3
+1963,Thomas Dijkstra,2026,4,April,Actief,0,5
+1963,Thomas Dijkstra,2026,5,Mei,Actief,0,0
+1963,Thomas Dijkstra,2026,6,Juni,Actief,0,0
+1963,Thomas Dijkstra,2026,7,Juli,Actief,0,10
+1963,Thomas Dijkstra,2026,8,Augustus,Actief,2,0
+1963,Thomas Dijkstra,2026,9,September,Actief,0,0
+1963,Thomas Dijkstra,2026,10,Oktober,Actief,0,0
+1963,Thomas Dijkstra,2026,11,November,Actief,0,2
+1963,Thomas Dijkstra,2026,12,December,Actief,0,0
+2447,Demi Prins,2026,1,Januari,Actief,0,0
+2447,Demi Prins,2026,2,Februari,Actief,0,0
+2447,Demi Prins,2026,3,Maart,Actief,2,0
+2447,Demi Prins,2026,4,April,Met verlof,0,0
+2447,Demi Prins,2026,5,Mei,Actief,0,0
+2447,Demi Prins,2026,6,Juni,Actief,0,0
+2447,Demi Prins,2026,7,Juli,Actief,0,12
+2447,Demi Prins,2026,8,Augustus,Actief,0,0
+2447,Demi Prins,2026,9,September,Actief,1,2
+2447,Demi Prins,2026,10,Oktober,Actief,0,0
+2447,Demi Prins,2026,11,November,Actief,0,0
+2447,Demi Prins,2026,12,December,Actief,0,5
+3328,Fay de Groot,2026,1,Januari,Actief,0,0
+3328,Fay de Groot,2026,2,Februari,Actief,0,0
+3328,Fay de Groot,2026,3,Maart,Actief,0,0
+3328,Fay de Groot,2026,4,April,Actief,2,3
+3328,Fay de Groot,2026,5,Mei,Actief,0,0
+3328,Fay de Groot,2026,6,Juni,Actief,0,0
+3328,Fay de Groot,2026,7,Juli,Actief,0,10
+3328,Fay de Groot,2026,8,Augustus,Actief,0,5
+3328,Fay de Groot,2026,9,September,Actief,0,3
+3328,Fay de Groot,2026,10,Oktober,Actief,0,0
+3328,Fay de Groot,2026,11,November,Actief,0,0
+3328,Fay de Groot,2026,12,December,Actief,1,0
+1282,Roos Jacobs,2026,1,Januari,Actief,0,0
+1282,Roos Jacobs,2026,2,Februari,Actief,0,0
+1282,Roos Jacobs,2026,3,Maart,Actief,0,0
+1282,Roos Jacobs,2026,4,April,Actief,0,0
+1282,Roos Jacobs,2026,5,Mei,Actief,0,0
+1282,Roos Jacobs,2026,6,Juni,Actief,0,0
+1282,Roos Jacobs,2026,7,Juli,Actief,0,7
+1282,Roos Jacobs,2026,8,Augustus,Actief,1,10
+1282,Roos Jacobs,2026,9,September,Actief,0,0
+1282,Roos Jacobs,2026,10,Oktober,Actief,0,0
+1282,Roos Jacobs,2026,11,November,Actief,0,0
+1282,Roos Jacobs,2026,12,December,Actief,0,3
+3119,Sander Jansen,2026,1,Januari,Actief,0,0
+3119,Sander Jansen,2026,2,Februari,Actief,0,0
+3119,Sander Jansen,2026,3,Maart,Actief,0,0
+3119,Sander Jansen,2026,4,April,Actief,0,2
+3119,Sander Jansen,2026,5,Mei,Actief,0,3
+3119,Sander Jansen,2026,6,Juni,Actief,0,0
+3119,Sander Jansen,2026,7,Juli,Actief,0,5
+3119,Sander Jansen,2026,8,Augustus,Actief,0,10
+3119,Sander Jansen,2026,9,September,Actief,0,0
+3119,Sander Jansen,2026,10,Oktober,Actief,0,0
+3119,Sander Jansen,2026,11,November,Actief,0,0
+3119,Sander Jansen,2026,12,December,Actief,0,0
+3276,Guus Hendriks,2026,1,Januari,Actief,0,5
+3276,Guus Hendriks,2026,2,Februari,Actief,0,0
+3276,Guus Hendriks,2026,3,Maart,Actief,0,0
+3276,Guus Hendriks,2026,4,April,Actief,0,0
+3276,Guus Hendriks,2026,5,Mei,Actief,0,0
+3276,Guus Hendriks,2026,6,Juni,Actief,0,0
+3276,Guus Hendriks,2026,7,Juli,Actief,0,10
+3276,Guus Hendriks,2026,8,Augustus,Actief,0,3
+3276,Guus Hendriks,2026,9,September,Actief,0,3
+3276,Guus Hendriks,2026,10,Oktober,Actief,0,0
+3276,Guus Hendriks,2026,11,November,Actief,0,0
+3276,Guus Hendriks,2026,12,December,Actief,0,0
+2122,Jens Hofman,2026,1,Januari,Actief,0,0
+2122,Jens Hofman,2026,2,Februari,Actief,0,0
+2122,Jens Hofman,2026,3,Maart,Actief,0,0
+2122,Jens Hofman,2026,4,April,Actief,0,0
+2122,Jens Hofman,2026,5,Mei,Actief,0,5
+2122,Jens Hofman,2026,6,Juni,Actief,0,0
+2122,Jens Hofman,2026,7,Juli,Actief,0,13
+2122,Jens Hofman,2026,8,Augustus,Actief,0,0
+2122,Jens Hofman,2026,9,September,Actief,0,3
+2122,Jens Hofman,2026,10,Oktober,Actief,0,0
+2122,Jens Hofman,2026,11,November,Actief,0,0
+2122,Jens Hofman,2026,12,December,Actief,0,0
 3771,Tess Visser,2026,1,Januari,Actief,0,0
 3771,Tess Visser,2026,2,Februari,Actief,0,0
 3771,Tess Visser,2026,3,Maart,Actief,0,5
@@ -431,1074 +431,1074 @@ MedewerkerID,Naam,Jaar,Maand,Maandnaam,Status,Ziektedagen,Vakantiedagen
 3771,Tess Visser,2026,10,Oktober,Actief,0,2
 3771,Tess Visser,2026,11,November,Actief,0,0
 3771,Tess Visser,2026,12,December,Actief,0,0
-2931,Saar de Wit,2026,1,Januari,Actief,0,2
-2931,Saar de Wit,2026,2,Februari,Actief,2,0
-2931,Saar de Wit,2026,3,Maart,Actief,0,5
-2931,Saar de Wit,2026,4,April,Actief,0,0
-2931,Saar de Wit,2026,5,Mei,Actief,1,0
-2931,Saar de Wit,2026,6,Juni,Actief,0,0
-2931,Saar de Wit,2026,7,Juli,Actief,0,0
-2931,Saar de Wit,2026,8,Augustus,Actief,0,10
-2931,Saar de Wit,2026,9,September,Actief,0,0
-2931,Saar de Wit,2026,10,Oktober,Actief,0,2
-2931,Saar de Wit,2026,11,November,Actief,0,0
-2931,Saar de Wit,2026,12,December,Actief,0,0
-2451,Noor Koning,2026,1,Januari,Actief,0,0
-2451,Noor Koning,2026,2,Februari,Actief,0,0
-2451,Noor Koning,2026,3,Maart,Actief,0,5
-2451,Noor Koning,2026,4,April,Actief,0,0
-2451,Noor Koning,2026,5,Mei,Actief,0,0
-2451,Noor Koning,2026,6,Juni,Actief,0,0
-2451,Noor Koning,2026,7,Juli,Actief,1,0
-2451,Noor Koning,2026,8,Augustus,Actief,0,10
-2451,Noor Koning,2026,9,September,Actief,0,0
-2451,Noor Koning,2026,10,Oktober,Actief,0,5
-2451,Noor Koning,2026,11,November,Actief,0,2
-2451,Noor Koning,2026,12,December,Actief,0,3
-3308,Hanna Mulder,2026,1,Januari,Actief,0,3
-3308,Hanna Mulder,2026,2,Februari,Actief,0,0
-3308,Hanna Mulder,2026,3,Maart,Actief,0,5
-3308,Hanna Mulder,2026,4,April,Actief,0,0
-3308,Hanna Mulder,2026,5,Mei,Actief,0,2
-3308,Hanna Mulder,2026,6,Juni,Actief,0,5
-3308,Hanna Mulder,2026,7,Juli,Actief,0,0
-3308,Hanna Mulder,2026,8,Augustus,Actief,0,10
-3308,Hanna Mulder,2026,9,September,Actief,6,0
-3308,Hanna Mulder,2026,10,Oktober,Actief,0,0
-3308,Hanna Mulder,2026,11,November,Met verlof,0,0
-3308,Hanna Mulder,2026,12,December,Actief,0,0
-2196,Noud Kok,2026,1,Januari,Nog niet in dienst,0,0
-2196,Noud Kok,2026,2,Februari,Nog niet in dienst,0,0
-2196,Noud Kok,2026,3,Maart,Nog niet in dienst,0,0
-2196,Noud Kok,2026,4,April,Nog niet in dienst,0,0
-2196,Noud Kok,2026,5,Mei,Nog niet in dienst,0,0
-2196,Noud Kok,2026,6,Juni,Actief,2,3
-2196,Noud Kok,2026,7,Juli,Actief,2,3
-2196,Noud Kok,2026,8,Augustus,Actief,0,0
-2196,Noud Kok,2026,9,September,Actief,0,6
-2196,Noud Kok,2026,10,Oktober,Actief,0,0
-2196,Noud Kok,2026,11,November,Actief,0,0
-2196,Noud Kok,2026,12,December,Actief,0,3
-3784,Ruben de Vries,2026,1,Januari,Nog niet in dienst,0,0
-3784,Ruben de Vries,2026,2,Februari,Nog niet in dienst,0,0
-3784,Ruben de Vries,2026,3,Maart,Nog niet in dienst,0,0
-3784,Ruben de Vries,2026,4,April,Nog niet in dienst,0,0
-3784,Ruben de Vries,2026,5,Mei,Nog niet in dienst,0,0
-3784,Ruben de Vries,2026,6,Juni,Nog niet in dienst,0,0
-3784,Ruben de Vries,2026,7,Juli,Actief,0,1
-3784,Ruben de Vries,2026,8,Augustus,Actief,0,4
-3784,Ruben de Vries,2026,9,September,Actief,2,0
-3784,Ruben de Vries,2026,10,Oktober,Actief,0,0
-3784,Ruben de Vries,2026,11,November,Actief,0,0
-3784,Ruben de Vries,2026,12,December,Actief,2,7
-1442,Emma Peters,2026,1,Januari,Actief,0,5
-1442,Emma Peters,2026,2,Februari,Actief,0,0
-1442,Emma Peters,2026,3,Maart,Actief,0,0
-1442,Emma Peters,2026,4,April,Actief,0,0
-1442,Emma Peters,2026,5,Mei,Actief,0,0
-1442,Emma Peters,2026,6,Juni,Actief,0,3
-1442,Emma Peters,2026,7,Juli,Actief,0,10
-1442,Emma Peters,2026,8,Augustus,Actief,0,0
-1442,Emma Peters,2026,9,September,Actief,1,0
-1442,Emma Peters,2026,10,Oktober,Actief,2,0
-1442,Emma Peters,2026,11,November,Actief,0,3
-1442,Emma Peters,2026,12,December,Actief,0,0
-2169,Sara van Dijk,2026,1,Januari,Actief,0,0
-2169,Sara van Dijk,2026,2,Februari,Actief,0,8
-2169,Sara van Dijk,2026,3,Maart,Actief,0,0
-2169,Sara van Dijk,2026,4,April,Actief,0,0
-2169,Sara van Dijk,2026,5,Mei,Actief,0,0
-2169,Sara van Dijk,2026,6,Juni,Actief,0,0
-2169,Sara van Dijk,2026,7,Juli,Actief,0,10
-2169,Sara van Dijk,2026,8,Augustus,Actief,0,0
-2169,Sara van Dijk,2026,9,September,Actief,0,3
-2169,Sara van Dijk,2026,10,Oktober,Actief,1,0
-2169,Sara van Dijk,2026,11,November,Actief,0,0
-2169,Sara van Dijk,2026,12,December,Actief,0,0
-2160,Lieke Bakker,2026,1,Januari,Nog niet in dienst,0,0
-2160,Lieke Bakker,2026,2,Februari,Nog niet in dienst,0,0
-2160,Lieke Bakker,2026,3,Maart,Nog niet in dienst,0,0
-2160,Lieke Bakker,2026,4,April,Nog niet in dienst,0,0
-2160,Lieke Bakker,2026,5,Mei,Nog niet in dienst,0,0
-2160,Lieke Bakker,2026,6,Juni,Actief,0,5
-2160,Lieke Bakker,2026,7,Juli,Actief,1,1
-2160,Lieke Bakker,2026,8,Augustus,Actief,0,2
-2160,Lieke Bakker,2026,9,September,Actief,2,5
-2160,Lieke Bakker,2026,10,Oktober,Actief,0,0
-2160,Lieke Bakker,2026,11,November,Actief,0,0
-2160,Lieke Bakker,2026,12,December,Actief,0,2
-1489,Sanne Brouwer,2026,1,Januari,Actief,0,0
-1489,Sanne Brouwer,2026,2,Februari,Actief,0,0
-1489,Sanne Brouwer,2026,3,Maart,Actief,0,5
-1489,Sanne Brouwer,2026,4,April,Actief,0,5
-1489,Sanne Brouwer,2026,5,Mei,Actief,0,3
-1489,Sanne Brouwer,2026,6,Juni,Actief,0,0
-1489,Sanne Brouwer,2026,7,Juli,Actief,0,10
-1489,Sanne Brouwer,2026,8,Augustus,Actief,0,0
-1489,Sanne Brouwer,2026,9,September,Actief,0,0
-1489,Sanne Brouwer,2026,10,Oktober,Actief,0,0
-1489,Sanne Brouwer,2026,11,November,Actief,0,3
-1489,Sanne Brouwer,2026,12,December,Actief,0,0
-1518,Finn Verhoeven,2026,1,Januari,Actief,1,0
-1518,Finn Verhoeven,2026,2,Februari,Actief,0,0
-1518,Finn Verhoeven,2026,3,Maart,Actief,0,0
-1518,Finn Verhoeven,2026,4,April,Actief,2,2
-1518,Finn Verhoeven,2026,5,Mei,Actief,0,0
-1518,Finn Verhoeven,2026,6,Juni,Actief,0,0
-1518,Finn Verhoeven,2026,7,Juli,Actief,0,10
-1518,Finn Verhoeven,2026,8,Augustus,Actief,0,0
-1518,Finn Verhoeven,2026,9,September,Actief,0,0
-1518,Finn Verhoeven,2026,10,Oktober,Actief,0,0
-1518,Finn Verhoeven,2026,11,November,Actief,0,0
-1518,Finn Verhoeven,2026,12,December,Actief,0,8
-1399,Thijs de Boer,2026,1,Januari,Nog niet in dienst,0,0
-1399,Thijs de Boer,2026,2,Februari,Nog niet in dienst,0,0
-1399,Thijs de Boer,2026,3,Maart,Nog niet in dienst,0,0
-1399,Thijs de Boer,2026,4,April,Nog niet in dienst,0,0
-1399,Thijs de Boer,2026,5,Mei,Nog niet in dienst,0,0
-1399,Thijs de Boer,2026,6,Juni,Nog niet in dienst,0,0
-1399,Thijs de Boer,2026,7,Juli,Nog niet in dienst,0,0
-1399,Thijs de Boer,2026,8,Augustus,Nog niet in dienst,0,0
-1399,Thijs de Boer,2026,9,September,Nog niet in dienst,0,0
-1399,Thijs de Boer,2026,10,Oktober,Actief,0,0
-1399,Thijs de Boer,2026,11,November,Actief,1,0
-1399,Thijs de Boer,2026,12,December,Actief,1,6
-1132,Bas van der Meer,2026,1,Januari,Actief,0,5
-1132,Bas van der Meer,2026,2,Februari,Actief,1,0
-1132,Bas van der Meer,2026,3,Maart,Actief,0,0
-1132,Bas van der Meer,2026,4,April,Actief,0,0
-1132,Bas van der Meer,2026,5,Mei,Actief,0,0
-1132,Bas van der Meer,2026,6,Juni,Actief,0,0
-1132,Bas van der Meer,2026,7,Juli,Actief,0,0
-1132,Bas van der Meer,2026,8,Augustus,Actief,0,13
-1132,Bas van der Meer,2026,9,September,Actief,0,0
-1132,Bas van der Meer,2026,10,Oktober,Actief,0,0
-1132,Bas van der Meer,2026,11,November,Actief,0,0
-1132,Bas van der Meer,2026,12,December,Actief,0,3
-1913,Sophie Peeters,2026,1,Januari,Nog niet in dienst,0,0
-1913,Sophie Peeters,2026,2,Februari,Actief,0,2
-1913,Sophie Peeters,2026,3,Maart,Actief,0,0
-1913,Sophie Peeters,2026,4,April,Actief,0,0
-1913,Sophie Peeters,2026,5,Mei,Actief,0,0
-1913,Sophie Peeters,2026,6,Juni,Actief,0,5
-1913,Sophie Peeters,2026,7,Juli,Actief,0,5
-1913,Sophie Peeters,2026,8,Augustus,Actief,0,10
-1913,Sophie Peeters,2026,9,September,Actief,7,0
-1913,Sophie Peeters,2026,10,Oktober,Actief,0,0
-1913,Sophie Peeters,2026,11,November,Actief,0,2
-1913,Sophie Peeters,2026,12,December,Actief,0,0
-2961,Nora Vos,2026,1,Januari,Nog niet in dienst,0,0
-2961,Nora Vos,2026,2,Februari,Nog niet in dienst,0,0
-2961,Nora Vos,2026,3,Maart,Nog niet in dienst,0,0
-2961,Nora Vos,2026,4,April,Nog niet in dienst,0,0
-2961,Nora Vos,2026,5,Mei,Nog niet in dienst,0,0
-2961,Nora Vos,2026,6,Juni,Nog niet in dienst,0,0
-2961,Nora Vos,2026,7,Juli,Nog niet in dienst,0,0
-2961,Nora Vos,2026,8,Augustus,Nog niet in dienst,0,0
-2961,Nora Vos,2026,9,September,Nog niet in dienst,0,0
-2961,Nora Vos,2026,10,Oktober,Actief,1,0
-2961,Nora Vos,2026,11,November,Actief,0,0
-2961,Nora Vos,2026,12,December,Actief,0,6
-1104,Evi Kuipers,2026,1,Januari,Actief,0,0
-1104,Evi Kuipers,2026,2,Februari,Actief,0,0
-1104,Evi Kuipers,2026,3,Maart,Actief,0,0
-1104,Evi Kuipers,2026,4,April,Actief,0,0
-1104,Evi Kuipers,2026,5,Mei,Actief,0,5
-1104,Evi Kuipers,2026,6,Juni,Actief,0,0
-1104,Evi Kuipers,2026,7,Juli,Actief,0,3
-1104,Evi Kuipers,2026,8,Augustus,Actief,0,10
-1104,Evi Kuipers,2026,9,September,Actief,0,0
-1104,Evi Kuipers,2026,10,Oktober,Actief,0,0
-1104,Evi Kuipers,2026,11,November,Actief,0,2
-1104,Evi Kuipers,2026,12,December,Actief,0,5
-2303,Daan van den Berg,2026,1,Januari,Actief,0,3
-2303,Daan van den Berg,2026,2,Februari,Actief,0,5
-2303,Daan van den Berg,2026,3,Maart,Actief,0,0
-2303,Daan van den Berg,2026,4,April,Actief,0,0
-2303,Daan van den Berg,2026,5,Mei,Actief,0,0
-2303,Daan van den Berg,2026,6,Juni,Actief,0,0
-2303,Daan van den Berg,2026,7,Juli,Actief,1,10
-2303,Daan van den Berg,2026,8,Augustus,Actief,0,0
-2303,Daan van den Berg,2026,9,September,Actief,0,0
-2303,Daan van den Berg,2026,10,Oktober,Actief,0,0
-2303,Daan van den Berg,2026,11,November,Actief,0,0
-2303,Daan van den Berg,2026,12,December,Actief,0,2
-2932,Jesse Dekker,2026,1,Januari,Actief,0,0
-2932,Jesse Dekker,2026,2,Februari,Actief,2,3
-2932,Jesse Dekker,2026,3,Maart,Actief,0,0
-2932,Jesse Dekker,2026,4,April,Actief,0,0
-2932,Jesse Dekker,2026,5,Mei,Actief,0,5
-2932,Jesse Dekker,2026,6,Juni,Actief,1,0
-2932,Jesse Dekker,2026,7,Juli,Actief,0,10
-2932,Jesse Dekker,2026,8,Augustus,Actief,0,0
-2932,Jesse Dekker,2026,9,September,Actief,0,0
-2932,Jesse Dekker,2026,10,Oktober,Actief,0,0
-2932,Jesse Dekker,2026,11,November,Actief,0,0
-2932,Jesse Dekker,2026,12,December,Actief,0,2
-2464,Lars Maas,2026,1,Januari,Nog niet in dienst,0,0
-2464,Lars Maas,2026,2,Februari,Nog niet in dienst,0,0
-2464,Lars Maas,2026,3,Maart,Nog niet in dienst,0,0
-2464,Lars Maas,2026,4,April,Nog niet in dienst,0,0
-2464,Lars Maas,2026,5,Mei,Actief,0,3
-2464,Lars Maas,2026,6,Juni,Actief,0,0
-2464,Lars Maas,2026,7,Juli,Actief,0,0
-2464,Lars Maas,2026,8,Augustus,Actief,0,0
-2464,Lars Maas,2026,9,September,Actief,0,0
-2464,Lars Maas,2026,10,Oktober,Actief,0,2
-2464,Lars Maas,2026,11,November,Actief,0,0
-2464,Lars Maas,2026,12,December,Actief,1,12
-3020,Julia Meijer,2026,1,Januari,Nog niet in dienst,0,0
-3020,Julia Meijer,2026,2,Februari,Nog niet in dienst,0,0
-3020,Julia Meijer,2026,3,Maart,Nog niet in dienst,0,0
-3020,Julia Meijer,2026,4,April,Actief,0,0
-3020,Julia Meijer,2026,5,Mei,Actief,0,1
-3020,Julia Meijer,2026,6,Juni,Actief,0,3
-3020,Julia Meijer,2026,7,Juli,Actief,0,0
-3020,Julia Meijer,2026,8,Augustus,Actief,0,0
-3020,Julia Meijer,2026,9,September,Actief,2,0
-3020,Julia Meijer,2026,10,Oktober,Actief,0,13
-3020,Julia Meijer,2026,11,November,Actief,0,2
-3020,Julia Meijer,2026,12,December,Actief,0,0
-3144,Eva Smits,2026,1,Januari,Actief,0,0
-3144,Eva Smits,2026,2,Februari,Actief,0,0
-3144,Eva Smits,2026,3,Maart,Actief,0,0
-3144,Eva Smits,2026,4,April,Actief,0,0
-3144,Eva Smits,2026,5,Mei,Actief,0,0
-3144,Eva Smits,2026,6,Juni,Actief,0,3
-3144,Eva Smits,2026,7,Juli,Actief,0,0
-3144,Eva Smits,2026,8,Augustus,Actief,0,10
-3144,Eva Smits,2026,9,September,Actief,0,0
-3144,Eva Smits,2026,10,Oktober,Actief,0,8
-3144,Eva Smits,2026,11,November,Actief,0,0
-3144,Eva Smits,2026,12,December,Actief,0,0
-3331,Maud Huisman,2026,1,Januari,Actief,0,3
-3331,Maud Huisman,2026,2,Februari,Actief,0,0
-3331,Maud Huisman,2026,3,Maart,Actief,0,0
-3331,Maud Huisman,2026,4,April,Actief,0,0
-3331,Maud Huisman,2026,5,Mei,Actief,0,0
-3331,Maud Huisman,2026,6,Juni,Actief,1,0
-3331,Maud Huisman,2026,7,Juli,Actief,0,0
-3331,Maud Huisman,2026,8,Augustus,Actief,0,10
-3331,Maud Huisman,2026,9,September,Actief,0,5
-3331,Maud Huisman,2026,10,Oktober,Actief,0,0
-3331,Maud Huisman,2026,11,November,Actief,0,2
-3331,Maud Huisman,2026,12,December,Actief,0,0
-3114,Femke Bos,2026,1,Januari,Actief,0,5
-3114,Femke Bos,2026,2,Februari,Actief,0,0
-3114,Femke Bos,2026,3,Maart,Actief,0,0
-3114,Femke Bos,2026,4,April,Actief,0,2
-3114,Femke Bos,2026,5,Mei,Actief,0,0
-3114,Femke Bos,2026,6,Juni,Actief,0,0
-3114,Femke Bos,2026,7,Juli,Actief,0,10
-3114,Femke Bos,2026,8,Augustus,Actief,0,0
-3114,Femke Bos,2026,9,September,Actief,0,0
-3114,Femke Bos,2026,10,Oktober,Actief,0,0
-3114,Femke Bos,2026,11,November,Actief,0,2
-3114,Femke Bos,2026,12,December,Actief,0,0
-3585,Levi Vermeulen,2026,1,Januari,Actief,0,0
-3585,Levi Vermeulen,2026,2,Februari,Actief,0,8
-3585,Levi Vermeulen,2026,3,Maart,Actief,0,0
-3585,Levi Vermeulen,2026,4,April,Actief,0,0
-3585,Levi Vermeulen,2026,5,Mei,Actief,2,0
-3585,Levi Vermeulen,2026,6,Juni,Actief,0,3
-3585,Levi Vermeulen,2026,7,Juli,Actief,0,0
-3585,Levi Vermeulen,2026,8,Augustus,Actief,0,10
-3585,Levi Vermeulen,2026,9,September,Actief,0,0
-3585,Levi Vermeulen,2026,10,Oktober,Actief,0,0
-3585,Levi Vermeulen,2026,11,November,Actief,0,0
-3585,Levi Vermeulen,2026,12,December,Actief,0,0
-2328,Cas de Jong,2026,1,Januari,Actief,0,2
-2328,Cas de Jong,2026,2,Februari,Actief,0,0
-2328,Cas de Jong,2026,3,Maart,Actief,0,5
-2328,Cas de Jong,2026,4,April,Actief,0,0
-2328,Cas de Jong,2026,5,Mei,Actief,0,3
-2328,Cas de Jong,2026,6,Juni,Actief,0,0
-2328,Cas de Jong,2026,7,Juli,Actief,0,0
-2328,Cas de Jong,2026,8,Augustus,Actief,0,10
-2328,Cas de Jong,2026,9,September,Actief,0,0
-2328,Cas de Jong,2026,10,Oktober,Actief,1,0
-2328,Cas de Jong,2026,11,November,Actief,0,0
-2328,Cas de Jong,2026,12,December,Actief,2,0
-1879,Niels van Leeuwen,2026,1,Januari,Actief,0,0
-1879,Niels van Leeuwen,2026,2,Februari,Actief,0,2
-1879,Niels van Leeuwen,2026,3,Maart,Actief,0,0
-1879,Niels van Leeuwen,2026,4,April,Actief,0,0
-1879,Niels van Leeuwen,2026,5,Mei,Actief,0,0
-1879,Niels van Leeuwen,2026,6,Juni,Actief,0,0
-1879,Niels van Leeuwen,2026,7,Juli,Actief,0,10
-1879,Niels van Leeuwen,2026,8,Augustus,Actief,0,5
-1879,Niels van Leeuwen,2026,9,September,Actief,0,2
-1879,Niels van Leeuwen,2026,10,Oktober,Actief,0,0
-1879,Niels van Leeuwen,2026,11,November,Actief,0,0
-1879,Niels van Leeuwen,2026,12,December,Actief,0,0
-3758,Anna Willems,2026,1,Januari,Nog niet in dienst,0,0
-3758,Anna Willems,2026,2,Februari,Nog niet in dienst,0,0
-3758,Anna Willems,2026,3,Maart,Nog niet in dienst,0,0
-3758,Anna Willems,2026,4,April,Nog niet in dienst,0,0
-3758,Anna Willems,2026,5,Mei,Nog niet in dienst,0,0
-3758,Anna Willems,2026,6,Juni,Nog niet in dienst,0,0
-3758,Anna Willems,2026,7,Juli,Nog niet in dienst,0,0
-3758,Anna Willems,2026,8,Augustus,Nog niet in dienst,0,0
-3758,Anna Willems,2026,9,September,Actief,0,5
-3758,Anna Willems,2026,10,Oktober,Actief,0,0
-3758,Anna Willems,2026,11,November,Actief,0,3
-3758,Anna Willems,2026,12,December,Actief,0,0
-2473,Liv Smit,2026,1,Januari,Actief,0,0
-2473,Liv Smit,2026,2,Februari,Actief,0,0
-2473,Liv Smit,2026,3,Maart,Actief,0,0
-2473,Liv Smit,2026,4,April,Actief,0,0
-2473,Liv Smit,2026,5,Mei,Actief,2,3
-2473,Liv Smit,2026,6,Juni,Actief,0,0
-2473,Liv Smit,2026,7,Juli,Actief,0,10
-2473,Liv Smit,2026,8,Augustus,Actief,0,0
-2473,Liv Smit,2026,9,September,Actief,0,0
-2473,Liv Smit,2026,10,Oktober,Actief,0,8
-2473,Liv Smit,2026,11,November,Actief,0,0
-2473,Liv Smit,2026,12,December,Actief,0,0
-3669,Loes Dijkstra,2026,1,Januari,Actief,0,0
-3669,Loes Dijkstra,2026,2,Februari,Actief,0,5
-3669,Loes Dijkstra,2026,3,Maart,Actief,0,0
-3669,Loes Dijkstra,2026,4,April,Actief,0,0
-3669,Loes Dijkstra,2026,5,Mei,Actief,0,0
-3669,Loes Dijkstra,2026,6,Juni,Actief,0,0
-3669,Loes Dijkstra,2026,7,Juli,Actief,0,10
-3669,Loes Dijkstra,2026,8,Augustus,Actief,0,0
-3669,Loes Dijkstra,2026,9,September,Actief,0,3
-3669,Loes Dijkstra,2026,10,Oktober,Actief,1,0
-3669,Loes Dijkstra,2026,11,November,Actief,0,0
-3669,Loes Dijkstra,2026,12,December,Actief,0,3
-1768,Sem Prins,2026,1,Januari,Nog niet in dienst,0,0
-1768,Sem Prins,2026,2,Februari,Nog niet in dienst,0,0
-1768,Sem Prins,2026,3,Maart,Nog niet in dienst,0,0
-1768,Sem Prins,2026,4,April,Actief,0,3
-1768,Sem Prins,2026,5,Mei,Actief,0,5
-1768,Sem Prins,2026,6,Juni,Actief,0,0
-1768,Sem Prins,2026,7,Juli,Actief,0,0
-1768,Sem Prins,2026,8,Augustus,Actief,0,2
-1768,Sem Prins,2026,9,September,Actief,2,0
-1768,Sem Prins,2026,10,Oktober,Actief,0,2
-1768,Sem Prins,2026,11,November,Actief,0,1
-1768,Sem Prins,2026,12,December,Actief,0,6
-3426,Sven de Groot,2026,1,Januari,Actief,0,3
-3426,Sven de Groot,2026,2,Februari,Actief,1,3
-3426,Sven de Groot,2026,3,Maart,Actief,0,0
-3426,Sven de Groot,2026,4,April,Actief,0,3
-3426,Sven de Groot,2026,5,Mei,Actief,0,2
-3426,Sven de Groot,2026,6,Juni,Actief,0,7
-3426,Sven de Groot,2026,7,Juli,Actief,0,0
-3426,Sven de Groot,2026,8,Augustus,Actief,0,1
-3426,Sven de Groot,2026,9,September,Met verlof,0,0
-3426,Sven de Groot,2026,10,Oktober,Met verlof,0,0
-3426,Sven de Groot,2026,11,November,Met verlof,0,0
-3426,Sven de Groot,2026,12,December,Actief,0,0
-1826,Stijn Jacobs,2026,1,Januari,Actief,0,0
-1826,Stijn Jacobs,2026,2,Februari,Actief,0,0
-1826,Stijn Jacobs,2026,3,Maart,Actief,0,0
-1826,Stijn Jacobs,2026,4,April,Actief,0,8
-1826,Stijn Jacobs,2026,5,Mei,Actief,2,0
-1826,Stijn Jacobs,2026,6,Juni,Actief,0,0
-1826,Stijn Jacobs,2026,7,Juli,Actief,0,10
-1826,Stijn Jacobs,2026,8,Augustus,Actief,0,0
-1826,Stijn Jacobs,2026,9,September,Actief,0,0
-1826,Stijn Jacobs,2026,10,Oktober,Actief,0,3
-1826,Stijn Jacobs,2026,11,November,Actief,0,0
-1826,Stijn Jacobs,2026,12,December,Actief,0,0
-1101,Mila Jansen,2026,1,Januari,Actief,1,0
-1101,Mila Jansen,2026,2,Februari,Actief,0,0
-1101,Mila Jansen,2026,3,Maart,Actief,0,0
-1101,Mila Jansen,2026,4,April,Actief,0,0
-1101,Mila Jansen,2026,5,Mei,Actief,2,3
-1101,Mila Jansen,2026,6,Juni,Actief,0,5
-1101,Mila Jansen,2026,7,Juli,Actief,0,3
-1101,Mila Jansen,2026,8,Augustus,Actief,0,10
-1101,Mila Jansen,2026,9,September,Actief,0,0
-1101,Mila Jansen,2026,10,Oktober,Actief,0,0
-1101,Mila Jansen,2026,11,November,Actief,0,0
-1101,Mila Jansen,2026,12,December,Actief,0,0
-3337,Fenna Hendriks,2026,1,Januari,Nog niet in dienst,0,0
-3337,Fenna Hendriks,2026,2,Februari,Nog niet in dienst,0,0
-3337,Fenna Hendriks,2026,3,Maart,Nog niet in dienst,0,0
-3337,Fenna Hendriks,2026,4,April,Nog niet in dienst,0,0
-3337,Fenna Hendriks,2026,5,Mei,Nog niet in dienst,0,0
-3337,Fenna Hendriks,2026,6,Juni,Nog niet in dienst,0,0
-3337,Fenna Hendriks,2026,7,Juli,Nog niet in dienst,0,0
-3337,Fenna Hendriks,2026,8,Augustus,Nog niet in dienst,0,0
-3337,Fenna Hendriks,2026,9,September,Nog niet in dienst,0,0
-3337,Fenna Hendriks,2026,10,Oktober,Actief,1,0
-3337,Fenna Hendriks,2026,11,November,Actief,0,0
-3337,Fenna Hendriks,2026,12,December,Actief,1,6
-2000,Floor Hofman,2026,1,Januari,Actief,0,0
-2000,Floor Hofman,2026,2,Februari,Actief,0,0
-2000,Floor Hofman,2026,3,Maart,Actief,0,0
-2000,Floor Hofman,2026,4,April,Actief,0,0
-2000,Floor Hofman,2026,5,Mei,Actief,0,0
-2000,Floor Hofman,2026,6,Juni,Actief,0,5
-2000,Floor Hofman,2026,7,Juli,Actief,0,3
-2000,Floor Hofman,2026,8,Augustus,Actief,0,10
-2000,Floor Hofman,2026,9,September,Actief,2,0
-2000,Floor Hofman,2026,10,Oktober,Actief,0,0
-2000,Floor Hofman,2026,11,November,Actief,0,0
-2000,Floor Hofman,2026,12,December,Actief,0,2
-2773,Iris Visser,2026,1,Januari,Nog niet in dienst,0,0
-2773,Iris Visser,2026,2,Februari,Nog niet in dienst,0,0
-2773,Iris Visser,2026,3,Maart,Nog niet in dienst,0,0
-2773,Iris Visser,2026,4,April,Nog niet in dienst,0,0
-2773,Iris Visser,2026,5,Mei,Actief,0,2
-2773,Iris Visser,2026,6,Juni,Actief,0,1
-2773,Iris Visser,2026,7,Juli,Actief,0,1
-2773,Iris Visser,2026,8,Augustus,Actief,0,0
-2773,Iris Visser,2026,9,September,Actief,0,0
-2773,Iris Visser,2026,10,Oktober,Actief,0,2
-2773,Iris Visser,2026,11,November,Actief,0,0
-2773,Iris Visser,2026,12,December,Actief,0,11
-1189,Liam de Wit,2026,1,Januari,Actief,0,0
-1189,Liam de Wit,2026,2,Februari,Actief,0,0
-1189,Liam de Wit,2026,3,Maart,Actief,0,0
-1189,Liam de Wit,2026,4,April,Actief,0,2
-1189,Liam de Wit,2026,5,Mei,Actief,0,0
-1189,Liam de Wit,2026,6,Juni,Actief,0,3
-1189,Liam de Wit,2026,7,Juli,Actief,0,5
-1189,Liam de Wit,2026,8,Augustus,Actief,8,10
-1189,Liam de Wit,2026,9,September,Actief,0,0
-1189,Liam de Wit,2026,10,Oktober,Actief,0,0
-1189,Liam de Wit,2026,11,November,Actief,0,0
-1189,Liam de Wit,2026,12,December,Actief,0,0
-1415,Tim Koning,2026,1,Januari,Actief,0,5
-1415,Tim Koning,2026,2,Februari,Actief,0,0
-1415,Tim Koning,2026,3,Maart,Actief,0,3
-1415,Tim Koning,2026,4,April,Actief,0,0
-1415,Tim Koning,2026,5,Mei,Actief,0,0
-1415,Tim Koning,2026,6,Juni,Actief,0,0
-1415,Tim Koning,2026,7,Juli,Actief,1,0
-1415,Tim Koning,2026,8,Augustus,Actief,0,10
-1415,Tim Koning,2026,9,September,Actief,0,3
-1415,Tim Koning,2026,10,Oktober,Actief,0,0
-1415,Tim Koning,2026,11,November,Actief,0,0
-1415,Tim Koning,2026,12,December,Actief,0,0
-2369,Tom Mulder,2026,1,Januari,Actief,0,0
-2369,Tom Mulder,2026,2,Februari,Actief,0,5
-2369,Tom Mulder,2026,3,Maart,Actief,0,0
-2369,Tom Mulder,2026,4,April,Actief,0,0
-2369,Tom Mulder,2026,5,Mei,Actief,0,0
-2369,Tom Mulder,2026,6,Juni,Actief,0,0
-2369,Tom Mulder,2026,7,Juli,Actief,0,13
-2369,Tom Mulder,2026,8,Augustus,Actief,0,5
-2369,Tom Mulder,2026,9,September,Actief,0,0
-2369,Tom Mulder,2026,10,Oktober,Actief,0,0
-2369,Tom Mulder,2026,11,November,Actief,0,2
-2369,Tom Mulder,2026,12,December,Actief,0,0
-3397,Lotte Kok,2026,1,Januari,Nog niet in dienst,0,0
-3397,Lotte Kok,2026,2,Februari,Nog niet in dienst,0,0
-3397,Lotte Kok,2026,3,Maart,Nog niet in dienst,0,0
-3397,Lotte Kok,2026,4,April,Nog niet in dienst,0,0
-3397,Lotte Kok,2026,5,Mei,Nog niet in dienst,0,0
-3397,Lotte Kok,2026,6,Juni,Nog niet in dienst,0,0
-3397,Lotte Kok,2026,7,Juli,Actief,0,0
-3397,Lotte Kok,2026,8,Augustus,Actief,0,5
-3397,Lotte Kok,2026,9,September,Actief,2,5
-3397,Lotte Kok,2026,10,Oktober,Actief,2,2
-3397,Lotte Kok,2026,11,November,Actief,0,0
-3397,Lotte Kok,2026,12,December,Actief,0,0
-1156,Roos de Vries,2026,1,Januari,Actief,0,0
-1156,Roos de Vries,2026,2,Februari,Actief,0,0
-1156,Roos de Vries,2026,3,Maart,Actief,0,0
-1156,Roos de Vries,2026,4,April,Actief,2,0
-1156,Roos de Vries,2026,5,Mei,Actief,0,0
-1156,Roos de Vries,2026,6,Juni,Actief,0,5
-1156,Roos de Vries,2026,7,Juli,Actief,0,0
-1156,Roos de Vries,2026,8,Augustus,Actief,0,10
-1156,Roos de Vries,2026,9,September,Actief,0,0
-1156,Roos de Vries,2026,10,Oktober,Actief,0,0
-1156,Roos de Vries,2026,11,November,Actief,0,3
-1156,Roos de Vries,2026,12,December,Actief,0,3
-1837,Maaike Peters,2026,1,Januari,Actief,0,5
-1837,Maaike Peters,2026,2,Februari,Actief,0,0
-1837,Maaike Peters,2026,3,Maart,Actief,1,0
-1837,Maaike Peters,2026,4,April,Actief,0,2
-1837,Maaike Peters,2026,5,Mei,Actief,0,5
-1837,Maaike Peters,2026,6,Juni,Actief,0,0
-1837,Maaike Peters,2026,7,Juli,Actief,0,10
-1837,Maaike Peters,2026,8,Augustus,Actief,0,0
-1837,Maaike Peters,2026,9,September,Actief,0,0
-1837,Maaike Peters,2026,10,Oktober,Actief,1,0
-1837,Maaike Peters,2026,11,November,Actief,0,0
-1837,Maaike Peters,2026,12,December,Actief,0,3
-1240,Lucas van Dijk,2026,1,Januari,Actief,0,0
-1240,Lucas van Dijk,2026,2,Februari,Actief,0,0
-1240,Lucas van Dijk,2026,3,Maart,Actief,1,0
-1240,Lucas van Dijk,2026,4,April,Actief,8,0
-1240,Lucas van Dijk,2026,5,Mei,Actief,0,0
-1240,Lucas van Dijk,2026,6,Juni,Actief,0,0
-1240,Lucas van Dijk,2026,7,Juli,Actief,0,12
-1240,Lucas van Dijk,2026,8,Augustus,Actief,0,5
-1240,Lucas van Dijk,2026,9,September,Actief,0,0
-1240,Lucas van Dijk,2026,10,Oktober,Actief,0,0
-1240,Lucas van Dijk,2026,11,November,Actief,0,0
-1240,Lucas van Dijk,2026,12,December,Actief,0,2
-3077,Bram Bakker,2026,1,Januari,Nog niet in dienst,0,0
-3077,Bram Bakker,2026,2,Februari,Nog niet in dienst,0,0
-3077,Bram Bakker,2026,3,Maart,Nog niet in dienst,0,0
-3077,Bram Bakker,2026,4,April,Nog niet in dienst,0,0
-3077,Bram Bakker,2026,5,Mei,Nog niet in dienst,0,0
-3077,Bram Bakker,2026,6,Juni,Nog niet in dienst,0,0
-3077,Bram Bakker,2026,7,Juli,Nog niet in dienst,0,0
-3077,Bram Bakker,2026,8,Augustus,Nog niet in dienst,0,0
-3077,Bram Bakker,2026,9,September,Nog niet in dienst,0,0
-3077,Bram Bakker,2026,10,Oktober,Nog niet in dienst,0,0
-3077,Bram Bakker,2026,11,November,Actief,1,0
-3077,Bram Bakker,2026,12,December,Actief,1,4
-3105,Jasper Brouwer,2026,1,Januari,Actief,0,0
-3105,Jasper Brouwer,2026,2,Februari,Actief,1,0
-3105,Jasper Brouwer,2026,3,Maart,Actief,0,0
-3105,Jasper Brouwer,2026,4,April,Actief,0,0
-3105,Jasper Brouwer,2026,5,Mei,Actief,0,3
-3105,Jasper Brouwer,2026,6,Juni,Actief,1,5
-3105,Jasper Brouwer,2026,7,Juli,Actief,0,12
-3105,Jasper Brouwer,2026,8,Augustus,Actief,0,0
-3105,Jasper Brouwer,2026,9,September,Actief,0,0
-3105,Jasper Brouwer,2026,10,Oktober,Actief,0,0
-3105,Jasper Brouwer,2026,11,November,Actief,0,0
-3105,Jasper Brouwer,2026,12,December,Actief,0,0
-2810,Tess Verhoeven,2026,1,Januari,Nog niet in dienst,0,0
-2810,Tess Verhoeven,2026,2,Februari,Nog niet in dienst,0,0
-2810,Tess Verhoeven,2026,3,Maart,Nog niet in dienst,0,0
-2810,Tess Verhoeven,2026,4,April,Nog niet in dienst,0,0
-2810,Tess Verhoeven,2026,5,Mei,Nog niet in dienst,0,0
-2810,Tess Verhoeven,2026,6,Juni,Actief,0,2
-2810,Tess Verhoeven,2026,7,Juli,Actief,0,0
-2810,Tess Verhoeven,2026,8,Augustus,Actief,0,3
-2810,Tess Verhoeven,2026,9,September,Actief,0,1
-2810,Tess Verhoeven,2026,10,Oktober,Actief,0,5
-2810,Tess Verhoeven,2026,11,November,Actief,0,0
-2810,Tess Verhoeven,2026,12,December,Actief,0,4
-3609,Saar de Boer,2026,1,Januari,Actief,0,0
-3609,Saar de Boer,2026,2,Februari,Actief,0,5
-3609,Saar de Boer,2026,3,Maart,Actief,2,0
-3609,Saar de Boer,2026,4,April,Actief,0,0
-3609,Saar de Boer,2026,5,Mei,Actief,0,0
-3609,Saar de Boer,2026,6,Juni,Actief,0,2
-3609,Saar de Boer,2026,7,Juli,Actief,0,2
-3609,Saar de Boer,2026,8,Augustus,Actief,0,10
-3609,Saar de Boer,2026,9,September,Actief,0,0
-3609,Saar de Boer,2026,10,Oktober,Actief,2,0
-3609,Saar de Boer,2026,11,November,Actief,0,0
-3609,Saar de Boer,2026,12,December,Actief,0,0
-2052,Noor van der Meer,2026,1,Januari,Actief,0,0
-2052,Noor van der Meer,2026,2,Februari,Actief,0,0
-2052,Noor van der Meer,2026,3,Maart,Actief,0,0
-2052,Noor van der Meer,2026,4,April,Actief,0,0
-2052,Noor van der Meer,2026,5,Mei,Actief,0,5
-2052,Noor van der Meer,2026,6,Juni,Actief,0,0
-2052,Noor van der Meer,2026,7,Juli,Actief,0,10
-2052,Noor van der Meer,2026,8,Augustus,Actief,0,0
-2052,Noor van der Meer,2026,9,September,Actief,0,2
-2052,Noor van der Meer,2026,10,Oktober,Actief,0,2
-2052,Noor van der Meer,2026,11,November,Actief,0,0
-2052,Noor van der Meer,2026,12,December,Actief,0,0
-3123,Hanna Peeters,2026,1,Januari,Actief,0,0
-3123,Hanna Peeters,2026,2,Februari,Actief,0,0
-3123,Hanna Peeters,2026,3,Maart,Actief,0,0
-3123,Hanna Peeters,2026,4,April,Actief,0,0
-3123,Hanna Peeters,2026,5,Mei,Actief,0,0
-3123,Hanna Peeters,2026,6,Juni,Actief,0,0
-3123,Hanna Peeters,2026,7,Juli,Actief,0,12
-3123,Hanna Peeters,2026,8,Augustus,Actief,0,3
-3123,Hanna Peeters,2026,9,September,Actief,0,0
-3123,Hanna Peeters,2026,10,Oktober,Actief,0,0
-3123,Hanna Peeters,2026,11,November,Actief,0,5
-3123,Hanna Peeters,2026,12,December,Actief,0,0
-1117,Noud Vos,2026,1,Januari,Actief,0,0
-1117,Noud Vos,2026,2,Februari,Actief,0,0
-1117,Noud Vos,2026,3,Maart,Actief,0,0
-1117,Noud Vos,2026,4,April,Actief,0,0
-1117,Noud Vos,2026,5,Mei,Actief,0,0
-1117,Noud Vos,2026,6,Juni,Actief,0,3
-1117,Noud Vos,2026,7,Juli,Actief,0,0
-1117,Noud Vos,2026,8,Augustus,Actief,0,10
-1117,Noud Vos,2026,9,September,Actief,0,7
-1117,Noud Vos,2026,10,Oktober,Actief,0,0
-1117,Noud Vos,2026,11,November,Actief,0,0
-1117,Noud Vos,2026,12,December,Actief,0,0
-2345,Ruben Kuipers,2026,1,Januari,Actief,0,3
-2345,Ruben Kuipers,2026,2,Februari,Actief,0,5
-2345,Ruben Kuipers,2026,3,Maart,Actief,0,3
-2345,Ruben Kuipers,2026,4,April,Actief,0,0
-2345,Ruben Kuipers,2026,5,Mei,Actief,0,0
-2345,Ruben Kuipers,2026,6,Juni,Actief,0,0
-2345,Ruben Kuipers,2026,7,Juli,Actief,0,10
-2345,Ruben Kuipers,2026,8,Augustus,Actief,0,0
-2345,Ruben Kuipers,2026,9,September,Actief,0,0
-2345,Ruben Kuipers,2026,10,Oktober,Actief,0,0
-2345,Ruben Kuipers,2026,11,November,Actief,0,0
-2345,Ruben Kuipers,2026,12,December,Actief,0,5
-2754,Emma van den Berg,2026,1,Januari,Actief,0,5
-2754,Emma van den Berg,2026,2,Februari,Actief,1,3
-2754,Emma van den Berg,2026,3,Maart,Actief,0,0
-2754,Emma van den Berg,2026,4,April,Actief,0,0
-2754,Emma van den Berg,2026,5,Mei,Actief,0,0
-2754,Emma van den Berg,2026,6,Juni,Actief,0,0
-2754,Emma van den Berg,2026,7,Juli,Actief,0,10
-2754,Emma van den Berg,2026,8,Augustus,Actief,0,0
-2754,Emma van den Berg,2026,9,September,Actief,0,2
-2754,Emma van den Berg,2026,10,Oktober,Actief,0,0
-2754,Emma van den Berg,2026,11,November,Actief,0,0
-2754,Emma van den Berg,2026,12,December,Actief,0,5
-1416,Sara Dekker,2026,1,Januari,Actief,1,3
-1416,Sara Dekker,2026,2,Februari,Actief,0,3
-1416,Sara Dekker,2026,3,Maart,Actief,2,0
-1416,Sara Dekker,2026,4,April,Actief,0,0
-1416,Sara Dekker,2026,5,Mei,Actief,0,0
-1416,Sara Dekker,2026,6,Juni,Actief,0,5
-1416,Sara Dekker,2026,7,Juli,Actief,0,10
-1416,Sara Dekker,2026,8,Augustus,Actief,0,0
-1416,Sara Dekker,2026,9,September,Actief,0,0
-1416,Sara Dekker,2026,10,Oktober,Actief,0,0
-1416,Sara Dekker,2026,11,November,Actief,0,5
-1416,Sara Dekker,2026,12,December,Actief,0,0
-3245,Lieke Maas,2026,1,Januari,Actief,0,0
-3245,Lieke Maas,2026,2,Februari,Actief,0,2
-3245,Lieke Maas,2026,3,Maart,Actief,0,5
-3245,Lieke Maas,2026,4,April,Actief,0,0
-3245,Lieke Maas,2026,5,Mei,Actief,0,0
-3245,Lieke Maas,2026,6,Juni,Actief,0,0
-3245,Lieke Maas,2026,7,Juli,Actief,0,0
-3245,Lieke Maas,2026,8,Augustus,Actief,1,10
-3245,Lieke Maas,2026,9,September,Actief,0,0
-3245,Lieke Maas,2026,10,Oktober,Actief,0,0
-3245,Lieke Maas,2026,11,November,Actief,2,3
-3245,Lieke Maas,2026,12,December,Actief,0,0
-1253,Sanne Meijer,2026,1,Januari,Actief,1,0
-1253,Sanne Meijer,2026,2,Februari,Met verlof,0,0
-1253,Sanne Meijer,2026,3,Maart,Met verlof,0,0
-1253,Sanne Meijer,2026,4,April,Met verlof,0,0
-1253,Sanne Meijer,2026,5,Mei,Actief,0,2
-1253,Sanne Meijer,2026,6,Juni,Actief,0,0
-1253,Sanne Meijer,2026,7,Juli,Actief,0,12
-1253,Sanne Meijer,2026,8,Augustus,Actief,0,0
-1253,Sanne Meijer,2026,9,September,Actief,0,0
-1253,Sanne Meijer,2026,10,Oktober,Actief,0,3
-1253,Sanne Meijer,2026,11,November,Actief,0,0
-1253,Sanne Meijer,2026,12,December,Actief,0,2
-2402,Finn Smits,2026,1,Januari,Actief,0,0
-2402,Finn Smits,2026,2,Februari,Actief,0,0
-2402,Finn Smits,2026,3,Maart,Actief,0,5
-2402,Finn Smits,2026,4,April,Actief,0,0
-2402,Finn Smits,2026,5,Mei,Actief,0,0
-2402,Finn Smits,2026,6,Juni,Actief,0,2
-2402,Finn Smits,2026,7,Juli,Actief,0,0
-2402,Finn Smits,2026,8,Augustus,Actief,0,10
-2402,Finn Smits,2026,9,September,Actief,0,0
-2402,Finn Smits,2026,10,Oktober,Actief,0,2
-2402,Finn Smits,2026,11,November,Actief,0,0
-2402,Finn Smits,2026,12,December,Actief,0,0
-3672,Thijs Huisman,2026,1,Januari,Actief,0,0
-3672,Thijs Huisman,2026,2,Februari,Actief,0,0
-3672,Thijs Huisman,2026,3,Maart,Actief,0,0
-3672,Thijs Huisman,2026,4,April,Actief,1,0
-3672,Thijs Huisman,2026,5,Mei,Actief,0,0
-3672,Thijs Huisman,2026,6,Juni,Actief,0,2
-3672,Thijs Huisman,2026,7,Juli,Actief,0,5
-3672,Thijs Huisman,2026,8,Augustus,Actief,0,10
-3672,Thijs Huisman,2026,9,September,Actief,2,0
-3672,Thijs Huisman,2026,10,Oktober,Actief,0,0
-3672,Thijs Huisman,2026,11,November,Actief,0,2
-3672,Thijs Huisman,2026,12,December,Actief,0,0
-3189,Bas Bos,2026,1,Januari,Nog niet in dienst,0,0
-3189,Bas Bos,2026,2,Februari,Nog niet in dienst,0,0
-3189,Bas Bos,2026,3,Maart,Nog niet in dienst,0,0
-3189,Bas Bos,2026,4,April,Nog niet in dienst,0,0
-3189,Bas Bos,2026,5,Mei,Actief,0,3
-3189,Bas Bos,2026,6,Juni,Actief,0,0
-3189,Bas Bos,2026,7,Juli,Actief,0,5
-3189,Bas Bos,2026,8,Augustus,Actief,0,4
-3189,Bas Bos,2026,9,September,Actief,0,0
-3189,Bas Bos,2026,10,Oktober,Actief,0,3
-3189,Bas Bos,2026,11,November,Actief,2,2
-3189,Bas Bos,2026,12,December,Actief,0,0
-2747,Sophie Vermeulen,2026,1,Januari,Actief,0,5
-2747,Sophie Vermeulen,2026,2,Februari,Actief,0,0
-2747,Sophie Vermeulen,2026,3,Maart,Actief,0,0
-2747,Sophie Vermeulen,2026,4,April,Actief,0,0
-2747,Sophie Vermeulen,2026,5,Mei,Actief,0,5
-2747,Sophie Vermeulen,2026,6,Juni,Actief,0,0
-2747,Sophie Vermeulen,2026,7,Juli,Actief,0,10
-2747,Sophie Vermeulen,2026,8,Augustus,Actief,0,3
-2747,Sophie Vermeulen,2026,9,September,Actief,0,3
-2747,Sophie Vermeulen,2026,10,Oktober,Actief,0,0
-2747,Sophie Vermeulen,2026,11,November,Actief,0,0
-2747,Sophie Vermeulen,2026,12,December,Actief,0,0
-3366,Nora de Jong,2026,1,Januari,Actief,0,0
-3366,Nora de Jong,2026,2,Februari,Actief,0,0
-3366,Nora de Jong,2026,3,Maart,Actief,0,0
-3366,Nora de Jong,2026,4,April,Actief,0,0
-3366,Nora de Jong,2026,5,Mei,Actief,0,0
-3366,Nora de Jong,2026,6,Juni,Actief,0,3
-3366,Nora de Jong,2026,7,Juli,Actief,0,5
-3366,Nora de Jong,2026,8,Augustus,Actief,7,12
-3366,Nora de Jong,2026,9,September,Actief,0,0
-3366,Nora de Jong,2026,10,Oktober,Actief,0,0
-3366,Nora de Jong,2026,11,November,Actief,0,0
-3366,Nora de Jong,2026,12,December,Actief,0,5
-3219,Evi van Leeuwen,2026,1,Januari,Actief,0,0
-3219,Evi van Leeuwen,2026,2,Februari,Actief,0,0
-3219,Evi van Leeuwen,2026,3,Maart,Actief,0,5
-3219,Evi van Leeuwen,2026,4,April,Actief,0,0
-3219,Evi van Leeuwen,2026,5,Mei,Actief,0,0
-3219,Evi van Leeuwen,2026,6,Juni,Actief,0,5
-3219,Evi van Leeuwen,2026,7,Juli,Actief,0,10
-3219,Evi van Leeuwen,2026,8,Augustus,Actief,0,0
-3219,Evi van Leeuwen,2026,9,September,Actief,0,2
-3219,Evi van Leeuwen,2026,10,Oktober,Actief,0,0
-3219,Evi van Leeuwen,2026,11,November,Actief,0,2
-3219,Evi van Leeuwen,2026,12,December,Actief,0,0
-2918,Daan Willems,2026,1,Januari,Actief,0,0
-2918,Daan Willems,2026,2,Februari,Actief,0,0
-2918,Daan Willems,2026,3,Maart,Actief,0,3
-2918,Daan Willems,2026,4,April,Actief,0,0
-2918,Daan Willems,2026,5,Mei,Actief,0,2
-2918,Daan Willems,2026,6,Juni,Actief,0,0
-2918,Daan Willems,2026,7,Juli,Actief,0,10
-2918,Daan Willems,2026,8,Augustus,Actief,0,5
-2918,Daan Willems,2026,9,September,Actief,0,0
-2918,Daan Willems,2026,10,Oktober,Actief,0,0
-2918,Daan Willems,2026,11,November,Actief,0,0
-2918,Daan Willems,2026,12,December,Actief,0,0
-2061,Jesse Smit,2026,1,Januari,Actief,0,0
-2061,Jesse Smit,2026,2,Februari,Actief,0,0
-2061,Jesse Smit,2026,3,Maart,Actief,0,0
-2061,Jesse Smit,2026,4,April,Actief,0,0
-2061,Jesse Smit,2026,5,Mei,Actief,0,0
-2061,Jesse Smit,2026,6,Juni,Actief,0,8
-2061,Jesse Smit,2026,7,Juli,Actief,0,0
-2061,Jesse Smit,2026,8,Augustus,Actief,0,10
-2061,Jesse Smit,2026,9,September,Actief,0,0
-2061,Jesse Smit,2026,10,Oktober,Actief,0,3
-2061,Jesse Smit,2026,11,November,Actief,0,0
-2061,Jesse Smit,2026,12,December,Actief,1,0
-2089,Lars Dijkstra,2026,1,Januari,Actief,0,2
-2089,Lars Dijkstra,2026,2,Februari,Actief,0,0
-2089,Lars Dijkstra,2026,3,Maart,Actief,0,5
-2089,Lars Dijkstra,2026,4,April,Actief,2,0
-2089,Lars Dijkstra,2026,5,Mei,Actief,0,0
-2089,Lars Dijkstra,2026,6,Juni,Actief,0,2
-2089,Lars Dijkstra,2026,7,Juli,Actief,0,10
-2089,Lars Dijkstra,2026,8,Augustus,Actief,0,0
-2089,Lars Dijkstra,2026,9,September,Actief,0,0
-2089,Lars Dijkstra,2026,10,Oktober,Actief,0,0
-2089,Lars Dijkstra,2026,11,November,Actief,0,0
-2089,Lars Dijkstra,2026,12,December,Actief,0,0
-3617,Julia Prins,2026,1,Januari,Nog niet in dienst,0,0
-3617,Julia Prins,2026,2,Februari,Nog niet in dienst,0,0
-3617,Julia Prins,2026,3,Maart,Nog niet in dienst,0,0
-3617,Julia Prins,2026,4,April,Nog niet in dienst,0,0
-3617,Julia Prins,2026,5,Mei,Nog niet in dienst,0,0
-3617,Julia Prins,2026,6,Juni,Actief,0,5
-3617,Julia Prins,2026,7,Juli,Actief,0,0
-3617,Julia Prins,2026,8,Augustus,Actief,0,0
-3617,Julia Prins,2026,9,September,Actief,0,3
-3617,Julia Prins,2026,10,Oktober,Actief,1,2
-3617,Julia Prins,2026,11,November,Actief,2,5
-3617,Julia Prins,2026,12,December,Actief,0,0
-3134,Eva de Groot,2026,1,Januari,Actief,0,0
-3134,Eva de Groot,2026,2,Februari,Actief,0,0
-3134,Eva de Groot,2026,3,Maart,Actief,0,0
-3134,Eva de Groot,2026,4,April,Actief,1,0
-3134,Eva de Groot,2026,5,Mei,Actief,0,0
-3134,Eva de Groot,2026,6,Juni,Actief,0,0
-3134,Eva de Groot,2026,7,Juli,Actief,0,3
-3134,Eva de Groot,2026,8,Augustus,Actief,0,12
-3134,Eva de Groot,2026,9,September,Actief,0,0
-3134,Eva de Groot,2026,10,Oktober,Actief,0,0
-3134,Eva de Groot,2026,11,November,Actief,1,0
-3134,Eva de Groot,2026,12,December,Actief,0,5
-2715,Maud Jacobs,2026,1,Januari,Nog niet in dienst,0,0
-2715,Maud Jacobs,2026,2,Februari,Actief,0,2
-2715,Maud Jacobs,2026,3,Maart,Actief,0,0
-2715,Maud Jacobs,2026,4,April,Actief,0,0
-2715,Maud Jacobs,2026,5,Mei,Actief,0,3
-2715,Maud Jacobs,2026,6,Juni,Actief,0,0
-2715,Maud Jacobs,2026,7,Juli,Actief,0,10
-2715,Maud Jacobs,2026,8,Augustus,Actief,0,5
-2715,Maud Jacobs,2026,9,September,Actief,1,0
-2715,Maud Jacobs,2026,10,Oktober,Actief,0,0
-2715,Maud Jacobs,2026,11,November,Actief,0,0
-2715,Maud Jacobs,2026,12,December,Actief,0,5
-2667,Femke Jansen,2026,1,Januari,Actief,0,0
-2667,Femke Jansen,2026,2,Februari,Actief,0,0
-2667,Femke Jansen,2026,3,Maart,Actief,0,3
-2667,Femke Jansen,2026,4,April,Actief,0,0
-2667,Femke Jansen,2026,5,Mei,Actief,0,0
-2667,Femke Jansen,2026,6,Juni,Actief,1,5
-2667,Femke Jansen,2026,7,Juli,Actief,0,10
-2667,Femke Jansen,2026,8,Augustus,Actief,0,0
-2667,Femke Jansen,2026,9,September,Actief,0,0
-2667,Femke Jansen,2026,10,Oktober,Actief,0,0
-2667,Femke Jansen,2026,11,November,Actief,0,0
-2667,Femke Jansen,2026,12,December,Actief,0,3
-3429,Levi Hendriks,2026,1,Januari,Actief,0,0
-3429,Levi Hendriks,2026,2,Februari,Actief,0,0
-3429,Levi Hendriks,2026,3,Maart,Actief,0,3
-3429,Levi Hendriks,2026,4,April,Actief,0,2
-3429,Levi Hendriks,2026,5,Mei,Actief,0,0
-3429,Levi Hendriks,2026,6,Juni,Actief,2,0
-3429,Levi Hendriks,2026,7,Juli,Actief,0,0
-3429,Levi Hendriks,2026,8,Augustus,Actief,1,10
-3429,Levi Hendriks,2026,9,September,Actief,0,0
-3429,Levi Hendriks,2026,10,Oktober,Actief,0,5
-3429,Levi Hendriks,2026,11,November,Actief,0,0
-3429,Levi Hendriks,2026,12,December,Actief,0,0
-2702,Cas Hofman,2026,1,Januari,Actief,0,0
-2702,Cas Hofman,2026,2,Februari,Actief,0,0
-2702,Cas Hofman,2026,3,Maart,Actief,0,2
-2702,Cas Hofman,2026,4,April,Actief,0,0
-2702,Cas Hofman,2026,5,Mei,Actief,2,0
-2702,Cas Hofman,2026,6,Juni,Actief,0,5
-2702,Cas Hofman,2026,7,Juli,Actief,0,10
-2702,Cas Hofman,2026,8,Augustus,Actief,0,0
-2702,Cas Hofman,2026,9,September,Actief,0,0
-2702,Cas Hofman,2026,10,Oktober,Actief,0,0
-2702,Cas Hofman,2026,11,November,Actief,0,2
-2702,Cas Hofman,2026,12,December,Actief,0,0
-3529,Niels Visser,2026,1,Januari,Actief,0,0
-3529,Niels Visser,2026,2,Februari,Actief,0,0
-3529,Niels Visser,2026,3,Maart,Actief,0,0
-3529,Niels Visser,2026,4,April,Actief,0,0
-3529,Niels Visser,2026,5,Mei,Actief,0,0
-3529,Niels Visser,2026,6,Juni,Actief,0,0
-3529,Niels Visser,2026,7,Juli,Actief,0,0
-3529,Niels Visser,2026,8,Augustus,Actief,0,10
-3529,Niels Visser,2026,9,September,Actief,0,2
-3529,Niels Visser,2026,10,Oktober,Actief,0,0
-3529,Niels Visser,2026,11,November,Actief,0,8
-3529,Niels Visser,2026,12,December,Actief,0,0
-2586,Anna de Wit,2026,1,Januari,Actief,0,0
-2586,Anna de Wit,2026,2,Februari,Actief,0,3
-2586,Anna de Wit,2026,3,Maart,Actief,0,0
-2586,Anna de Wit,2026,4,April,Actief,0,2
-2586,Anna de Wit,2026,5,Mei,Actief,0,0
-2586,Anna de Wit,2026,6,Juni,Actief,0,0
-2586,Anna de Wit,2026,7,Juli,Actief,0,0
-2586,Anna de Wit,2026,8,Augustus,Actief,0,10
-2586,Anna de Wit,2026,9,September,Actief,0,5
-2586,Anna de Wit,2026,10,Oktober,Actief,0,0
-2586,Anna de Wit,2026,11,November,Actief,0,0
-2586,Anna de Wit,2026,12,December,Actief,0,0
-3554,Liv Koning,2026,1,Januari,Actief,0,0
-3554,Liv Koning,2026,2,Februari,Actief,0,3
-3554,Liv Koning,2026,3,Maart,Actief,0,0
-3554,Liv Koning,2026,4,April,Actief,0,0
-3554,Liv Koning,2026,5,Mei,Actief,0,5
-3554,Liv Koning,2026,6,Juni,Actief,0,0
-3554,Liv Koning,2026,7,Juli,Actief,0,5
-3554,Liv Koning,2026,8,Augustus,Actief,1,10
-3554,Liv Koning,2026,9,September,Actief,0,2
-3554,Liv Koning,2026,10,Oktober,Actief,1,0
-3554,Liv Koning,2026,11,November,Actief,0,0
-3554,Liv Koning,2026,12,December,Actief,0,0
-2655,Loes Mulder,2026,1,Januari,Actief,0,5
-2655,Loes Mulder,2026,2,Februari,Actief,0,0
-2655,Loes Mulder,2026,3,Maart,Actief,0,0
-2655,Loes Mulder,2026,4,April,Actief,0,0
-2655,Loes Mulder,2026,5,Mei,Actief,0,0
-2655,Loes Mulder,2026,6,Juni,Actief,0,3
-2655,Loes Mulder,2026,7,Juli,Actief,0,5
-2655,Loes Mulder,2026,8,Augustus,Actief,0,10
-2655,Loes Mulder,2026,9,September,Actief,0,2
-2655,Loes Mulder,2026,10,Oktober,Actief,0,0
-2655,Loes Mulder,2026,11,November,Actief,0,0
-2655,Loes Mulder,2026,12,December,Actief,1,0
-2671,Sem Kok,2026,1,Januari,Actief,0,5
-2671,Sem Kok,2026,2,Februari,Actief,0,0
-2671,Sem Kok,2026,3,Maart,Actief,0,0
-2671,Sem Kok,2026,4,April,Actief,0,0
-2671,Sem Kok,2026,5,Mei,Actief,0,0
-2671,Sem Kok,2026,6,Juni,Actief,0,3
-2671,Sem Kok,2026,7,Juli,Actief,0,5
-2671,Sem Kok,2026,8,Augustus,Actief,2,10
-2671,Sem Kok,2026,9,September,Actief,0,0
-2671,Sem Kok,2026,10,Oktober,Actief,0,3
-2671,Sem Kok,2026,11,November,Actief,0,0
-2671,Sem Kok,2026,12,December,Actief,0,0
-2580,Sven de Vries,2026,1,Januari,Actief,0,5
-2580,Sven de Vries,2026,2,Februari,Actief,0,0
-2580,Sven de Vries,2026,3,Maart,Actief,0,0
-2580,Sven de Vries,2026,4,April,Actief,0,3
-2580,Sven de Vries,2026,5,Mei,Actief,0,2
-2580,Sven de Vries,2026,6,Juni,Actief,0,0
-2580,Sven de Vries,2026,7,Juli,Actief,0,0
-2580,Sven de Vries,2026,8,Augustus,Actief,0,10
-2580,Sven de Vries,2026,9,September,Actief,0,0
-2580,Sven de Vries,2026,10,Oktober,Actief,0,0
-2580,Sven de Vries,2026,11,November,Actief,0,0
-2580,Sven de Vries,2026,12,December,Actief,1,0
-3495,Stijn Peters,2026,1,Januari,Nog niet in dienst,0,0
-3495,Stijn Peters,2026,2,Februari,Actief,0,5
-3495,Stijn Peters,2026,3,Maart,Actief,0,0
-3495,Stijn Peters,2026,4,April,Actief,2,5
-3495,Stijn Peters,2026,5,Mei,Actief,0,0
-3495,Stijn Peters,2026,6,Juni,Actief,0,0
-3495,Stijn Peters,2026,7,Juli,Actief,0,2
-3495,Stijn Peters,2026,8,Augustus,Actief,0,10
-3495,Stijn Peters,2026,9,September,Actief,0,0
-3495,Stijn Peters,2026,10,Oktober,Actief,0,2
-3495,Stijn Peters,2026,11,November,Actief,0,0
-3495,Stijn Peters,2026,12,December,Actief,0,0
-2585,Mila van Dijk,2026,1,Januari,Actief,2,2
-2585,Mila van Dijk,2026,2,Februari,Actief,0,0
-2585,Mila van Dijk,2026,3,Maart,Actief,0,0
-2585,Mila van Dijk,2026,4,April,Actief,0,2
-2585,Mila van Dijk,2026,5,Mei,Actief,0,5
-2585,Mila van Dijk,2026,6,Juni,Actief,0,0
-2585,Mila van Dijk,2026,7,Juli,Actief,0,0
-2585,Mila van Dijk,2026,8,Augustus,Actief,0,10
-2585,Mila van Dijk,2026,9,September,Actief,0,0
-2585,Mila van Dijk,2026,10,Oktober,Actief,0,0
-2585,Mila van Dijk,2026,11,November,Actief,0,5
-2585,Mila van Dijk,2026,12,December,Actief,0,0
-2734,Fenna Bakker,2026,1,Januari,Actief,0,0
-2734,Fenna Bakker,2026,2,Februari,Actief,0,0
-2734,Fenna Bakker,2026,3,Maart,Actief,0,3
-2734,Fenna Bakker,2026,4,April,Actief,0,0
-2734,Fenna Bakker,2026,5,Mei,Actief,0,0
-2734,Fenna Bakker,2026,6,Juni,Actief,0,5
-2734,Fenna Bakker,2026,7,Juli,Actief,0,0
-2734,Fenna Bakker,2026,8,Augustus,Actief,0,10
-2734,Fenna Bakker,2026,9,September,Actief,0,5
-2734,Fenna Bakker,2026,10,Oktober,Actief,0,2
-2734,Fenna Bakker,2026,11,November,Actief,0,0
-2734,Fenna Bakker,2026,12,December,Actief,2,0
-1376,Floor Brouwer,2026,1,Januari,Actief,0,0
-1376,Floor Brouwer,2026,2,Februari,Actief,0,0
-1376,Floor Brouwer,2026,3,Maart,Actief,0,0
-1376,Floor Brouwer,2026,4,April,Actief,1,5
-1376,Floor Brouwer,2026,5,Mei,Actief,0,2
-1376,Floor Brouwer,2026,6,Juni,Actief,0,0
-1376,Floor Brouwer,2026,7,Juli,Actief,0,10
-1376,Floor Brouwer,2026,8,Augustus,Actief,0,3
-1376,Floor Brouwer,2026,9,September,Actief,0,0
-1376,Floor Brouwer,2026,10,Oktober,Actief,0,0
-1376,Floor Brouwer,2026,11,November,Actief,2,0
-1376,Floor Brouwer,2026,12,December,Actief,0,0
-1939,Iris Verhoeven,2026,1,Januari,Actief,1,0
-1939,Iris Verhoeven,2026,2,Februari,Actief,0,8
-1939,Iris Verhoeven,2026,3,Maart,Actief,0,0
-1939,Iris Verhoeven,2026,4,April,Actief,0,0
-1939,Iris Verhoeven,2026,5,Mei,Actief,1,0
-1939,Iris Verhoeven,2026,6,Juni,Actief,0,0
-1939,Iris Verhoeven,2026,7,Juli,Actief,0,10
-1939,Iris Verhoeven,2026,8,Augustus,Actief,0,0
-1939,Iris Verhoeven,2026,9,September,Actief,0,0
-1939,Iris Verhoeven,2026,10,Oktober,Actief,0,0
-1939,Iris Verhoeven,2026,11,November,Actief,0,3
-1939,Iris Verhoeven,2026,12,December,Actief,0,0
-3826,Liam de Boer,2026,1,Januari,Nog niet in dienst,0,0
-3826,Liam de Boer,2026,2,Februari,Nog niet in dienst,0,0
-3826,Liam de Boer,2026,3,Maart,Nog niet in dienst,0,0
-3826,Liam de Boer,2026,4,April,Nog niet in dienst,0,0
-3826,Liam de Boer,2026,5,Mei,Nog niet in dienst,0,0
-3826,Liam de Boer,2026,6,Juni,Nog niet in dienst,0,0
-3826,Liam de Boer,2026,7,Juli,Nog niet in dienst,0,0
-3826,Liam de Boer,2026,8,Augustus,Nog niet in dienst,0,0
-3826,Liam de Boer,2026,9,September,Actief,0,0
-3826,Liam de Boer,2026,10,Oktober,Actief,0,0
-3826,Liam de Boer,2026,11,November,Actief,0,8
-3826,Liam de Boer,2026,12,December,Actief,0,0
-2355,Tim van der Meer,2026,1,Januari,Actief,0,0
-2355,Tim van der Meer,2026,2,Februari,Actief,0,3
-2355,Tim van der Meer,2026,3,Maart,Actief,0,0
-2355,Tim van der Meer,2026,4,April,Actief,0,5
-2355,Tim van der Meer,2026,5,Mei,Actief,0,0
-2355,Tim van der Meer,2026,6,Juni,Actief,1,0
-2355,Tim van der Meer,2026,7,Juli,Actief,0,12
-2355,Tim van der Meer,2026,8,Augustus,Actief,0,0
-2355,Tim van der Meer,2026,9,September,Actief,0,0
-2355,Tim van der Meer,2026,10,Oktober,Actief,0,0
-2355,Tim van der Meer,2026,11,November,Actief,5,0
-2355,Tim van der Meer,2026,12,December,Actief,0,0
-3906,Tom Peeters,2026,1,Januari,Actief,1,0
-3906,Tom Peeters,2026,2,Februari,Actief,0,3
-3906,Tom Peeters,2026,3,Maart,Actief,0,0
-3906,Tom Peeters,2026,4,April,Actief,0,5
-3906,Tom Peeters,2026,5,Mei,Actief,0,0
-3906,Tom Peeters,2026,6,Juni,Actief,0,0
-3906,Tom Peeters,2026,7,Juli,Actief,0,13
-3906,Tom Peeters,2026,8,Augustus,Actief,0,0
-3906,Tom Peeters,2026,9,September,Actief,0,5
-3906,Tom Peeters,2026,10,Oktober,Actief,0,0
-3906,Tom Peeters,2026,11,November,Actief,0,0
-3906,Tom Peeters,2026,12,December,Actief,0,0
-3894,Lotte Vos,2026,1,Januari,Nog niet in dienst,0,0
-3894,Lotte Vos,2026,2,Februari,Nog niet in dienst,0,0
-3894,Lotte Vos,2026,3,Maart,Nog niet in dienst,0,0
-3894,Lotte Vos,2026,4,April,Actief,0,0
-3894,Lotte Vos,2026,5,Mei,Actief,0,2
-3894,Lotte Vos,2026,6,Juni,Actief,0,6
-3894,Lotte Vos,2026,7,Juli,Actief,0,5
-3894,Lotte Vos,2026,8,Augustus,Actief,0,1
-3894,Lotte Vos,2026,9,September,Actief,1,0
-3894,Lotte Vos,2026,10,Oktober,Actief,0,0
-3894,Lotte Vos,2026,11,November,Actief,0,5
-3894,Lotte Vos,2026,12,December,Actief,0,0
-1721,Roos Kuipers,2026,1,Januari,Actief,0,0
-1721,Roos Kuipers,2026,2,Februari,Actief,0,0
-1721,Roos Kuipers,2026,3,Maart,Actief,0,0
-1721,Roos Kuipers,2026,4,April,Actief,0,2
-1721,Roos Kuipers,2026,5,Mei,Actief,0,0
-1721,Roos Kuipers,2026,6,Juni,Actief,0,5
-1721,Roos Kuipers,2026,7,Juli,Actief,0,0
-1721,Roos Kuipers,2026,8,Augustus,Actief,0,10
-1721,Roos Kuipers,2026,9,September,Actief,0,2
-1721,Roos Kuipers,2026,10,Oktober,Actief,0,0
-1721,Roos Kuipers,2026,11,November,Actief,0,5
-1721,Roos Kuipers,2026,12,December,Actief,0,0
-2495,Maaike van den Berg,2026,1,Januari,Actief,0,5
-2495,Maaike van den Berg,2026,2,Februari,Actief,0,0
-2495,Maaike van den Berg,2026,3,Maart,Actief,0,0
-2495,Maaike van den Berg,2026,4,April,Actief,0,0
-2495,Maaike van den Berg,2026,5,Mei,Actief,0,2
-2495,Maaike van den Berg,2026,6,Juni,Actief,0,0
-2495,Maaike van den Berg,2026,7,Juli,Actief,2,10
-2495,Maaike van den Berg,2026,8,Augustus,Actief,0,0
-2495,Maaike van den Berg,2026,9,September,Actief,0,0
-2495,Maaike van den Berg,2026,10,Oktober,Actief,0,0
-2495,Maaike van den Berg,2026,11,November,Actief,0,0
-2495,Maaike van den Berg,2026,12,December,Actief,0,3
-3915,Lucas Dekker,2026,1,Januari,Nog niet in dienst,0,0
-3915,Lucas Dekker,2026,2,Februari,Nog niet in dienst,0,0
-3915,Lucas Dekker,2026,3,Maart,Nog niet in dienst,0,0
-3915,Lucas Dekker,2026,4,April,Nog niet in dienst,0,0
-3915,Lucas Dekker,2026,5,Mei,Nog niet in dienst,0,0
-3915,Lucas Dekker,2026,6,Juni,Nog niet in dienst,0,0
-3915,Lucas Dekker,2026,7,Juli,Nog niet in dienst,0,0
-3915,Lucas Dekker,2026,8,Augustus,Nog niet in dienst,0,0
-3915,Lucas Dekker,2026,9,September,Actief,2,1
-3915,Lucas Dekker,2026,10,Oktober,Actief,0,5
-3915,Lucas Dekker,2026,11,November,Actief,0,0
-3915,Lucas Dekker,2026,12,December,Actief,0,2
-3944,Bram Maas,2026,1,Januari,Actief,0,5
-3944,Bram Maas,2026,2,Februari,Actief,0,0
-3944,Bram Maas,2026,3,Maart,Actief,0,0
-3944,Bram Maas,2026,4,April,Actief,0,0
-3944,Bram Maas,2026,5,Mei,Actief,0,0
-3944,Bram Maas,2026,6,Juni,Actief,0,0
-3944,Bram Maas,2026,7,Juli,Actief,0,0
-3944,Bram Maas,2026,8,Augustus,Actief,0,10
-3944,Bram Maas,2026,9,September,Actief,0,3
-3944,Bram Maas,2026,10,Oktober,Actief,0,0
-3944,Bram Maas,2026,11,November,Actief,0,3
-3944,Bram Maas,2026,12,December,Actief,0,0
-2516,Jasper Meijer,2026,1,Januari,Actief,0,0
-2516,Jasper Meijer,2026,2,Februari,Actief,0,2
-2516,Jasper Meijer,2026,3,Maart,Actief,0,5
-2516,Jasper Meijer,2026,4,April,Actief,0,0
-2516,Jasper Meijer,2026,5,Mei,Actief,0,0
-2516,Jasper Meijer,2026,6,Juni,Actief,0,0
-2516,Jasper Meijer,2026,7,Juli,Actief,0,10
-2516,Jasper Meijer,2026,8,Augustus,Actief,0,0
-2516,Jasper Meijer,2026,9,September,Actief,0,0
-2516,Jasper Meijer,2026,10,Oktober,Actief,2,0
-2516,Jasper Meijer,2026,11,November,Actief,0,3
-2516,Jasper Meijer,2026,12,December,Actief,0,0
+2931,Marit de Wit,2026,1,Januari,Actief,0,2
+2931,Marit de Wit,2026,2,Februari,Actief,2,0
+2931,Marit de Wit,2026,3,Maart,Actief,0,5
+2931,Marit de Wit,2026,4,April,Actief,0,0
+2931,Marit de Wit,2026,5,Mei,Actief,1,0
+2931,Marit de Wit,2026,6,Juni,Actief,0,0
+2931,Marit de Wit,2026,7,Juli,Actief,0,0
+2931,Marit de Wit,2026,8,Augustus,Actief,0,10
+2931,Marit de Wit,2026,9,September,Actief,0,0
+2931,Marit de Wit,2026,10,Oktober,Actief,0,2
+2931,Marit de Wit,2026,11,November,Actief,0,0
+2931,Marit de Wit,2026,12,December,Actief,0,0
+2451,Mila Koning,2026,1,Januari,Actief,0,0
+2451,Mila Koning,2026,2,Februari,Actief,0,0
+2451,Mila Koning,2026,3,Maart,Actief,0,5
+2451,Mila Koning,2026,4,April,Actief,0,0
+2451,Mila Koning,2026,5,Mei,Actief,0,0
+2451,Mila Koning,2026,6,Juni,Actief,0,0
+2451,Mila Koning,2026,7,Juli,Actief,1,0
+2451,Mila Koning,2026,8,Augustus,Actief,0,10
+2451,Mila Koning,2026,9,September,Actief,0,0
+2451,Mila Koning,2026,10,Oktober,Actief,0,5
+2451,Mila Koning,2026,11,November,Actief,0,2
+2451,Mila Koning,2026,12,December,Actief,0,3
+3308,Norah Mulder,2026,1,Januari,Actief,0,3
+3308,Norah Mulder,2026,2,Februari,Actief,0,0
+3308,Norah Mulder,2026,3,Maart,Actief,0,5
+3308,Norah Mulder,2026,4,April,Actief,0,0
+3308,Norah Mulder,2026,5,Mei,Actief,0,2
+3308,Norah Mulder,2026,6,Juni,Actief,0,5
+3308,Norah Mulder,2026,7,Juli,Actief,0,0
+3308,Norah Mulder,2026,8,Augustus,Actief,0,10
+3308,Norah Mulder,2026,9,September,Actief,6,0
+3308,Norah Mulder,2026,10,Oktober,Actief,0,0
+3308,Norah Mulder,2026,11,November,Met verlof,0,0
+3308,Norah Mulder,2026,12,December,Actief,0,0
+2196,Jesse Kok,2026,1,Januari,Nog niet in dienst,0,0
+2196,Jesse Kok,2026,2,Februari,Nog niet in dienst,0,0
+2196,Jesse Kok,2026,3,Maart,Nog niet in dienst,0,0
+2196,Jesse Kok,2026,4,April,Nog niet in dienst,0,0
+2196,Jesse Kok,2026,5,Mei,Nog niet in dienst,0,0
+2196,Jesse Kok,2026,6,Juni,Actief,2,3
+2196,Jesse Kok,2026,7,Juli,Actief,2,3
+2196,Jesse Kok,2026,8,Augustus,Actief,0,0
+2196,Jesse Kok,2026,9,September,Actief,0,6
+2196,Jesse Kok,2026,10,Oktober,Actief,0,0
+2196,Jesse Kok,2026,11,November,Actief,0,0
+2196,Jesse Kok,2026,12,December,Actief,0,3
+3784,Martijn de Vries,2026,1,Januari,Nog niet in dienst,0,0
+3784,Martijn de Vries,2026,2,Februari,Nog niet in dienst,0,0
+3784,Martijn de Vries,2026,3,Maart,Nog niet in dienst,0,0
+3784,Martijn de Vries,2026,4,April,Nog niet in dienst,0,0
+3784,Martijn de Vries,2026,5,Mei,Nog niet in dienst,0,0
+3784,Martijn de Vries,2026,6,Juni,Nog niet in dienst,0,0
+3784,Martijn de Vries,2026,7,Juli,Actief,0,1
+3784,Martijn de Vries,2026,8,Augustus,Actief,0,4
+3784,Martijn de Vries,2026,9,September,Actief,2,0
+3784,Martijn de Vries,2026,10,Oktober,Actief,0,0
+3784,Martijn de Vries,2026,11,November,Actief,0,0
+3784,Martijn de Vries,2026,12,December,Actief,2,7
+1442,Julia Peters,2026,1,Januari,Actief,0,5
+1442,Julia Peters,2026,2,Februari,Actief,0,0
+1442,Julia Peters,2026,3,Maart,Actief,0,0
+1442,Julia Peters,2026,4,April,Actief,0,0
+1442,Julia Peters,2026,5,Mei,Actief,0,0
+1442,Julia Peters,2026,6,Juni,Actief,0,3
+1442,Julia Peters,2026,7,Juli,Actief,0,10
+1442,Julia Peters,2026,8,Augustus,Actief,0,0
+1442,Julia Peters,2026,9,September,Actief,1,0
+1442,Julia Peters,2026,10,Oktober,Actief,2,0
+1442,Julia Peters,2026,11,November,Actief,0,3
+1442,Julia Peters,2026,12,December,Actief,0,0
+2169,Bo van Dijk,2026,1,Januari,Actief,0,0
+2169,Bo van Dijk,2026,2,Februari,Actief,0,8
+2169,Bo van Dijk,2026,3,Maart,Actief,0,0
+2169,Bo van Dijk,2026,4,April,Actief,0,0
+2169,Bo van Dijk,2026,5,Mei,Actief,0,0
+2169,Bo van Dijk,2026,6,Juni,Actief,0,0
+2169,Bo van Dijk,2026,7,Juli,Actief,0,10
+2169,Bo van Dijk,2026,8,Augustus,Actief,0,0
+2169,Bo van Dijk,2026,9,September,Actief,0,3
+2169,Bo van Dijk,2026,10,Oktober,Actief,1,0
+2169,Bo van Dijk,2026,11,November,Actief,0,0
+2169,Bo van Dijk,2026,12,December,Actief,0,0
+2160,Hanna Bakker,2026,1,Januari,Nog niet in dienst,0,0
+2160,Hanna Bakker,2026,2,Februari,Nog niet in dienst,0,0
+2160,Hanna Bakker,2026,3,Maart,Nog niet in dienst,0,0
+2160,Hanna Bakker,2026,4,April,Nog niet in dienst,0,0
+2160,Hanna Bakker,2026,5,Mei,Nog niet in dienst,0,0
+2160,Hanna Bakker,2026,6,Juni,Actief,0,5
+2160,Hanna Bakker,2026,7,Juli,Actief,1,1
+2160,Hanna Bakker,2026,8,Augustus,Actief,0,2
+2160,Hanna Bakker,2026,9,September,Actief,2,5
+2160,Hanna Bakker,2026,10,Oktober,Actief,0,0
+2160,Hanna Bakker,2026,11,November,Actief,0,0
+2160,Hanna Bakker,2026,12,December,Actief,0,2
+1489,Yara Brouwer,2026,1,Januari,Actief,0,0
+1489,Yara Brouwer,2026,2,Februari,Actief,0,0
+1489,Yara Brouwer,2026,3,Maart,Actief,0,5
+1489,Yara Brouwer,2026,4,April,Actief,0,5
+1489,Yara Brouwer,2026,5,Mei,Actief,0,3
+1489,Yara Brouwer,2026,6,Juni,Actief,0,0
+1489,Yara Brouwer,2026,7,Juli,Actief,0,10
+1489,Yara Brouwer,2026,8,Augustus,Actief,0,0
+1489,Yara Brouwer,2026,9,September,Actief,0,0
+1489,Yara Brouwer,2026,10,Oktober,Actief,0,0
+1489,Yara Brouwer,2026,11,November,Actief,0,3
+1489,Yara Brouwer,2026,12,December,Actief,0,0
+1518,Luuk Verhoeven,2026,1,Januari,Actief,1,0
+1518,Luuk Verhoeven,2026,2,Februari,Actief,0,0
+1518,Luuk Verhoeven,2026,3,Maart,Actief,0,0
+1518,Luuk Verhoeven,2026,4,April,Actief,2,2
+1518,Luuk Verhoeven,2026,5,Mei,Actief,0,0
+1518,Luuk Verhoeven,2026,6,Juni,Actief,0,0
+1518,Luuk Verhoeven,2026,7,Juli,Actief,0,10
+1518,Luuk Verhoeven,2026,8,Augustus,Actief,0,0
+1518,Luuk Verhoeven,2026,9,September,Actief,0,0
+1518,Luuk Verhoeven,2026,10,Oktober,Actief,0,0
+1518,Luuk Verhoeven,2026,11,November,Actief,0,0
+1518,Luuk Verhoeven,2026,12,December,Actief,0,8
+1399,Finn de Boer,2026,1,Januari,Nog niet in dienst,0,0
+1399,Finn de Boer,2026,2,Februari,Nog niet in dienst,0,0
+1399,Finn de Boer,2026,3,Maart,Nog niet in dienst,0,0
+1399,Finn de Boer,2026,4,April,Nog niet in dienst,0,0
+1399,Finn de Boer,2026,5,Mei,Nog niet in dienst,0,0
+1399,Finn de Boer,2026,6,Juni,Nog niet in dienst,0,0
+1399,Finn de Boer,2026,7,Juli,Nog niet in dienst,0,0
+1399,Finn de Boer,2026,8,Augustus,Nog niet in dienst,0,0
+1399,Finn de Boer,2026,9,September,Nog niet in dienst,0,0
+1399,Finn de Boer,2026,10,Oktober,Actief,0,0
+1399,Finn de Boer,2026,11,November,Actief,1,0
+1399,Finn de Boer,2026,12,December,Actief,1,6
+1132,Boris van der Meer,2026,1,Januari,Actief,0,5
+1132,Boris van der Meer,2026,2,Februari,Actief,1,0
+1132,Boris van der Meer,2026,3,Maart,Actief,0,0
+1132,Boris van der Meer,2026,4,April,Actief,0,0
+1132,Boris van der Meer,2026,5,Mei,Actief,0,0
+1132,Boris van der Meer,2026,6,Juni,Actief,0,0
+1132,Boris van der Meer,2026,7,Juli,Actief,0,0
+1132,Boris van der Meer,2026,8,Augustus,Actief,0,13
+1132,Boris van der Meer,2026,9,September,Actief,0,0
+1132,Boris van der Meer,2026,10,Oktober,Actief,0,0
+1132,Boris van der Meer,2026,11,November,Actief,0,0
+1132,Boris van der Meer,2026,12,December,Actief,0,3
+1913,Zoe Peeters,2026,1,Januari,Nog niet in dienst,0,0
+1913,Zoe Peeters,2026,2,Februari,Actief,0,2
+1913,Zoe Peeters,2026,3,Maart,Actief,0,0
+1913,Zoe Peeters,2026,4,April,Actief,0,0
+1913,Zoe Peeters,2026,5,Mei,Actief,0,0
+1913,Zoe Peeters,2026,6,Juni,Actief,0,5
+1913,Zoe Peeters,2026,7,Juli,Actief,0,5
+1913,Zoe Peeters,2026,8,Augustus,Actief,0,10
+1913,Zoe Peeters,2026,9,September,Actief,7,0
+1913,Zoe Peeters,2026,10,Oktober,Actief,0,0
+1913,Zoe Peeters,2026,11,November,Actief,0,2
+1913,Zoe Peeters,2026,12,December,Actief,0,0
+2961,Lente Vos,2026,1,Januari,Nog niet in dienst,0,0
+2961,Lente Vos,2026,2,Februari,Nog niet in dienst,0,0
+2961,Lente Vos,2026,3,Maart,Nog niet in dienst,0,0
+2961,Lente Vos,2026,4,April,Nog niet in dienst,0,0
+2961,Lente Vos,2026,5,Mei,Nog niet in dienst,0,0
+2961,Lente Vos,2026,6,Juni,Nog niet in dienst,0,0
+2961,Lente Vos,2026,7,Juli,Nog niet in dienst,0,0
+2961,Lente Vos,2026,8,Augustus,Nog niet in dienst,0,0
+2961,Lente Vos,2026,9,September,Nog niet in dienst,0,0
+2961,Lente Vos,2026,10,Oktober,Actief,1,0
+2961,Lente Vos,2026,11,November,Actief,0,0
+2961,Lente Vos,2026,12,December,Actief,0,6
+1104,Esmee Kuipers,2026,1,Januari,Actief,0,0
+1104,Esmee Kuipers,2026,2,Februari,Actief,0,0
+1104,Esmee Kuipers,2026,3,Maart,Actief,0,0
+1104,Esmee Kuipers,2026,4,April,Actief,0,0
+1104,Esmee Kuipers,2026,5,Mei,Actief,0,5
+1104,Esmee Kuipers,2026,6,Juni,Actief,0,0
+1104,Esmee Kuipers,2026,7,Juli,Actief,0,3
+1104,Esmee Kuipers,2026,8,Augustus,Actief,0,10
+1104,Esmee Kuipers,2026,9,September,Actief,0,0
+1104,Esmee Kuipers,2026,10,Oktober,Actief,0,0
+1104,Esmee Kuipers,2026,11,November,Actief,0,2
+1104,Esmee Kuipers,2026,12,December,Actief,0,5
+2303,Noud van den Berg,2026,1,Januari,Actief,0,3
+2303,Noud van den Berg,2026,2,Februari,Actief,0,5
+2303,Noud van den Berg,2026,3,Maart,Actief,0,0
+2303,Noud van den Berg,2026,4,April,Actief,0,0
+2303,Noud van den Berg,2026,5,Mei,Actief,0,0
+2303,Noud van den Berg,2026,6,Juni,Actief,0,0
+2303,Noud van den Berg,2026,7,Juli,Actief,1,10
+2303,Noud van den Berg,2026,8,Augustus,Actief,0,0
+2303,Noud van den Berg,2026,9,September,Actief,0,0
+2303,Noud van den Berg,2026,10,Oktober,Actief,0,0
+2303,Noud van den Berg,2026,11,November,Actief,0,0
+2303,Noud van den Berg,2026,12,December,Actief,0,2
+2932,Bram Dekker,2026,1,Januari,Actief,0,0
+2932,Bram Dekker,2026,2,Februari,Actief,2,3
+2932,Bram Dekker,2026,3,Maart,Actief,0,0
+2932,Bram Dekker,2026,4,April,Actief,0,0
+2932,Bram Dekker,2026,5,Mei,Actief,0,5
+2932,Bram Dekker,2026,6,Juni,Actief,1,0
+2932,Bram Dekker,2026,7,Juli,Actief,0,10
+2932,Bram Dekker,2026,8,Augustus,Actief,0,0
+2932,Bram Dekker,2026,9,September,Actief,0,0
+2932,Bram Dekker,2026,10,Oktober,Actief,0,0
+2932,Bram Dekker,2026,11,November,Actief,0,0
+2932,Bram Dekker,2026,12,December,Actief,0,2
+2464,Sven Maas,2026,1,Januari,Nog niet in dienst,0,0
+2464,Sven Maas,2026,2,Februari,Nog niet in dienst,0,0
+2464,Sven Maas,2026,3,Maart,Nog niet in dienst,0,0
+2464,Sven Maas,2026,4,April,Nog niet in dienst,0,0
+2464,Sven Maas,2026,5,Mei,Actief,0,3
+2464,Sven Maas,2026,6,Juni,Actief,0,0
+2464,Sven Maas,2026,7,Juli,Actief,0,0
+2464,Sven Maas,2026,8,Augustus,Actief,0,0
+2464,Sven Maas,2026,9,September,Actief,0,0
+2464,Sven Maas,2026,10,Oktober,Actief,0,2
+2464,Sven Maas,2026,11,November,Actief,0,0
+2464,Sven Maas,2026,12,December,Actief,1,12
+3020,Lotte Meijer,2026,1,Januari,Nog niet in dienst,0,0
+3020,Lotte Meijer,2026,2,Februari,Nog niet in dienst,0,0
+3020,Lotte Meijer,2026,3,Maart,Nog niet in dienst,0,0
+3020,Lotte Meijer,2026,4,April,Actief,0,0
+3020,Lotte Meijer,2026,5,Mei,Actief,0,1
+3020,Lotte Meijer,2026,6,Juni,Actief,0,3
+3020,Lotte Meijer,2026,7,Juli,Actief,0,0
+3020,Lotte Meijer,2026,8,Augustus,Actief,0,0
+3020,Lotte Meijer,2026,9,September,Actief,2,0
+3020,Lotte Meijer,2026,10,Oktober,Actief,0,13
+3020,Lotte Meijer,2026,11,November,Actief,0,2
+3020,Lotte Meijer,2026,12,December,Actief,0,0
+3144,Sanne Smits,2026,1,Januari,Actief,0,0
+3144,Sanne Smits,2026,2,Februari,Actief,0,0
+3144,Sanne Smits,2026,3,Maart,Actief,0,0
+3144,Sanne Smits,2026,4,April,Actief,0,0
+3144,Sanne Smits,2026,5,Mei,Actief,0,0
+3144,Sanne Smits,2026,6,Juni,Actief,0,3
+3144,Sanne Smits,2026,7,Juli,Actief,0,0
+3144,Sanne Smits,2026,8,Augustus,Actief,0,10
+3144,Sanne Smits,2026,9,September,Actief,0,0
+3144,Sanne Smits,2026,10,Oktober,Actief,0,8
+3144,Sanne Smits,2026,11,November,Actief,0,0
+3144,Sanne Smits,2026,12,December,Actief,0,0
+3331,Fenna Huisman,2026,1,Januari,Actief,0,3
+3331,Fenna Huisman,2026,2,Februari,Actief,0,0
+3331,Fenna Huisman,2026,3,Maart,Actief,0,0
+3331,Fenna Huisman,2026,4,April,Actief,0,0
+3331,Fenna Huisman,2026,5,Mei,Actief,0,0
+3331,Fenna Huisman,2026,6,Juni,Actief,1,0
+3331,Fenna Huisman,2026,7,Juli,Actief,0,0
+3331,Fenna Huisman,2026,8,Augustus,Actief,0,10
+3331,Fenna Huisman,2026,9,September,Actief,0,5
+3331,Fenna Huisman,2026,10,Oktober,Actief,0,0
+3331,Fenna Huisman,2026,11,November,Actief,0,2
+3331,Fenna Huisman,2026,12,December,Actief,0,0
+3114,Karlijn Bos,2026,1,Januari,Actief,0,5
+3114,Karlijn Bos,2026,2,Februari,Actief,0,0
+3114,Karlijn Bos,2026,3,Maart,Actief,0,0
+3114,Karlijn Bos,2026,4,April,Actief,0,2
+3114,Karlijn Bos,2026,5,Mei,Actief,0,0
+3114,Karlijn Bos,2026,6,Juni,Actief,0,0
+3114,Karlijn Bos,2026,7,Juli,Actief,0,10
+3114,Karlijn Bos,2026,8,Augustus,Actief,0,0
+3114,Karlijn Bos,2026,9,September,Actief,0,0
+3114,Karlijn Bos,2026,10,Oktober,Actief,0,0
+3114,Karlijn Bos,2026,11,November,Actief,0,2
+3114,Karlijn Bos,2026,12,December,Actief,0,0
+3585,Bart Vermeulen,2026,1,Januari,Actief,0,0
+3585,Bart Vermeulen,2026,2,Februari,Actief,0,8
+3585,Bart Vermeulen,2026,3,Maart,Actief,0,0
+3585,Bart Vermeulen,2026,4,April,Actief,0,0
+3585,Bart Vermeulen,2026,5,Mei,Actief,2,0
+3585,Bart Vermeulen,2026,6,Juni,Actief,0,3
+3585,Bart Vermeulen,2026,7,Juli,Actief,0,0
+3585,Bart Vermeulen,2026,8,Augustus,Actief,0,10
+3585,Bart Vermeulen,2026,9,September,Actief,0,0
+3585,Bart Vermeulen,2026,10,Oktober,Actief,0,0
+3585,Bart Vermeulen,2026,11,November,Actief,0,0
+3585,Bart Vermeulen,2026,12,December,Actief,0,0
+2328,Ivo de Jong,2026,1,Januari,Actief,0,2
+2328,Ivo de Jong,2026,2,Februari,Actief,0,0
+2328,Ivo de Jong,2026,3,Maart,Actief,0,5
+2328,Ivo de Jong,2026,4,April,Actief,0,0
+2328,Ivo de Jong,2026,5,Mei,Actief,0,3
+2328,Ivo de Jong,2026,6,Juni,Actief,0,0
+2328,Ivo de Jong,2026,7,Juli,Actief,0,0
+2328,Ivo de Jong,2026,8,Augustus,Actief,0,10
+2328,Ivo de Jong,2026,9,September,Actief,0,0
+2328,Ivo de Jong,2026,10,Oktober,Actief,1,0
+2328,Ivo de Jong,2026,11,November,Actief,0,0
+2328,Ivo de Jong,2026,12,December,Actief,2,0
+1879,Milan van Leeuwen,2026,1,Januari,Actief,0,0
+1879,Milan van Leeuwen,2026,2,Februari,Actief,0,2
+1879,Milan van Leeuwen,2026,3,Maart,Actief,0,0
+1879,Milan van Leeuwen,2026,4,April,Actief,0,0
+1879,Milan van Leeuwen,2026,5,Mei,Actief,0,0
+1879,Milan van Leeuwen,2026,6,Juni,Actief,0,0
+1879,Milan van Leeuwen,2026,7,Juli,Actief,0,10
+1879,Milan van Leeuwen,2026,8,Augustus,Actief,0,5
+1879,Milan van Leeuwen,2026,9,September,Actief,0,2
+1879,Milan van Leeuwen,2026,10,Oktober,Actief,0,0
+1879,Milan van Leeuwen,2026,11,November,Actief,0,0
+1879,Milan van Leeuwen,2026,12,December,Actief,0,0
+3758,Iris Willems,2026,1,Januari,Nog niet in dienst,0,0
+3758,Iris Willems,2026,2,Februari,Nog niet in dienst,0,0
+3758,Iris Willems,2026,3,Maart,Nog niet in dienst,0,0
+3758,Iris Willems,2026,4,April,Nog niet in dienst,0,0
+3758,Iris Willems,2026,5,Mei,Nog niet in dienst,0,0
+3758,Iris Willems,2026,6,Juni,Nog niet in dienst,0,0
+3758,Iris Willems,2026,7,Juli,Nog niet in dienst,0,0
+3758,Iris Willems,2026,8,Augustus,Nog niet in dienst,0,0
+3758,Iris Willems,2026,9,September,Actief,0,5
+3758,Iris Willems,2026,10,Oktober,Actief,0,0
+3758,Iris Willems,2026,11,November,Actief,0,3
+3758,Iris Willems,2026,12,December,Actief,0,0
+2473,Noor Smit,2026,1,Januari,Actief,0,0
+2473,Noor Smit,2026,2,Februari,Actief,0,0
+2473,Noor Smit,2026,3,Maart,Actief,0,0
+2473,Noor Smit,2026,4,April,Actief,0,0
+2473,Noor Smit,2026,5,Mei,Actief,2,3
+2473,Noor Smit,2026,6,Juni,Actief,0,0
+2473,Noor Smit,2026,7,Juli,Actief,0,10
+2473,Noor Smit,2026,8,Augustus,Actief,0,0
+2473,Noor Smit,2026,9,September,Actief,0,0
+2473,Noor Smit,2026,10,Oktober,Actief,0,8
+2473,Noor Smit,2026,11,November,Actief,0,0
+2473,Noor Smit,2026,12,December,Actief,0,0
+3669,Anna Dijkstra,2026,1,Januari,Actief,0,0
+3669,Anna Dijkstra,2026,2,Februari,Actief,0,5
+3669,Anna Dijkstra,2026,3,Maart,Actief,0,0
+3669,Anna Dijkstra,2026,4,April,Actief,0,0
+3669,Anna Dijkstra,2026,5,Mei,Actief,0,0
+3669,Anna Dijkstra,2026,6,Juni,Actief,0,0
+3669,Anna Dijkstra,2026,7,Juli,Actief,0,10
+3669,Anna Dijkstra,2026,8,Augustus,Actief,0,0
+3669,Anna Dijkstra,2026,9,September,Actief,0,3
+3669,Anna Dijkstra,2026,10,Oktober,Actief,1,0
+3669,Anna Dijkstra,2026,11,November,Actief,0,0
+3669,Anna Dijkstra,2026,12,December,Actief,0,3
+1768,Joris Prins,2026,1,Januari,Nog niet in dienst,0,0
+1768,Joris Prins,2026,2,Februari,Nog niet in dienst,0,0
+1768,Joris Prins,2026,3,Maart,Nog niet in dienst,0,0
+1768,Joris Prins,2026,4,April,Actief,0,3
+1768,Joris Prins,2026,5,Mei,Actief,0,5
+1768,Joris Prins,2026,6,Juni,Actief,0,0
+1768,Joris Prins,2026,7,Juli,Actief,0,0
+1768,Joris Prins,2026,8,Augustus,Actief,0,2
+1768,Joris Prins,2026,9,September,Actief,2,0
+1768,Joris Prins,2026,10,Oktober,Actief,0,2
+1768,Joris Prins,2026,11,November,Actief,0,1
+1768,Joris Prins,2026,12,December,Actief,0,6
+3426,Niels de Groot,2026,1,Januari,Actief,0,3
+3426,Niels de Groot,2026,2,Februari,Actief,1,3
+3426,Niels de Groot,2026,3,Maart,Actief,0,0
+3426,Niels de Groot,2026,4,April,Actief,0,3
+3426,Niels de Groot,2026,5,Mei,Actief,0,2
+3426,Niels de Groot,2026,6,Juni,Actief,0,7
+3426,Niels de Groot,2026,7,Juli,Actief,0,0
+3426,Niels de Groot,2026,8,Augustus,Actief,0,1
+3426,Niels de Groot,2026,9,September,Met verlof,0,0
+3426,Niels de Groot,2026,10,Oktober,Met verlof,0,0
+3426,Niels de Groot,2026,11,November,Met verlof,0,0
+3426,Niels de Groot,2026,12,December,Actief,0,0
+1826,Gijs Jacobs,2026,1,Januari,Actief,0,0
+1826,Gijs Jacobs,2026,2,Februari,Actief,0,0
+1826,Gijs Jacobs,2026,3,Maart,Actief,0,0
+1826,Gijs Jacobs,2026,4,April,Actief,0,8
+1826,Gijs Jacobs,2026,5,Mei,Actief,2,0
+1826,Gijs Jacobs,2026,6,Juni,Actief,0,0
+1826,Gijs Jacobs,2026,7,Juli,Actief,0,10
+1826,Gijs Jacobs,2026,8,Augustus,Actief,0,0
+1826,Gijs Jacobs,2026,9,September,Actief,0,0
+1826,Gijs Jacobs,2026,10,Oktober,Actief,0,3
+1826,Gijs Jacobs,2026,11,November,Actief,0,0
+1826,Gijs Jacobs,2026,12,December,Actief,0,0
+1101,Emma Jansen,2026,1,Januari,Actief,1,0
+1101,Emma Jansen,2026,2,Februari,Actief,0,0
+1101,Emma Jansen,2026,3,Maart,Actief,0,0
+1101,Emma Jansen,2026,4,April,Actief,0,0
+1101,Emma Jansen,2026,5,Mei,Actief,2,3
+1101,Emma Jansen,2026,6,Juni,Actief,0,5
+1101,Emma Jansen,2026,7,Juli,Actief,0,3
+1101,Emma Jansen,2026,8,Augustus,Actief,0,10
+1101,Emma Jansen,2026,9,September,Actief,0,0
+1101,Emma Jansen,2026,10,Oktober,Actief,0,0
+1101,Emma Jansen,2026,11,November,Actief,0,0
+1101,Emma Jansen,2026,12,December,Actief,0,0
+3337,Merel Hendriks,2026,1,Januari,Nog niet in dienst,0,0
+3337,Merel Hendriks,2026,2,Februari,Nog niet in dienst,0,0
+3337,Merel Hendriks,2026,3,Maart,Nog niet in dienst,0,0
+3337,Merel Hendriks,2026,4,April,Nog niet in dienst,0,0
+3337,Merel Hendriks,2026,5,Mei,Nog niet in dienst,0,0
+3337,Merel Hendriks,2026,6,Juni,Nog niet in dienst,0,0
+3337,Merel Hendriks,2026,7,Juli,Nog niet in dienst,0,0
+3337,Merel Hendriks,2026,8,Augustus,Nog niet in dienst,0,0
+3337,Merel Hendriks,2026,9,September,Nog niet in dienst,0,0
+3337,Merel Hendriks,2026,10,Oktober,Actief,1,0
+3337,Merel Hendriks,2026,11,November,Actief,0,0
+3337,Merel Hendriks,2026,12,December,Actief,1,6
+2000,Evi Hofman,2026,1,Januari,Actief,0,0
+2000,Evi Hofman,2026,2,Februari,Actief,0,0
+2000,Evi Hofman,2026,3,Maart,Actief,0,0
+2000,Evi Hofman,2026,4,April,Actief,0,0
+2000,Evi Hofman,2026,5,Mei,Actief,0,0
+2000,Evi Hofman,2026,6,Juni,Actief,0,5
+2000,Evi Hofman,2026,7,Juli,Actief,0,3
+2000,Evi Hofman,2026,8,Augustus,Actief,0,10
+2000,Evi Hofman,2026,9,September,Actief,2,0
+2000,Evi Hofman,2026,10,Oktober,Actief,0,0
+2000,Evi Hofman,2026,11,November,Actief,0,0
+2000,Evi Hofman,2026,12,December,Actief,0,2
+2773,Sofie Visser,2026,1,Januari,Nog niet in dienst,0,0
+2773,Sofie Visser,2026,2,Februari,Nog niet in dienst,0,0
+2773,Sofie Visser,2026,3,Maart,Nog niet in dienst,0,0
+2773,Sofie Visser,2026,4,April,Nog niet in dienst,0,0
+2773,Sofie Visser,2026,5,Mei,Actief,0,2
+2773,Sofie Visser,2026,6,Juni,Actief,0,1
+2773,Sofie Visser,2026,7,Juli,Actief,0,1
+2773,Sofie Visser,2026,8,Augustus,Actief,0,0
+2773,Sofie Visser,2026,9,September,Actief,0,0
+2773,Sofie Visser,2026,10,Oktober,Actief,0,2
+2773,Sofie Visser,2026,11,November,Actief,0,0
+2773,Sofie Visser,2026,12,December,Actief,0,11
+1189,Wouter de Wit,2026,1,Januari,Actief,0,0
+1189,Wouter de Wit,2026,2,Februari,Actief,0,0
+1189,Wouter de Wit,2026,3,Maart,Actief,0,0
+1189,Wouter de Wit,2026,4,April,Actief,0,2
+1189,Wouter de Wit,2026,5,Mei,Actief,0,0
+1189,Wouter de Wit,2026,6,Juni,Actief,0,3
+1189,Wouter de Wit,2026,7,Juli,Actief,0,5
+1189,Wouter de Wit,2026,8,Augustus,Actief,8,10
+1189,Wouter de Wit,2026,9,September,Actief,0,0
+1189,Wouter de Wit,2026,10,Oktober,Actief,0,0
+1189,Wouter de Wit,2026,11,November,Actief,0,0
+1189,Wouter de Wit,2026,12,December,Actief,0,0
+1415,Sem Koning,2026,1,Januari,Actief,0,5
+1415,Sem Koning,2026,2,Februari,Actief,0,0
+1415,Sem Koning,2026,3,Maart,Actief,0,3
+1415,Sem Koning,2026,4,April,Actief,0,0
+1415,Sem Koning,2026,5,Mei,Actief,0,0
+1415,Sem Koning,2026,6,Juni,Actief,0,0
+1415,Sem Koning,2026,7,Juli,Actief,1,0
+1415,Sem Koning,2026,8,Augustus,Actief,0,10
+1415,Sem Koning,2026,9,September,Actief,0,3
+1415,Sem Koning,2026,10,Oktober,Actief,0,0
+1415,Sem Koning,2026,11,November,Actief,0,0
+1415,Sem Koning,2026,12,December,Actief,0,0
+2369,Stijn Mulder,2026,1,Januari,Actief,0,0
+2369,Stijn Mulder,2026,2,Februari,Actief,0,5
+2369,Stijn Mulder,2026,3,Maart,Actief,0,0
+2369,Stijn Mulder,2026,4,April,Actief,0,0
+2369,Stijn Mulder,2026,5,Mei,Actief,0,0
+2369,Stijn Mulder,2026,6,Juni,Actief,0,0
+2369,Stijn Mulder,2026,7,Juli,Actief,0,13
+2369,Stijn Mulder,2026,8,Augustus,Actief,0,5
+2369,Stijn Mulder,2026,9,September,Actief,0,0
+2369,Stijn Mulder,2026,10,Oktober,Actief,0,0
+2369,Stijn Mulder,2026,11,November,Actief,0,2
+2369,Stijn Mulder,2026,12,December,Actief,0,0
+3397,Robin Kok,2026,1,Januari,Nog niet in dienst,0,0
+3397,Robin Kok,2026,2,Februari,Nog niet in dienst,0,0
+3397,Robin Kok,2026,3,Maart,Nog niet in dienst,0,0
+3397,Robin Kok,2026,4,April,Nog niet in dienst,0,0
+3397,Robin Kok,2026,5,Mei,Nog niet in dienst,0,0
+3397,Robin Kok,2026,6,Juni,Nog niet in dienst,0,0
+3397,Robin Kok,2026,7,Juli,Actief,0,0
+3397,Robin Kok,2026,8,Augustus,Actief,0,5
+3397,Robin Kok,2026,9,September,Actief,2,5
+3397,Robin Kok,2026,10,Oktober,Actief,2,2
+3397,Robin Kok,2026,11,November,Actief,0,0
+3397,Robin Kok,2026,12,December,Actief,0,0
+1156,Nina de Vries,2026,1,Januari,Actief,0,0
+1156,Nina de Vries,2026,2,Februari,Actief,0,0
+1156,Nina de Vries,2026,3,Maart,Actief,0,0
+1156,Nina de Vries,2026,4,April,Actief,2,0
+1156,Nina de Vries,2026,5,Mei,Actief,0,0
+1156,Nina de Vries,2026,6,Juni,Actief,0,5
+1156,Nina de Vries,2026,7,Juli,Actief,0,0
+1156,Nina de Vries,2026,8,Augustus,Actief,0,10
+1156,Nina de Vries,2026,9,September,Actief,0,0
+1156,Nina de Vries,2026,10,Oktober,Actief,0,0
+1156,Nina de Vries,2026,11,November,Actief,0,3
+1156,Nina de Vries,2026,12,December,Actief,0,3
+1837,Liv Peters,2026,1,Januari,Actief,0,5
+1837,Liv Peters,2026,2,Februari,Actief,0,0
+1837,Liv Peters,2026,3,Maart,Actief,1,0
+1837,Liv Peters,2026,4,April,Actief,0,2
+1837,Liv Peters,2026,5,Mei,Actief,0,5
+1837,Liv Peters,2026,6,Juni,Actief,0,0
+1837,Liv Peters,2026,7,Juli,Actief,0,10
+1837,Liv Peters,2026,8,Augustus,Actief,0,0
+1837,Liv Peters,2026,9,September,Actief,0,0
+1837,Liv Peters,2026,10,Oktober,Actief,1,0
+1837,Liv Peters,2026,11,November,Actief,0,0
+1837,Liv Peters,2026,12,December,Actief,0,3
+1240,Daan van Dijk,2026,1,Januari,Actief,0,0
+1240,Daan van Dijk,2026,2,Februari,Actief,0,0
+1240,Daan van Dijk,2026,3,Maart,Actief,1,0
+1240,Daan van Dijk,2026,4,April,Actief,8,0
+1240,Daan van Dijk,2026,5,Mei,Actief,0,0
+1240,Daan van Dijk,2026,6,Juni,Actief,0,0
+1240,Daan van Dijk,2026,7,Juli,Actief,0,12
+1240,Daan van Dijk,2026,8,Augustus,Actief,0,5
+1240,Daan van Dijk,2026,9,September,Actief,0,0
+1240,Daan van Dijk,2026,10,Oktober,Actief,0,0
+1240,Daan van Dijk,2026,11,November,Actief,0,0
+1240,Daan van Dijk,2026,12,December,Actief,0,2
+3077,Pieter Bakker,2026,1,Januari,Nog niet in dienst,0,0
+3077,Pieter Bakker,2026,2,Februari,Nog niet in dienst,0,0
+3077,Pieter Bakker,2026,3,Maart,Nog niet in dienst,0,0
+3077,Pieter Bakker,2026,4,April,Nog niet in dienst,0,0
+3077,Pieter Bakker,2026,5,Mei,Nog niet in dienst,0,0
+3077,Pieter Bakker,2026,6,Juni,Nog niet in dienst,0,0
+3077,Pieter Bakker,2026,7,Juli,Nog niet in dienst,0,0
+3077,Pieter Bakker,2026,8,Augustus,Nog niet in dienst,0,0
+3077,Pieter Bakker,2026,9,September,Nog niet in dienst,0,0
+3077,Pieter Bakker,2026,10,Oktober,Nog niet in dienst,0,0
+3077,Pieter Bakker,2026,11,November,Actief,1,0
+3077,Pieter Bakker,2026,12,December,Actief,1,4
+3105,Timo Brouwer,2026,1,Januari,Actief,0,0
+3105,Timo Brouwer,2026,2,Februari,Actief,1,0
+3105,Timo Brouwer,2026,3,Maart,Actief,0,0
+3105,Timo Brouwer,2026,4,April,Actief,0,0
+3105,Timo Brouwer,2026,5,Mei,Actief,0,3
+3105,Timo Brouwer,2026,6,Juni,Actief,1,5
+3105,Timo Brouwer,2026,7,Juli,Actief,0,12
+3105,Timo Brouwer,2026,8,Augustus,Actief,0,0
+3105,Timo Brouwer,2026,9,September,Actief,0,0
+3105,Timo Brouwer,2026,10,Oktober,Actief,0,0
+3105,Timo Brouwer,2026,11,November,Actief,0,0
+3105,Timo Brouwer,2026,12,December,Actief,0,0
+2810,Lynn Verhoeven,2026,1,Januari,Nog niet in dienst,0,0
+2810,Lynn Verhoeven,2026,2,Februari,Nog niet in dienst,0,0
+2810,Lynn Verhoeven,2026,3,Maart,Nog niet in dienst,0,0
+2810,Lynn Verhoeven,2026,4,April,Nog niet in dienst,0,0
+2810,Lynn Verhoeven,2026,5,Mei,Nog niet in dienst,0,0
+2810,Lynn Verhoeven,2026,6,Juni,Actief,0,2
+2810,Lynn Verhoeven,2026,7,Juli,Actief,0,0
+2810,Lynn Verhoeven,2026,8,Augustus,Actief,0,3
+2810,Lynn Verhoeven,2026,9,September,Actief,0,1
+2810,Lynn Verhoeven,2026,10,Oktober,Actief,0,5
+2810,Lynn Verhoeven,2026,11,November,Actief,0,0
+2810,Lynn Verhoeven,2026,12,December,Actief,0,4
+3609,Sophie de Boer,2026,1,Januari,Actief,0,0
+3609,Sophie de Boer,2026,2,Februari,Actief,0,5
+3609,Sophie de Boer,2026,3,Maart,Actief,2,0
+3609,Sophie de Boer,2026,4,April,Actief,0,0
+3609,Sophie de Boer,2026,5,Mei,Actief,0,0
+3609,Sophie de Boer,2026,6,Juni,Actief,0,2
+3609,Sophie de Boer,2026,7,Juli,Actief,0,2
+3609,Sophie de Boer,2026,8,Augustus,Actief,0,10
+3609,Sophie de Boer,2026,9,September,Actief,0,0
+3609,Sophie de Boer,2026,10,Oktober,Actief,2,0
+3609,Sophie de Boer,2026,11,November,Actief,0,0
+3609,Sophie de Boer,2026,12,December,Actief,0,0
+2052,Vera van der Meer,2026,1,Januari,Actief,0,0
+2052,Vera van der Meer,2026,2,Februari,Actief,0,0
+2052,Vera van der Meer,2026,3,Maart,Actief,0,0
+2052,Vera van der Meer,2026,4,April,Actief,0,0
+2052,Vera van der Meer,2026,5,Mei,Actief,0,5
+2052,Vera van der Meer,2026,6,Juni,Actief,0,0
+2052,Vera van der Meer,2026,7,Juli,Actief,0,10
+2052,Vera van der Meer,2026,8,Augustus,Actief,0,0
+2052,Vera van der Meer,2026,9,September,Actief,0,2
+2052,Vera van der Meer,2026,10,Oktober,Actief,0,2
+2052,Vera van der Meer,2026,11,November,Actief,0,0
+2052,Vera van der Meer,2026,12,December,Actief,0,0
+3123,Lieke Peeters,2026,1,Januari,Actief,0,0
+3123,Lieke Peeters,2026,2,Februari,Actief,0,0
+3123,Lieke Peeters,2026,3,Maart,Actief,0,0
+3123,Lieke Peeters,2026,4,April,Actief,0,0
+3123,Lieke Peeters,2026,5,Mei,Actief,0,0
+3123,Lieke Peeters,2026,6,Juni,Actief,0,0
+3123,Lieke Peeters,2026,7,Juli,Actief,0,12
+3123,Lieke Peeters,2026,8,Augustus,Actief,0,3
+3123,Lieke Peeters,2026,9,September,Actief,0,0
+3123,Lieke Peeters,2026,10,Oktober,Actief,0,0
+3123,Lieke Peeters,2026,11,November,Actief,0,5
+3123,Lieke Peeters,2026,12,December,Actief,0,0
+1117,Sam Vos,2026,1,Januari,Actief,0,0
+1117,Sam Vos,2026,2,Februari,Actief,0,0
+1117,Sam Vos,2026,3,Maart,Actief,0,0
+1117,Sam Vos,2026,4,April,Actief,0,0
+1117,Sam Vos,2026,5,Mei,Actief,0,0
+1117,Sam Vos,2026,6,Juni,Actief,0,3
+1117,Sam Vos,2026,7,Juli,Actief,0,0
+1117,Sam Vos,2026,8,Augustus,Actief,0,10
+1117,Sam Vos,2026,9,September,Actief,0,7
+1117,Sam Vos,2026,10,Oktober,Actief,0,0
+1117,Sam Vos,2026,11,November,Actief,0,0
+1117,Sam Vos,2026,12,December,Actief,0,0
+2345,Dirk Kuipers,2026,1,Januari,Actief,0,3
+2345,Dirk Kuipers,2026,2,Februari,Actief,0,5
+2345,Dirk Kuipers,2026,3,Maart,Actief,0,3
+2345,Dirk Kuipers,2026,4,April,Actief,0,0
+2345,Dirk Kuipers,2026,5,Mei,Actief,0,0
+2345,Dirk Kuipers,2026,6,Juni,Actief,0,0
+2345,Dirk Kuipers,2026,7,Juli,Actief,0,10
+2345,Dirk Kuipers,2026,8,Augustus,Actief,0,0
+2345,Dirk Kuipers,2026,9,September,Actief,0,0
+2345,Dirk Kuipers,2026,10,Oktober,Actief,0,0
+2345,Dirk Kuipers,2026,11,November,Actief,0,0
+2345,Dirk Kuipers,2026,12,December,Actief,0,5
+2754,Nikki van den Berg,2026,1,Januari,Actief,0,5
+2754,Nikki van den Berg,2026,2,Februari,Actief,1,3
+2754,Nikki van den Berg,2026,3,Maart,Actief,0,0
+2754,Nikki van den Berg,2026,4,April,Actief,0,0
+2754,Nikki van den Berg,2026,5,Mei,Actief,0,0
+2754,Nikki van den Berg,2026,6,Juni,Actief,0,0
+2754,Nikki van den Berg,2026,7,Juli,Actief,0,10
+2754,Nikki van den Berg,2026,8,Augustus,Actief,0,0
+2754,Nikki van den Berg,2026,9,September,Actief,0,2
+2754,Nikki van den Berg,2026,10,Oktober,Actief,0,0
+2754,Nikki van den Berg,2026,11,November,Actief,0,0
+2754,Nikki van den Berg,2026,12,December,Actief,0,5
+1416,Maud Dekker,2026,1,Januari,Actief,1,3
+1416,Maud Dekker,2026,2,Februari,Actief,0,3
+1416,Maud Dekker,2026,3,Maart,Actief,2,0
+1416,Maud Dekker,2026,4,April,Actief,0,0
+1416,Maud Dekker,2026,5,Mei,Actief,0,0
+1416,Maud Dekker,2026,6,Juni,Actief,0,5
+1416,Maud Dekker,2026,7,Juli,Actief,0,10
+1416,Maud Dekker,2026,8,Augustus,Actief,0,0
+1416,Maud Dekker,2026,9,September,Actief,0,0
+1416,Maud Dekker,2026,10,Oktober,Actief,0,0
+1416,Maud Dekker,2026,11,November,Actief,0,5
+1416,Maud Dekker,2026,12,December,Actief,0,0
+3245,Sara Maas,2026,1,Januari,Actief,0,0
+3245,Sara Maas,2026,2,Februari,Actief,0,2
+3245,Sara Maas,2026,3,Maart,Actief,0,5
+3245,Sara Maas,2026,4,April,Actief,0,0
+3245,Sara Maas,2026,5,Mei,Actief,0,0
+3245,Sara Maas,2026,6,Juni,Actief,0,0
+3245,Sara Maas,2026,7,Juli,Actief,0,0
+3245,Sara Maas,2026,8,Augustus,Actief,1,10
+3245,Sara Maas,2026,9,September,Actief,0,0
+3245,Sara Maas,2026,10,Oktober,Actief,0,0
+3245,Sara Maas,2026,11,November,Actief,2,3
+3245,Sara Maas,2026,12,December,Actief,0,0
+1253,Saar Meijer,2026,1,Januari,Actief,1,0
+1253,Saar Meijer,2026,2,Februari,Met verlof,0,0
+1253,Saar Meijer,2026,3,Maart,Met verlof,0,0
+1253,Saar Meijer,2026,4,April,Met verlof,0,0
+1253,Saar Meijer,2026,5,Mei,Actief,0,2
+1253,Saar Meijer,2026,6,Juni,Actief,0,0
+1253,Saar Meijer,2026,7,Juli,Actief,0,12
+1253,Saar Meijer,2026,8,Augustus,Actief,0,0
+1253,Saar Meijer,2026,9,September,Actief,0,0
+1253,Saar Meijer,2026,10,Oktober,Actief,0,3
+1253,Saar Meijer,2026,11,November,Actief,0,0
+1253,Saar Meijer,2026,12,December,Actief,0,2
+2402,Vince Smits,2026,1,Januari,Actief,0,0
+2402,Vince Smits,2026,2,Februari,Actief,0,0
+2402,Vince Smits,2026,3,Maart,Actief,0,5
+2402,Vince Smits,2026,4,April,Actief,0,0
+2402,Vince Smits,2026,5,Mei,Actief,0,0
+2402,Vince Smits,2026,6,Juni,Actief,0,2
+2402,Vince Smits,2026,7,Juli,Actief,0,0
+2402,Vince Smits,2026,8,Augustus,Actief,0,10
+2402,Vince Smits,2026,9,September,Actief,0,0
+2402,Vince Smits,2026,10,Oktober,Actief,0,2
+2402,Vince Smits,2026,11,November,Actief,0,0
+2402,Vince Smits,2026,12,December,Actief,0,0
+3672,Dennis Huisman,2026,1,Januari,Actief,0,0
+3672,Dennis Huisman,2026,2,Februari,Actief,0,0
+3672,Dennis Huisman,2026,3,Maart,Actief,0,0
+3672,Dennis Huisman,2026,4,April,Actief,1,0
+3672,Dennis Huisman,2026,5,Mei,Actief,0,0
+3672,Dennis Huisman,2026,6,Juni,Actief,0,2
+3672,Dennis Huisman,2026,7,Juli,Actief,0,5
+3672,Dennis Huisman,2026,8,Augustus,Actief,0,10
+3672,Dennis Huisman,2026,9,September,Actief,2,0
+3672,Dennis Huisman,2026,10,Oktober,Actief,0,0
+3672,Dennis Huisman,2026,11,November,Actief,0,2
+3672,Dennis Huisman,2026,12,December,Actief,0,0
+3189,Koen Bos,2026,1,Januari,Nog niet in dienst,0,0
+3189,Koen Bos,2026,2,Februari,Nog niet in dienst,0,0
+3189,Koen Bos,2026,3,Maart,Nog niet in dienst,0,0
+3189,Koen Bos,2026,4,April,Nog niet in dienst,0,0
+3189,Koen Bos,2026,5,Mei,Actief,0,3
+3189,Koen Bos,2026,6,Juni,Actief,0,0
+3189,Koen Bos,2026,7,Juli,Actief,0,5
+3189,Koen Bos,2026,8,Augustus,Actief,0,4
+3189,Koen Bos,2026,9,September,Actief,0,0
+3189,Koen Bos,2026,10,Oktober,Actief,0,3
+3189,Koen Bos,2026,11,November,Actief,2,2
+3189,Koen Bos,2026,12,December,Actief,0,0
+2747,Loes Vermeulen,2026,1,Januari,Actief,0,5
+2747,Loes Vermeulen,2026,2,Februari,Actief,0,0
+2747,Loes Vermeulen,2026,3,Maart,Actief,0,0
+2747,Loes Vermeulen,2026,4,April,Actief,0,0
+2747,Loes Vermeulen,2026,5,Mei,Actief,0,5
+2747,Loes Vermeulen,2026,6,Juni,Actief,0,0
+2747,Loes Vermeulen,2026,7,Juli,Actief,0,10
+2747,Loes Vermeulen,2026,8,Augustus,Actief,0,3
+2747,Loes Vermeulen,2026,9,September,Actief,0,3
+2747,Loes Vermeulen,2026,10,Oktober,Actief,0,0
+2747,Loes Vermeulen,2026,11,November,Actief,0,0
+2747,Loes Vermeulen,2026,12,December,Actief,0,0
+3366,Femke de Jong,2026,1,Januari,Actief,0,0
+3366,Femke de Jong,2026,2,Februari,Actief,0,0
+3366,Femke de Jong,2026,3,Maart,Actief,0,0
+3366,Femke de Jong,2026,4,April,Actief,0,0
+3366,Femke de Jong,2026,5,Mei,Actief,0,0
+3366,Femke de Jong,2026,6,Juni,Actief,0,3
+3366,Femke de Jong,2026,7,Juli,Actief,0,5
+3366,Femke de Jong,2026,8,Augustus,Actief,7,12
+3366,Femke de Jong,2026,9,September,Actief,0,0
+3366,Femke de Jong,2026,10,Oktober,Actief,0,0
+3366,Femke de Jong,2026,11,November,Actief,0,0
+3366,Femke de Jong,2026,12,December,Actief,0,5
+3219,Indy van Leeuwen,2026,1,Januari,Actief,0,0
+3219,Indy van Leeuwen,2026,2,Februari,Actief,0,0
+3219,Indy van Leeuwen,2026,3,Maart,Actief,0,5
+3219,Indy van Leeuwen,2026,4,April,Actief,0,0
+3219,Indy van Leeuwen,2026,5,Mei,Actief,0,0
+3219,Indy van Leeuwen,2026,6,Juni,Actief,0,5
+3219,Indy van Leeuwen,2026,7,Juli,Actief,0,10
+3219,Indy van Leeuwen,2026,8,Augustus,Actief,0,0
+3219,Indy van Leeuwen,2026,9,September,Actief,0,2
+3219,Indy van Leeuwen,2026,10,Oktober,Actief,0,0
+3219,Indy van Leeuwen,2026,11,November,Actief,0,2
+3219,Indy van Leeuwen,2026,12,December,Actief,0,0
+2918,Julian Willems,2026,1,Januari,Actief,0,0
+2918,Julian Willems,2026,2,Februari,Actief,0,0
+2918,Julian Willems,2026,3,Maart,Actief,0,3
+2918,Julian Willems,2026,4,April,Actief,0,0
+2918,Julian Willems,2026,5,Mei,Actief,0,2
+2918,Julian Willems,2026,6,Juni,Actief,0,0
+2918,Julian Willems,2026,7,Juli,Actief,0,10
+2918,Julian Willems,2026,8,Augustus,Actief,0,5
+2918,Julian Willems,2026,9,September,Actief,0,0
+2918,Julian Willems,2026,10,Oktober,Actief,0,0
+2918,Julian Willems,2026,11,November,Actief,0,0
+2918,Julian Willems,2026,12,December,Actief,0,0
+2061,Thijs Smit,2026,1,Januari,Actief,0,0
+2061,Thijs Smit,2026,2,Februari,Actief,0,0
+2061,Thijs Smit,2026,3,Maart,Actief,0,0
+2061,Thijs Smit,2026,4,April,Actief,0,0
+2061,Thijs Smit,2026,5,Mei,Actief,0,0
+2061,Thijs Smit,2026,6,Juni,Actief,0,8
+2061,Thijs Smit,2026,7,Juli,Actief,0,0
+2061,Thijs Smit,2026,8,Augustus,Actief,0,10
+2061,Thijs Smit,2026,9,September,Actief,0,0
+2061,Thijs Smit,2026,10,Oktober,Actief,0,3
+2061,Thijs Smit,2026,11,November,Actief,0,0
+2061,Thijs Smit,2026,12,December,Actief,1,0
+2089,Kees Dijkstra,2026,1,Januari,Actief,0,2
+2089,Kees Dijkstra,2026,2,Februari,Actief,0,0
+2089,Kees Dijkstra,2026,3,Maart,Actief,0,5
+2089,Kees Dijkstra,2026,4,April,Actief,2,0
+2089,Kees Dijkstra,2026,5,Mei,Actief,0,0
+2089,Kees Dijkstra,2026,6,Juni,Actief,0,2
+2089,Kees Dijkstra,2026,7,Juli,Actief,0,10
+2089,Kees Dijkstra,2026,8,Augustus,Actief,0,0
+2089,Kees Dijkstra,2026,9,September,Actief,0,0
+2089,Kees Dijkstra,2026,10,Oktober,Actief,0,0
+2089,Kees Dijkstra,2026,11,November,Actief,0,0
+2089,Kees Dijkstra,2026,12,December,Actief,0,0
+3617,Nora Prins,2026,1,Januari,Nog niet in dienst,0,0
+3617,Nora Prins,2026,2,Februari,Nog niet in dienst,0,0
+3617,Nora Prins,2026,3,Maart,Nog niet in dienst,0,0
+3617,Nora Prins,2026,4,April,Nog niet in dienst,0,0
+3617,Nora Prins,2026,5,Mei,Nog niet in dienst,0,0
+3617,Nora Prins,2026,6,Juni,Actief,0,5
+3617,Nora Prins,2026,7,Juli,Actief,0,0
+3617,Nora Prins,2026,8,Augustus,Actief,0,0
+3617,Nora Prins,2026,9,September,Actief,0,3
+3617,Nora Prins,2026,10,Oktober,Actief,1,2
+3617,Nora Prins,2026,11,November,Actief,2,5
+3617,Nora Prins,2026,12,December,Actief,0,0
+3134,Nova de Groot,2026,1,Januari,Actief,0,0
+3134,Nova de Groot,2026,2,Februari,Actief,0,0
+3134,Nova de Groot,2026,3,Maart,Actief,0,0
+3134,Nova de Groot,2026,4,April,Actief,1,0
+3134,Nova de Groot,2026,5,Mei,Actief,0,0
+3134,Nova de Groot,2026,6,Juni,Actief,0,0
+3134,Nova de Groot,2026,7,Juli,Actief,0,3
+3134,Nova de Groot,2026,8,Augustus,Actief,0,12
+3134,Nova de Groot,2026,9,September,Actief,0,0
+3134,Nova de Groot,2026,10,Oktober,Actief,0,0
+3134,Nova de Groot,2026,11,November,Actief,1,0
+3134,Nova de Groot,2026,12,December,Actief,0,5
+2715,Britt Jacobs,2026,1,Januari,Nog niet in dienst,0,0
+2715,Britt Jacobs,2026,2,Februari,Actief,0,2
+2715,Britt Jacobs,2026,3,Maart,Actief,0,0
+2715,Britt Jacobs,2026,4,April,Actief,0,0
+2715,Britt Jacobs,2026,5,Mei,Actief,0,3
+2715,Britt Jacobs,2026,6,Juni,Actief,0,0
+2715,Britt Jacobs,2026,7,Juli,Actief,0,10
+2715,Britt Jacobs,2026,8,Augustus,Actief,0,5
+2715,Britt Jacobs,2026,9,September,Actief,1,0
+2715,Britt Jacobs,2026,10,Oktober,Actief,0,0
+2715,Britt Jacobs,2026,11,November,Actief,0,0
+2715,Britt Jacobs,2026,12,December,Actief,0,5
+2667,Puck Jansen,2026,1,Januari,Actief,0,0
+2667,Puck Jansen,2026,2,Februari,Actief,0,0
+2667,Puck Jansen,2026,3,Maart,Actief,0,3
+2667,Puck Jansen,2026,4,April,Actief,0,0
+2667,Puck Jansen,2026,5,Mei,Actief,0,0
+2667,Puck Jansen,2026,6,Juni,Actief,1,5
+2667,Puck Jansen,2026,7,Juli,Actief,0,10
+2667,Puck Jansen,2026,8,Augustus,Actief,0,0
+2667,Puck Jansen,2026,9,September,Actief,0,0
+2667,Puck Jansen,2026,10,Oktober,Actief,0,0
+2667,Puck Jansen,2026,11,November,Actief,0,0
+2667,Puck Jansen,2026,12,December,Actief,0,3
+3429,Cas Hendriks,2026,1,Januari,Actief,0,0
+3429,Cas Hendriks,2026,2,Februari,Actief,0,0
+3429,Cas Hendriks,2026,3,Maart,Actief,0,3
+3429,Cas Hendriks,2026,4,April,Actief,0,2
+3429,Cas Hendriks,2026,5,Mei,Actief,0,0
+3429,Cas Hendriks,2026,6,Juni,Actief,2,0
+3429,Cas Hendriks,2026,7,Juli,Actief,0,0
+3429,Cas Hendriks,2026,8,Augustus,Actief,1,10
+3429,Cas Hendriks,2026,9,September,Actief,0,0
+3429,Cas Hendriks,2026,10,Oktober,Actief,0,5
+3429,Cas Hendriks,2026,11,November,Actief,0,0
+3429,Cas Hendriks,2026,12,December,Actief,0,0
+2702,Tim Hofman,2026,1,Januari,Actief,0,0
+2702,Tim Hofman,2026,2,Februari,Actief,0,0
+2702,Tim Hofman,2026,3,Maart,Actief,0,2
+2702,Tim Hofman,2026,4,April,Actief,0,0
+2702,Tim Hofman,2026,5,Mei,Actief,2,0
+2702,Tim Hofman,2026,6,Juni,Actief,0,5
+2702,Tim Hofman,2026,7,Juli,Actief,0,10
+2702,Tim Hofman,2026,8,Augustus,Actief,0,0
+2702,Tim Hofman,2026,9,September,Actief,0,0
+2702,Tim Hofman,2026,10,Oktober,Actief,0,0
+2702,Tim Hofman,2026,11,November,Actief,0,2
+2702,Tim Hofman,2026,12,December,Actief,0,0
+3529,Bas Visser,2026,1,Januari,Actief,0,0
+3529,Bas Visser,2026,2,Februari,Actief,0,0
+3529,Bas Visser,2026,3,Maart,Actief,0,0
+3529,Bas Visser,2026,4,April,Actief,0,0
+3529,Bas Visser,2026,5,Mei,Actief,0,0
+3529,Bas Visser,2026,6,Juni,Actief,0,0
+3529,Bas Visser,2026,7,Juli,Actief,0,0
+3529,Bas Visser,2026,8,Augustus,Actief,0,10
+3529,Bas Visser,2026,9,September,Actief,0,2
+3529,Bas Visser,2026,10,Oktober,Actief,0,0
+3529,Bas Visser,2026,11,November,Actief,0,8
+3529,Bas Visser,2026,12,December,Actief,0,0
+2586,Isa de Wit,2026,1,Januari,Actief,0,0
+2586,Isa de Wit,2026,2,Februari,Actief,0,3
+2586,Isa de Wit,2026,3,Maart,Actief,0,0
+2586,Isa de Wit,2026,4,April,Actief,0,2
+2586,Isa de Wit,2026,5,Mei,Actief,0,0
+2586,Isa de Wit,2026,6,Juni,Actief,0,0
+2586,Isa de Wit,2026,7,Juli,Actief,0,0
+2586,Isa de Wit,2026,8,Augustus,Actief,0,10
+2586,Isa de Wit,2026,9,September,Actief,0,5
+2586,Isa de Wit,2026,10,Oktober,Actief,0,0
+2586,Isa de Wit,2026,11,November,Actief,0,0
+2586,Isa de Wit,2026,12,December,Actief,0,0
+3554,Amber Koning,2026,1,Januari,Actief,0,0
+3554,Amber Koning,2026,2,Februari,Actief,0,3
+3554,Amber Koning,2026,3,Maart,Actief,0,0
+3554,Amber Koning,2026,4,April,Actief,0,0
+3554,Amber Koning,2026,5,Mei,Actief,0,5
+3554,Amber Koning,2026,6,Juni,Actief,0,0
+3554,Amber Koning,2026,7,Juli,Actief,0,5
+3554,Amber Koning,2026,8,Augustus,Actief,1,10
+3554,Amber Koning,2026,9,September,Actief,0,2
+3554,Amber Koning,2026,10,Oktober,Actief,1,0
+3554,Amber Koning,2026,11,November,Actief,0,0
+3554,Amber Koning,2026,12,December,Actief,0,0
+2655,Wende Mulder,2026,1,Januari,Actief,0,5
+2655,Wende Mulder,2026,2,Februari,Actief,0,0
+2655,Wende Mulder,2026,3,Maart,Actief,0,0
+2655,Wende Mulder,2026,4,April,Actief,0,0
+2655,Wende Mulder,2026,5,Mei,Actief,0,0
+2655,Wende Mulder,2026,6,Juni,Actief,0,3
+2655,Wende Mulder,2026,7,Juli,Actief,0,5
+2655,Wende Mulder,2026,8,Augustus,Actief,0,10
+2655,Wende Mulder,2026,9,September,Actief,0,2
+2655,Wende Mulder,2026,10,Oktober,Actief,0,0
+2655,Wende Mulder,2026,11,November,Actief,0,0
+2655,Wende Mulder,2026,12,December,Actief,1,0
+2671,Teun Kok,2026,1,Januari,Actief,0,5
+2671,Teun Kok,2026,2,Februari,Actief,0,0
+2671,Teun Kok,2026,3,Maart,Actief,0,0
+2671,Teun Kok,2026,4,April,Actief,0,0
+2671,Teun Kok,2026,5,Mei,Actief,0,0
+2671,Teun Kok,2026,6,Juni,Actief,0,3
+2671,Teun Kok,2026,7,Juli,Actief,0,5
+2671,Teun Kok,2026,8,Augustus,Actief,2,10
+2671,Teun Kok,2026,9,September,Actief,0,0
+2671,Teun Kok,2026,10,Oktober,Actief,0,3
+2671,Teun Kok,2026,11,November,Actief,0,0
+2671,Teun Kok,2026,12,December,Actief,0,0
+2580,Levi de Vries,2026,1,Januari,Actief,0,5
+2580,Levi de Vries,2026,2,Februari,Actief,0,0
+2580,Levi de Vries,2026,3,Maart,Actief,0,0
+2580,Levi de Vries,2026,4,April,Actief,0,3
+2580,Levi de Vries,2026,5,Mei,Actief,0,2
+2580,Levi de Vries,2026,6,Juni,Actief,0,0
+2580,Levi de Vries,2026,7,Juli,Actief,0,0
+2580,Levi de Vries,2026,8,Augustus,Actief,0,10
+2580,Levi de Vries,2026,9,September,Actief,0,0
+2580,Levi de Vries,2026,10,Oktober,Actief,0,0
+2580,Levi de Vries,2026,11,November,Actief,0,0
+2580,Levi de Vries,2026,12,December,Actief,1,0
+3495,Mees Peters,2026,1,Januari,Nog niet in dienst,0,0
+3495,Mees Peters,2026,2,Februari,Actief,0,5
+3495,Mees Peters,2026,3,Maart,Actief,0,0
+3495,Mees Peters,2026,4,April,Actief,2,5
+3495,Mees Peters,2026,5,Mei,Actief,0,0
+3495,Mees Peters,2026,6,Juni,Actief,0,0
+3495,Mees Peters,2026,7,Juli,Actief,0,2
+3495,Mees Peters,2026,8,Augustus,Actief,0,10
+3495,Mees Peters,2026,9,September,Actief,0,0
+3495,Mees Peters,2026,10,Oktober,Actief,0,2
+3495,Mees Peters,2026,11,November,Actief,0,0
+3495,Mees Peters,2026,12,December,Actief,0,0
+2585,Fleur van Dijk,2026,1,Januari,Actief,2,2
+2585,Fleur van Dijk,2026,2,Februari,Actief,0,0
+2585,Fleur van Dijk,2026,3,Maart,Actief,0,0
+2585,Fleur van Dijk,2026,4,April,Actief,0,2
+2585,Fleur van Dijk,2026,5,Mei,Actief,0,5
+2585,Fleur van Dijk,2026,6,Juni,Actief,0,0
+2585,Fleur van Dijk,2026,7,Juli,Actief,0,0
+2585,Fleur van Dijk,2026,8,Augustus,Actief,0,10
+2585,Fleur van Dijk,2026,9,September,Actief,0,0
+2585,Fleur van Dijk,2026,10,Oktober,Actief,0,0
+2585,Fleur van Dijk,2026,11,November,Actief,0,5
+2585,Fleur van Dijk,2026,12,December,Actief,0,0
+2734,Eva Bakker,2026,1,Januari,Actief,0,0
+2734,Eva Bakker,2026,2,Februari,Actief,0,0
+2734,Eva Bakker,2026,3,Maart,Actief,0,3
+2734,Eva Bakker,2026,4,April,Actief,0,0
+2734,Eva Bakker,2026,5,Mei,Actief,0,0
+2734,Eva Bakker,2026,6,Juni,Actief,0,5
+2734,Eva Bakker,2026,7,Juli,Actief,0,0
+2734,Eva Bakker,2026,8,Augustus,Actief,0,10
+2734,Eva Bakker,2026,9,September,Actief,0,5
+2734,Eva Bakker,2026,10,Oktober,Actief,0,2
+2734,Eva Bakker,2026,11,November,Actief,0,0
+2734,Eva Bakker,2026,12,December,Actief,2,0
+1376,Elin Brouwer,2026,1,Januari,Actief,0,0
+1376,Elin Brouwer,2026,2,Februari,Actief,0,0
+1376,Elin Brouwer,2026,3,Maart,Actief,0,0
+1376,Elin Brouwer,2026,4,April,Actief,1,5
+1376,Elin Brouwer,2026,5,Mei,Actief,0,2
+1376,Elin Brouwer,2026,6,Juni,Actief,0,0
+1376,Elin Brouwer,2026,7,Juli,Actief,0,10
+1376,Elin Brouwer,2026,8,Augustus,Actief,0,3
+1376,Elin Brouwer,2026,9,September,Actief,0,0
+1376,Elin Brouwer,2026,10,Oktober,Actief,0,0
+1376,Elin Brouwer,2026,11,November,Actief,2,0
+1376,Elin Brouwer,2026,12,December,Actief,0,0
+1939,Jasmijn Verhoeven,2026,1,Januari,Actief,1,0
+1939,Jasmijn Verhoeven,2026,2,Februari,Actief,0,8
+1939,Jasmijn Verhoeven,2026,3,Maart,Actief,0,0
+1939,Jasmijn Verhoeven,2026,4,April,Actief,0,0
+1939,Jasmijn Verhoeven,2026,5,Mei,Actief,1,0
+1939,Jasmijn Verhoeven,2026,6,Juni,Actief,0,0
+1939,Jasmijn Verhoeven,2026,7,Juli,Actief,0,10
+1939,Jasmijn Verhoeven,2026,8,Augustus,Actief,0,0
+1939,Jasmijn Verhoeven,2026,9,September,Actief,0,0
+1939,Jasmijn Verhoeven,2026,10,Oktober,Actief,0,0
+1939,Jasmijn Verhoeven,2026,11,November,Actief,0,3
+1939,Jasmijn Verhoeven,2026,12,December,Actief,0,0
+3826,Rick de Boer,2026,1,Januari,Nog niet in dienst,0,0
+3826,Rick de Boer,2026,2,Februari,Nog niet in dienst,0,0
+3826,Rick de Boer,2026,3,Maart,Nog niet in dienst,0,0
+3826,Rick de Boer,2026,4,April,Nog niet in dienst,0,0
+3826,Rick de Boer,2026,5,Mei,Nog niet in dienst,0,0
+3826,Rick de Boer,2026,6,Juni,Nog niet in dienst,0,0
+3826,Rick de Boer,2026,7,Juli,Nog niet in dienst,0,0
+3826,Rick de Boer,2026,8,Augustus,Nog niet in dienst,0,0
+3826,Rick de Boer,2026,9,September,Actief,0,0
+3826,Rick de Boer,2026,10,Oktober,Actief,0,0
+3826,Rick de Boer,2026,11,November,Actief,0,8
+3826,Rick de Boer,2026,12,December,Actief,0,0
+2355,Willem van der Meer,2026,1,Januari,Actief,0,0
+2355,Willem van der Meer,2026,2,Februari,Actief,0,3
+2355,Willem van der Meer,2026,3,Maart,Actief,0,0
+2355,Willem van der Meer,2026,4,April,Actief,0,5
+2355,Willem van der Meer,2026,5,Mei,Actief,0,0
+2355,Willem van der Meer,2026,6,Juni,Actief,1,0
+2355,Willem van der Meer,2026,7,Juli,Actief,0,12
+2355,Willem van der Meer,2026,8,Augustus,Actief,0,0
+2355,Willem van der Meer,2026,9,September,Actief,0,0
+2355,Willem van der Meer,2026,10,Oktober,Actief,0,0
+2355,Willem van der Meer,2026,11,November,Actief,5,0
+2355,Willem van der Meer,2026,12,December,Actief,0,0
+3906,Roel Peeters,2026,1,Januari,Actief,1,0
+3906,Roel Peeters,2026,2,Februari,Actief,0,3
+3906,Roel Peeters,2026,3,Maart,Actief,0,0
+3906,Roel Peeters,2026,4,April,Actief,0,5
+3906,Roel Peeters,2026,5,Mei,Actief,0,0
+3906,Roel Peeters,2026,6,Juni,Actief,0,0
+3906,Roel Peeters,2026,7,Juli,Actief,0,13
+3906,Roel Peeters,2026,8,Augustus,Actief,0,0
+3906,Roel Peeters,2026,9,September,Actief,0,5
+3906,Roel Peeters,2026,10,Oktober,Actief,0,0
+3906,Roel Peeters,2026,11,November,Actief,0,0
+3906,Roel Peeters,2026,12,December,Actief,0,0
+3894,Demi Vos,2026,1,Januari,Nog niet in dienst,0,0
+3894,Demi Vos,2026,2,Februari,Nog niet in dienst,0,0
+3894,Demi Vos,2026,3,Maart,Nog niet in dienst,0,0
+3894,Demi Vos,2026,4,April,Actief,0,0
+3894,Demi Vos,2026,5,Mei,Actief,0,2
+3894,Demi Vos,2026,6,Juni,Actief,0,6
+3894,Demi Vos,2026,7,Juli,Actief,0,5
+3894,Demi Vos,2026,8,Augustus,Actief,0,1
+3894,Demi Vos,2026,9,September,Actief,1,0
+3894,Demi Vos,2026,10,Oktober,Actief,0,0
+3894,Demi Vos,2026,11,November,Actief,0,5
+3894,Demi Vos,2026,12,December,Actief,0,0
+1721,Fay Kuipers,2026,1,Januari,Actief,0,0
+1721,Fay Kuipers,2026,2,Februari,Actief,0,0
+1721,Fay Kuipers,2026,3,Maart,Actief,0,0
+1721,Fay Kuipers,2026,4,April,Actief,0,2
+1721,Fay Kuipers,2026,5,Mei,Actief,0,0
+1721,Fay Kuipers,2026,6,Juni,Actief,0,5
+1721,Fay Kuipers,2026,7,Juli,Actief,0,0
+1721,Fay Kuipers,2026,8,Augustus,Actief,0,10
+1721,Fay Kuipers,2026,9,September,Actief,0,2
+1721,Fay Kuipers,2026,10,Oktober,Actief,0,0
+1721,Fay Kuipers,2026,11,November,Actief,0,5
+1721,Fay Kuipers,2026,12,December,Actief,0,0
+2495,Roos van den Berg,2026,1,Januari,Actief,0,5
+2495,Roos van den Berg,2026,2,Februari,Actief,0,0
+2495,Roos van den Berg,2026,3,Maart,Actief,0,0
+2495,Roos van den Berg,2026,4,April,Actief,0,0
+2495,Roos van den Berg,2026,5,Mei,Actief,0,2
+2495,Roos van den Berg,2026,6,Juni,Actief,0,0
+2495,Roos van den Berg,2026,7,Juli,Actief,2,10
+2495,Roos van den Berg,2026,8,Augustus,Actief,0,0
+2495,Roos van den Berg,2026,9,September,Actief,0,0
+2495,Roos van den Berg,2026,10,Oktober,Actief,0,0
+2495,Roos van den Berg,2026,11,November,Actief,0,0
+2495,Roos van den Berg,2026,12,December,Actief,0,3
+3915,Hugo Dekker,2026,1,Januari,Nog niet in dienst,0,0
+3915,Hugo Dekker,2026,2,Februari,Nog niet in dienst,0,0
+3915,Hugo Dekker,2026,3,Maart,Nog niet in dienst,0,0
+3915,Hugo Dekker,2026,4,April,Nog niet in dienst,0,0
+3915,Hugo Dekker,2026,5,Mei,Nog niet in dienst,0,0
+3915,Hugo Dekker,2026,6,Juni,Nog niet in dienst,0,0
+3915,Hugo Dekker,2026,7,Juli,Nog niet in dienst,0,0
+3915,Hugo Dekker,2026,8,Augustus,Nog niet in dienst,0,0
+3915,Hugo Dekker,2026,9,September,Actief,2,1
+3915,Hugo Dekker,2026,10,Oktober,Actief,0,5
+3915,Hugo Dekker,2026,11,November,Actief,0,0
+3915,Hugo Dekker,2026,12,December,Actief,0,2
+3944,Maarten Maas,2026,1,Januari,Actief,0,5
+3944,Maarten Maas,2026,2,Februari,Actief,0,0
+3944,Maarten Maas,2026,3,Maart,Actief,0,0
+3944,Maarten Maas,2026,4,April,Actief,0,0
+3944,Maarten Maas,2026,5,Mei,Actief,0,0
+3944,Maarten Maas,2026,6,Juni,Actief,0,0
+3944,Maarten Maas,2026,7,Juli,Actief,0,0
+3944,Maarten Maas,2026,8,Augustus,Actief,0,10
+3944,Maarten Maas,2026,9,September,Actief,0,3
+3944,Maarten Maas,2026,10,Oktober,Actief,0,0
+3944,Maarten Maas,2026,11,November,Actief,0,3
+3944,Maarten Maas,2026,12,December,Actief,0,0
+2516,Erik Meijer,2026,1,Januari,Actief,0,0
+2516,Erik Meijer,2026,2,Februari,Actief,0,2
+2516,Erik Meijer,2026,3,Maart,Actief,0,5
+2516,Erik Meijer,2026,4,April,Actief,0,0
+2516,Erik Meijer,2026,5,Mei,Actief,0,0
+2516,Erik Meijer,2026,6,Juni,Actief,0,0
+2516,Erik Meijer,2026,7,Juli,Actief,0,10
+2516,Erik Meijer,2026,8,Augustus,Actief,0,0
+2516,Erik Meijer,2026,9,September,Actief,0,0
+2516,Erik Meijer,2026,10,Oktober,Actief,2,0
+2516,Erik Meijer,2026,11,November,Actief,0,3
+2516,Erik Meijer,2026,12,December,Actief,0,0
 3840,Tess Smits,2026,1,Januari,Nog niet in dienst,0,0
 3840,Tess Smits,2026,2,Februari,Nog niet in dienst,0,0
 3840,Tess Smits,2026,3,Maart,Nog niet in dienst,0,0
@@ -1511,291 +1511,291 @@ MedewerkerID,Naam,Jaar,Maand,Maandnaam,Status,Ziektedagen,Vakantiedagen
 3840,Tess Smits,2026,10,Oktober,Nog niet in dienst,0,0
 3840,Tess Smits,2026,11,November,Actief,0,4
 3840,Tess Smits,2026,12,December,Actief,1,0
-3820,Saar Huisman,2026,1,Januari,Actief,0,0
-3820,Saar Huisman,2026,2,Februari,Actief,0,0
-3820,Saar Huisman,2026,3,Maart,Actief,0,3
-3820,Saar Huisman,2026,4,April,Actief,0,0
-3820,Saar Huisman,2026,5,Mei,Actief,0,0
-3820,Saar Huisman,2026,6,Juni,Actief,0,3
-3820,Saar Huisman,2026,7,Juli,Actief,0,10
-3820,Saar Huisman,2026,8,Augustus,Actief,6,0
-3820,Saar Huisman,2026,9,September,Actief,0,5
-3820,Saar Huisman,2026,10,Oktober,Actief,0,0
-3820,Saar Huisman,2026,11,November,Actief,0,0
-3820,Saar Huisman,2026,12,December,Actief,0,0
-2227,Noor Bos,2026,1,Januari,Actief,0,0
-2227,Noor Bos,2026,2,Februari,Actief,0,3
-2227,Noor Bos,2026,3,Maart,Actief,0,0
-2227,Noor Bos,2026,4,April,Actief,0,5
-2227,Noor Bos,2026,5,Mei,Actief,0,0
-2227,Noor Bos,2026,6,Juni,Actief,0,0
-2227,Noor Bos,2026,7,Juli,Actief,0,5
-2227,Noor Bos,2026,8,Augustus,Actief,0,10
-2227,Noor Bos,2026,9,September,Actief,0,3
-2227,Noor Bos,2026,10,Oktober,Actief,0,0
-2227,Noor Bos,2026,11,November,Actief,2,0
-2227,Noor Bos,2026,12,December,Actief,0,0
-2572,Hanna Vermeulen,2026,1,Januari,Nog niet in dienst,0,0
-2572,Hanna Vermeulen,2026,2,Februari,Nog niet in dienst,0,0
-2572,Hanna Vermeulen,2026,3,Maart,Actief,0,0
-2572,Hanna Vermeulen,2026,4,April,Actief,0,0
-2572,Hanna Vermeulen,2026,5,Mei,Actief,0,5
-2572,Hanna Vermeulen,2026,6,Juni,Actief,0,7
-2572,Hanna Vermeulen,2026,7,Juli,Actief,0,10
-2572,Hanna Vermeulen,2026,8,Augustus,Actief,0,2
-2572,Hanna Vermeulen,2026,9,September,Actief,0,0
-2572,Hanna Vermeulen,2026,10,Oktober,Actief,0,0
-2572,Hanna Vermeulen,2026,11,November,Actief,0,0
-2572,Hanna Vermeulen,2026,12,December,Actief,0,0
-3890,Noud de Jong,2026,1,Januari,Actief,0,0
-3890,Noud de Jong,2026,2,Februari,Actief,0,2
-3890,Noud de Jong,2026,3,Maart,Actief,0,5
-3890,Noud de Jong,2026,4,April,Actief,0,0
-3890,Noud de Jong,2026,5,Mei,Actief,0,0
-3890,Noud de Jong,2026,6,Juni,Actief,0,0
-3890,Noud de Jong,2026,7,Juli,Actief,0,13
-3890,Noud de Jong,2026,8,Augustus,Actief,0,0
-3890,Noud de Jong,2026,9,September,Actief,7,5
-3890,Noud de Jong,2026,10,Oktober,Actief,0,0
-3890,Noud de Jong,2026,11,November,Actief,0,0
-3890,Noud de Jong,2026,12,December,Actief,0,0
-2274,Ruben van Leeuwen,2026,1,Januari,Actief,0,0
-2274,Ruben van Leeuwen,2026,2,Februari,Actief,0,0
-2274,Ruben van Leeuwen,2026,3,Maart,Actief,0,5
-2274,Ruben van Leeuwen,2026,4,April,Actief,0,0
-2274,Ruben van Leeuwen,2026,5,Mei,Actief,0,0
-2274,Ruben van Leeuwen,2026,6,Juni,Actief,0,0
-2274,Ruben van Leeuwen,2026,7,Juli,Actief,0,0
-2274,Ruben van Leeuwen,2026,8,Augustus,Actief,0,10
-2274,Ruben van Leeuwen,2026,9,September,Actief,0,0
-2274,Ruben van Leeuwen,2026,10,Oktober,Actief,0,2
-2274,Ruben van Leeuwen,2026,11,November,Actief,0,0
-2274,Ruben van Leeuwen,2026,12,December,Actief,0,3
-3817,Emma Willems,2026,1,Januari,Actief,0,5
-3817,Emma Willems,2026,2,Februari,Actief,0,0
-3817,Emma Willems,2026,3,Maart,Actief,0,0
-3817,Emma Willems,2026,4,April,Actief,0,0
-3817,Emma Willems,2026,5,Mei,Actief,0,2
-3817,Emma Willems,2026,6,Juni,Actief,0,0
-3817,Emma Willems,2026,7,Juli,Actief,0,10
-3817,Emma Willems,2026,8,Augustus,Actief,0,0
-3817,Emma Willems,2026,9,September,Actief,2,0
-3817,Emma Willems,2026,10,Oktober,Actief,0,2
-3817,Emma Willems,2026,11,November,Met verlof,0,0
-3817,Emma Willems,2026,12,December,Actief,2,0
-2561,Sara Smit,2026,1,Januari,Actief,0,0
-2561,Sara Smit,2026,2,Februari,Actief,0,0
-2561,Sara Smit,2026,3,Maart,Actief,0,5
-2561,Sara Smit,2026,4,April,Actief,0,0
-2561,Sara Smit,2026,5,Mei,Actief,1,0
-2561,Sara Smit,2026,6,Juni,Actief,2,0
-2561,Sara Smit,2026,7,Juli,Actief,0,10
-2561,Sara Smit,2026,8,Augustus,Actief,0,7
-2561,Sara Smit,2026,9,September,Actief,0,2
-2561,Sara Smit,2026,10,Oktober,Actief,0,0
-2561,Sara Smit,2026,11,November,Actief,0,0
-2561,Sara Smit,2026,12,December,Actief,0,0
-2221,Lieke Dijkstra,2026,1,Januari,Actief,0,5
-2221,Lieke Dijkstra,2026,2,Februari,Actief,0,0
-2221,Lieke Dijkstra,2026,3,Maart,Actief,0,0
-2221,Lieke Dijkstra,2026,4,April,Actief,0,0
-2221,Lieke Dijkstra,2026,5,Mei,Actief,0,3
-2221,Lieke Dijkstra,2026,6,Juni,Actief,0,2
-2221,Lieke Dijkstra,2026,7,Juli,Actief,0,10
-2221,Lieke Dijkstra,2026,8,Augustus,Actief,0,0
-2221,Lieke Dijkstra,2026,9,September,Met verlof,0,0
-2221,Lieke Dijkstra,2026,10,Oktober,Actief,0,0
-2221,Lieke Dijkstra,2026,11,November,Actief,0,0
-2221,Lieke Dijkstra,2026,12,December,Actief,0,0
-1651,Sanne Prins,2026,1,Januari,Actief,0,0
-1651,Sanne Prins,2026,2,Februari,Actief,0,2
-1651,Sanne Prins,2026,3,Maart,Actief,0,0
-1651,Sanne Prins,2026,4,April,Actief,0,0
-1651,Sanne Prins,2026,5,Mei,Actief,0,0
-1651,Sanne Prins,2026,6,Juni,Actief,0,0
-1651,Sanne Prins,2026,7,Juli,Actief,0,0
-1651,Sanne Prins,2026,8,Augustus,Actief,0,13
-1651,Sanne Prins,2026,9,September,Actief,0,0
-1651,Sanne Prins,2026,10,Oktober,Actief,0,0
-1651,Sanne Prins,2026,11,November,Actief,0,0
-1651,Sanne Prins,2026,12,December,Actief,0,5
-3995,Finn de Groot,2026,1,Januari,Actief,0,2
-3995,Finn de Groot,2026,2,Februari,Actief,0,0
-3995,Finn de Groot,2026,3,Maart,Actief,0,0
-3995,Finn de Groot,2026,4,April,Actief,0,0
-3995,Finn de Groot,2026,5,Mei,Actief,0,0
-3995,Finn de Groot,2026,6,Juni,Actief,0,0
-3995,Finn de Groot,2026,7,Juli,Actief,0,10
-3995,Finn de Groot,2026,8,Augustus,Actief,0,0
-3995,Finn de Groot,2026,9,September,Actief,0,0
-3995,Finn de Groot,2026,10,Oktober,Actief,0,0
-3995,Finn de Groot,2026,11,November,Actief,0,5
-3995,Finn de Groot,2026,12,December,Actief,0,2
-3463,Thijs Jacobs,2026,1,Januari,Actief,0,2
-3463,Thijs Jacobs,2026,2,Februari,Actief,0,3
-3463,Thijs Jacobs,2026,3,Maart,Actief,0,0
-3463,Thijs Jacobs,2026,4,April,Actief,0,1
-3463,Thijs Jacobs,2026,5,Mei,Actief,0,5
-3463,Thijs Jacobs,2026,6,Juni,Actief,1,2
-3463,Thijs Jacobs,2026,7,Juli,Actief,0,0
-3463,Thijs Jacobs,2026,8,Augustus,Actief,0,1
-3463,Thijs Jacobs,2026,9,September,Actief,1,5
-3463,Thijs Jacobs,2026,10,Oktober,Uit dienst,0,0
-3463,Thijs Jacobs,2026,11,November,Uit dienst,0,0
-3463,Thijs Jacobs,2026,12,December,Uit dienst,0,0
-2245,Bas Jansen,2026,1,Januari,Actief,2,0
-2245,Bas Jansen,2026,2,Februari,Actief,0,2
-2245,Bas Jansen,2026,3,Maart,Actief,1,10
-2245,Bas Jansen,2026,4,April,Actief,0,0
-2245,Bas Jansen,2026,5,Mei,Actief,0,0
-2245,Bas Jansen,2026,6,Juni,Actief,0,3
-2245,Bas Jansen,2026,7,Juli,Actief,0,0
-2245,Bas Jansen,2026,8,Augustus,Uit dienst,0,0
-2245,Bas Jansen,2026,9,September,Uit dienst,0,0
-2245,Bas Jansen,2026,10,Oktober,Uit dienst,0,0
-2245,Bas Jansen,2026,11,November,Uit dienst,0,0
-2245,Bas Jansen,2026,12,December,Uit dienst,0,0
-2553,Sophie Hendriks,2026,1,Januari,Actief,0,0
-2553,Sophie Hendriks,2026,2,Februari,Actief,0,3
-2553,Sophie Hendriks,2026,3,Maart,Actief,0,0
-2553,Sophie Hendriks,2026,4,April,Actief,0,5
-2553,Sophie Hendriks,2026,5,Mei,Actief,0,0
-2553,Sophie Hendriks,2026,6,Juni,Actief,0,3
-2553,Sophie Hendriks,2026,7,Juli,Actief,0,10
-2553,Sophie Hendriks,2026,8,Augustus,Actief,0,0
-2553,Sophie Hendriks,2026,9,September,Actief,0,0
-2553,Sophie Hendriks,2026,10,Oktober,Actief,0,0
-2553,Sophie Hendriks,2026,11,November,Actief,0,0
-2553,Sophie Hendriks,2026,12,December,Actief,0,0
-3856,Nora Hofman,2026,1,Januari,Nog niet in dienst,0,0
-3856,Nora Hofman,2026,2,Februari,Nog niet in dienst,0,0
-3856,Nora Hofman,2026,3,Maart,Actief,2,0
-3856,Nora Hofman,2026,4,April,Actief,0,0
-3856,Nora Hofman,2026,5,Mei,Actief,0,5
-3856,Nora Hofman,2026,6,Juni,Actief,0,3
-3856,Nora Hofman,2026,7,Juli,Actief,0,0
-3856,Nora Hofman,2026,8,Augustus,Actief,0,13
-3856,Nora Hofman,2026,9,September,Actief,0,0
-3856,Nora Hofman,2026,10,Oktober,Actief,0,0
-3856,Nora Hofman,2026,11,November,Actief,0,0
-3856,Nora Hofman,2026,12,December,Actief,0,0
-1002,Evi Visser,2026,1,Januari,Actief,0,0
-1002,Evi Visser,2026,2,Februari,Actief,0,10
-1002,Evi Visser,2026,3,Maart,Actief,1,0
-1002,Evi Visser,2026,4,April,Actief,2,1
-1002,Evi Visser,2026,5,Mei,Actief,0,1
-1002,Evi Visser,2026,6,Juni,Actief,0,0
-1002,Evi Visser,2026,7,Juli,Uit dienst,0,0
-1002,Evi Visser,2026,8,Augustus,Uit dienst,0,0
-1002,Evi Visser,2026,9,September,Uit dienst,0,0
-1002,Evi Visser,2026,10,Oktober,Uit dienst,0,0
-1002,Evi Visser,2026,11,November,Uit dienst,0,0
-1002,Evi Visser,2026,12,December,Uit dienst,0,0
-2499,Daan de Wit,2026,1,Januari,Actief,0,1
-2499,Daan de Wit,2026,2,Februari,Actief,0,0
-2499,Daan de Wit,2026,3,Maart,Actief,0,0
-2499,Daan de Wit,2026,4,April,Actief,0,3
-2499,Daan de Wit,2026,5,Mei,Actief,0,0
-2499,Daan de Wit,2026,6,Juni,Actief,0,8
-2499,Daan de Wit,2026,7,Juli,Uit dienst,0,0
-2499,Daan de Wit,2026,8,Augustus,Uit dienst,0,0
-2499,Daan de Wit,2026,9,September,Uit dienst,0,0
-2499,Daan de Wit,2026,10,Oktober,Uit dienst,0,0
-2499,Daan de Wit,2026,11,November,Uit dienst,0,0
-2499,Daan de Wit,2026,12,December,Uit dienst,0,0
-1052,Jesse Koning,2026,1,Januari,Actief,1,5
-1052,Jesse Koning,2026,2,Februari,Actief,0,0
-1052,Jesse Koning,2026,3,Maart,Actief,0,0
-1052,Jesse Koning,2026,4,April,Actief,0,0
-1052,Jesse Koning,2026,5,Mei,Actief,0,0
-1052,Jesse Koning,2026,6,Juni,Actief,0,0
-1052,Jesse Koning,2026,7,Juli,Actief,0,2
-1052,Jesse Koning,2026,8,Augustus,Actief,0,10
-1052,Jesse Koning,2026,9,September,Actief,0,5
-1052,Jesse Koning,2026,10,Oktober,Actief,0,0
-1052,Jesse Koning,2026,11,November,Actief,0,3
-1052,Jesse Koning,2026,12,December,Actief,0,0
-2492,Lars Mulder,2026,1,Januari,Actief,0,2
-2492,Lars Mulder,2026,2,Februari,Actief,0,0
-2492,Lars Mulder,2026,3,Maart,Actief,0,0
-2492,Lars Mulder,2026,4,April,Actief,0,0
-2492,Lars Mulder,2026,5,Mei,Actief,0,0
-2492,Lars Mulder,2026,6,Juni,Actief,0,0
-2492,Lars Mulder,2026,7,Juli,Actief,0,13
-2492,Lars Mulder,2026,8,Augustus,Actief,0,0
-2492,Lars Mulder,2026,9,September,Actief,0,0
-2492,Lars Mulder,2026,10,Oktober,Actief,0,0
-2492,Lars Mulder,2026,11,November,Actief,0,5
-2492,Lars Mulder,2026,12,December,Actief,0,0
-1085,Julia Kok,2026,1,Januari,Actief,6,0
-1085,Julia Kok,2026,2,Februari,Actief,0,5
-1085,Julia Kok,2026,3,Maart,Actief,0,0
-1085,Julia Kok,2026,4,April,Actief,0,2
-1085,Julia Kok,2026,5,Mei,Actief,0,0
-1085,Julia Kok,2026,6,Juni,Actief,0,0
-1085,Julia Kok,2026,7,Juli,Actief,0,2
-1085,Julia Kok,2026,8,Augustus,Actief,0,10
-1085,Julia Kok,2026,9,September,Actief,0,0
-1085,Julia Kok,2026,10,Oktober,Actief,0,5
-1085,Julia Kok,2026,11,November,Actief,0,0
-1085,Julia Kok,2026,12,December,Actief,0,0
-2530,Eva de Vries,2026,1,Januari,Nog niet in dienst,0,0
-2530,Eva de Vries,2026,2,Februari,Nog niet in dienst,0,0
-2530,Eva de Vries,2026,3,Maart,Nog niet in dienst,0,0
-2530,Eva de Vries,2026,4,April,Nog niet in dienst,0,0
-2530,Eva de Vries,2026,5,Mei,Nog niet in dienst,0,0
-2530,Eva de Vries,2026,6,Juni,Nog niet in dienst,0,0
-2530,Eva de Vries,2026,7,Juli,Nog niet in dienst,0,0
-2530,Eva de Vries,2026,8,Augustus,Actief,0,8
-2530,Eva de Vries,2026,9,September,Actief,0,0
-2530,Eva de Vries,2026,10,Oktober,Actief,0,0
-2530,Eva de Vries,2026,11,November,Actief,0,2
-2530,Eva de Vries,2026,12,December,Actief,0,0
-1331,Maud Peters,2026,1,Januari,Actief,0,8
-1331,Maud Peters,2026,2,Februari,Actief,0,0
-1331,Maud Peters,2026,3,Maart,Actief,0,5
-1331,Maud Peters,2026,4,April,Actief,0,0
-1331,Maud Peters,2026,5,Mei,Actief,0,0
-1331,Maud Peters,2026,6,Juni,Actief,0,0
-1331,Maud Peters,2026,7,Juli,Actief,0,0
-1331,Maud Peters,2026,8,Augustus,Actief,0,10
-1331,Maud Peters,2026,9,September,Actief,0,0
-1331,Maud Peters,2026,10,Oktober,Actief,0,0
-1331,Maud Peters,2026,11,November,Actief,0,3
-1331,Maud Peters,2026,12,December,Actief,0,0
-1375,Femke van Dijk,2026,1,Januari,Actief,0,0
-1375,Femke van Dijk,2026,2,Februari,Actief,0,0
-1375,Femke van Dijk,2026,3,Maart,Actief,0,0
-1375,Femke van Dijk,2026,4,April,Actief,0,3
-1375,Femke van Dijk,2026,5,Mei,Actief,0,0
-1375,Femke van Dijk,2026,6,Juni,Actief,0,0
-1375,Femke van Dijk,2026,7,Juli,Actief,0,10
-1375,Femke van Dijk,2026,8,Augustus,Actief,0,5
-1375,Femke van Dijk,2026,9,September,Actief,2,3
-1375,Femke van Dijk,2026,10,Oktober,Actief,0,0
-1375,Femke van Dijk,2026,11,November,Actief,0,0
-1375,Femke van Dijk,2026,12,December,Actief,0,0
-1358,Levi Bakker,2026,1,Januari,Actief,0,0
-1358,Levi Bakker,2026,2,Februari,Actief,0,0
-1358,Levi Bakker,2026,3,Maart,Actief,0,0
-1358,Levi Bakker,2026,4,April,Actief,2,3
-1358,Levi Bakker,2026,5,Mei,Actief,0,0
-1358,Levi Bakker,2026,6,Juni,Actief,0,0
-1358,Levi Bakker,2026,7,Juli,Actief,0,10
-1358,Levi Bakker,2026,8,Augustus,Actief,0,0
-1358,Levi Bakker,2026,9,September,Actief,0,5
-1358,Levi Bakker,2026,10,Oktober,Actief,0,0
-1358,Levi Bakker,2026,11,November,Actief,0,0
-1358,Levi Bakker,2026,12,December,Actief,0,3
-1383,Cas Brouwer,2026,1,Januari,Actief,0,5
-1383,Cas Brouwer,2026,2,Februari,Actief,1,0
-1383,Cas Brouwer,2026,3,Maart,Actief,0,3
-1383,Cas Brouwer,2026,4,April,Actief,0,0
-1383,Cas Brouwer,2026,5,Mei,Actief,0,0
-1383,Cas Brouwer,2026,6,Juni,Actief,0,0
-1383,Cas Brouwer,2026,7,Juli,Actief,0,0
-1383,Cas Brouwer,2026,8,Augustus,Actief,0,10
-1383,Cas Brouwer,2026,9,September,Actief,0,3
-1383,Cas Brouwer,2026,10,Oktober,Actief,1,0
-1383,Cas Brouwer,2026,11,November,Actief,0,0
-1383,Cas Brouwer,2026,12,December,Actief,0,0
+3820,Marit Huisman,2026,1,Januari,Actief,0,0
+3820,Marit Huisman,2026,2,Februari,Actief,0,0
+3820,Marit Huisman,2026,3,Maart,Actief,0,3
+3820,Marit Huisman,2026,4,April,Actief,0,0
+3820,Marit Huisman,2026,5,Mei,Actief,0,0
+3820,Marit Huisman,2026,6,Juni,Actief,0,3
+3820,Marit Huisman,2026,7,Juli,Actief,0,10
+3820,Marit Huisman,2026,8,Augustus,Actief,6,0
+3820,Marit Huisman,2026,9,September,Actief,0,5
+3820,Marit Huisman,2026,10,Oktober,Actief,0,0
+3820,Marit Huisman,2026,11,November,Actief,0,0
+3820,Marit Huisman,2026,12,December,Actief,0,0
+2227,Mila Bos,2026,1,Januari,Actief,0,0
+2227,Mila Bos,2026,2,Februari,Actief,0,3
+2227,Mila Bos,2026,3,Maart,Actief,0,0
+2227,Mila Bos,2026,4,April,Actief,0,5
+2227,Mila Bos,2026,5,Mei,Actief,0,0
+2227,Mila Bos,2026,6,Juni,Actief,0,0
+2227,Mila Bos,2026,7,Juli,Actief,0,5
+2227,Mila Bos,2026,8,Augustus,Actief,0,10
+2227,Mila Bos,2026,9,September,Actief,0,3
+2227,Mila Bos,2026,10,Oktober,Actief,0,0
+2227,Mila Bos,2026,11,November,Actief,2,0
+2227,Mila Bos,2026,12,December,Actief,0,0
+2572,Norah Vermeulen,2026,1,Januari,Nog niet in dienst,0,0
+2572,Norah Vermeulen,2026,2,Februari,Nog niet in dienst,0,0
+2572,Norah Vermeulen,2026,3,Maart,Actief,0,0
+2572,Norah Vermeulen,2026,4,April,Actief,0,0
+2572,Norah Vermeulen,2026,5,Mei,Actief,0,5
+2572,Norah Vermeulen,2026,6,Juni,Actief,0,7
+2572,Norah Vermeulen,2026,7,Juli,Actief,0,10
+2572,Norah Vermeulen,2026,8,Augustus,Actief,0,2
+2572,Norah Vermeulen,2026,9,September,Actief,0,0
+2572,Norah Vermeulen,2026,10,Oktober,Actief,0,0
+2572,Norah Vermeulen,2026,11,November,Actief,0,0
+2572,Norah Vermeulen,2026,12,December,Actief,0,0
+3890,Jorrit de Jong,2026,1,Januari,Actief,0,0
+3890,Jorrit de Jong,2026,2,Februari,Actief,0,2
+3890,Jorrit de Jong,2026,3,Maart,Actief,0,5
+3890,Jorrit de Jong,2026,4,April,Actief,0,0
+3890,Jorrit de Jong,2026,5,Mei,Actief,0,0
+3890,Jorrit de Jong,2026,6,Juni,Actief,0,0
+3890,Jorrit de Jong,2026,7,Juli,Actief,0,13
+3890,Jorrit de Jong,2026,8,Augustus,Actief,0,0
+3890,Jorrit de Jong,2026,9,September,Actief,7,5
+3890,Jorrit de Jong,2026,10,Oktober,Actief,0,0
+3890,Jorrit de Jong,2026,11,November,Actief,0,0
+3890,Jorrit de Jong,2026,12,December,Actief,0,0
+2274,Hidde van Leeuwen,2026,1,Januari,Actief,0,0
+2274,Hidde van Leeuwen,2026,2,Februari,Actief,0,0
+2274,Hidde van Leeuwen,2026,3,Maart,Actief,0,5
+2274,Hidde van Leeuwen,2026,4,April,Actief,0,0
+2274,Hidde van Leeuwen,2026,5,Mei,Actief,0,0
+2274,Hidde van Leeuwen,2026,6,Juni,Actief,0,0
+2274,Hidde van Leeuwen,2026,7,Juli,Actief,0,0
+2274,Hidde van Leeuwen,2026,8,Augustus,Actief,0,10
+2274,Hidde van Leeuwen,2026,9,September,Actief,0,0
+2274,Hidde van Leeuwen,2026,10,Oktober,Actief,0,2
+2274,Hidde van Leeuwen,2026,11,November,Actief,0,0
+2274,Hidde van Leeuwen,2026,12,December,Actief,0,3
+3817,Julia Willems,2026,1,Januari,Actief,0,5
+3817,Julia Willems,2026,2,Februari,Actief,0,0
+3817,Julia Willems,2026,3,Maart,Actief,0,0
+3817,Julia Willems,2026,4,April,Actief,0,0
+3817,Julia Willems,2026,5,Mei,Actief,0,2
+3817,Julia Willems,2026,6,Juni,Actief,0,0
+3817,Julia Willems,2026,7,Juli,Actief,0,10
+3817,Julia Willems,2026,8,Augustus,Actief,0,0
+3817,Julia Willems,2026,9,September,Actief,2,0
+3817,Julia Willems,2026,10,Oktober,Actief,0,2
+3817,Julia Willems,2026,11,November,Met verlof,0,0
+3817,Julia Willems,2026,12,December,Actief,2,0
+2561,Bo Smit,2026,1,Januari,Actief,0,0
+2561,Bo Smit,2026,2,Februari,Actief,0,0
+2561,Bo Smit,2026,3,Maart,Actief,0,5
+2561,Bo Smit,2026,4,April,Actief,0,0
+2561,Bo Smit,2026,5,Mei,Actief,1,0
+2561,Bo Smit,2026,6,Juni,Actief,2,0
+2561,Bo Smit,2026,7,Juli,Actief,0,10
+2561,Bo Smit,2026,8,Augustus,Actief,0,7
+2561,Bo Smit,2026,9,September,Actief,0,2
+2561,Bo Smit,2026,10,Oktober,Actief,0,0
+2561,Bo Smit,2026,11,November,Actief,0,0
+2561,Bo Smit,2026,12,December,Actief,0,0
+2221,Hanna Dijkstra,2026,1,Januari,Actief,0,5
+2221,Hanna Dijkstra,2026,2,Februari,Actief,0,0
+2221,Hanna Dijkstra,2026,3,Maart,Actief,0,0
+2221,Hanna Dijkstra,2026,4,April,Actief,0,0
+2221,Hanna Dijkstra,2026,5,Mei,Actief,0,3
+2221,Hanna Dijkstra,2026,6,Juni,Actief,0,2
+2221,Hanna Dijkstra,2026,7,Juli,Actief,0,10
+2221,Hanna Dijkstra,2026,8,Augustus,Actief,0,0
+2221,Hanna Dijkstra,2026,9,September,Met verlof,0,0
+2221,Hanna Dijkstra,2026,10,Oktober,Actief,0,0
+2221,Hanna Dijkstra,2026,11,November,Actief,0,0
+2221,Hanna Dijkstra,2026,12,December,Actief,0,0
+1651,Yara Prins,2026,1,Januari,Actief,0,0
+1651,Yara Prins,2026,2,Februari,Actief,0,2
+1651,Yara Prins,2026,3,Maart,Actief,0,0
+1651,Yara Prins,2026,4,April,Actief,0,0
+1651,Yara Prins,2026,5,Mei,Actief,0,0
+1651,Yara Prins,2026,6,Juni,Actief,0,0
+1651,Yara Prins,2026,7,Juli,Actief,0,0
+1651,Yara Prins,2026,8,Augustus,Actief,0,13
+1651,Yara Prins,2026,9,September,Actief,0,0
+1651,Yara Prins,2026,10,Oktober,Actief,0,0
+1651,Yara Prins,2026,11,November,Actief,0,0
+1651,Yara Prins,2026,12,December,Actief,0,5
+3995,Ruben de Groot,2026,1,Januari,Actief,0,2
+3995,Ruben de Groot,2026,2,Februari,Actief,0,0
+3995,Ruben de Groot,2026,3,Maart,Actief,0,0
+3995,Ruben de Groot,2026,4,April,Actief,0,0
+3995,Ruben de Groot,2026,5,Mei,Actief,0,0
+3995,Ruben de Groot,2026,6,Juni,Actief,0,0
+3995,Ruben de Groot,2026,7,Juli,Actief,0,10
+3995,Ruben de Groot,2026,8,Augustus,Actief,0,0
+3995,Ruben de Groot,2026,9,September,Actief,0,0
+3995,Ruben de Groot,2026,10,Oktober,Actief,0,0
+3995,Ruben de Groot,2026,11,November,Actief,0,5
+3995,Ruben de Groot,2026,12,December,Actief,0,2
+3463,Floris Jacobs,2026,1,Januari,Actief,0,2
+3463,Floris Jacobs,2026,2,Februari,Actief,0,3
+3463,Floris Jacobs,2026,3,Maart,Actief,0,0
+3463,Floris Jacobs,2026,4,April,Actief,0,1
+3463,Floris Jacobs,2026,5,Mei,Actief,0,5
+3463,Floris Jacobs,2026,6,Juni,Actief,1,2
+3463,Floris Jacobs,2026,7,Juli,Actief,0,0
+3463,Floris Jacobs,2026,8,Augustus,Actief,0,1
+3463,Floris Jacobs,2026,9,September,Actief,1,5
+3463,Floris Jacobs,2026,10,Oktober,Uit dienst,0,0
+3463,Floris Jacobs,2026,11,November,Uit dienst,0,0
+3463,Floris Jacobs,2026,12,December,Uit dienst,0,0
+2245,Jeroen Jansen,2026,1,Januari,Actief,2,0
+2245,Jeroen Jansen,2026,2,Februari,Actief,0,2
+2245,Jeroen Jansen,2026,3,Maart,Actief,1,10
+2245,Jeroen Jansen,2026,4,April,Actief,0,0
+2245,Jeroen Jansen,2026,5,Mei,Actief,0,0
+2245,Jeroen Jansen,2026,6,Juni,Actief,0,3
+2245,Jeroen Jansen,2026,7,Juli,Actief,0,0
+2245,Jeroen Jansen,2026,8,Augustus,Uit dienst,0,0
+2245,Jeroen Jansen,2026,9,September,Uit dienst,0,0
+2245,Jeroen Jansen,2026,10,Oktober,Uit dienst,0,0
+2245,Jeroen Jansen,2026,11,November,Uit dienst,0,0
+2245,Jeroen Jansen,2026,12,December,Uit dienst,0,0
+2553,Zoe Hendriks,2026,1,Januari,Actief,0,0
+2553,Zoe Hendriks,2026,2,Februari,Actief,0,3
+2553,Zoe Hendriks,2026,3,Maart,Actief,0,0
+2553,Zoe Hendriks,2026,4,April,Actief,0,5
+2553,Zoe Hendriks,2026,5,Mei,Actief,0,0
+2553,Zoe Hendriks,2026,6,Juni,Actief,0,3
+2553,Zoe Hendriks,2026,7,Juli,Actief,0,10
+2553,Zoe Hendriks,2026,8,Augustus,Actief,0,0
+2553,Zoe Hendriks,2026,9,September,Actief,0,0
+2553,Zoe Hendriks,2026,10,Oktober,Actief,0,0
+2553,Zoe Hendriks,2026,11,November,Actief,0,0
+2553,Zoe Hendriks,2026,12,December,Actief,0,0
+3856,Lente Hofman,2026,1,Januari,Nog niet in dienst,0,0
+3856,Lente Hofman,2026,2,Februari,Nog niet in dienst,0,0
+3856,Lente Hofman,2026,3,Maart,Actief,2,0
+3856,Lente Hofman,2026,4,April,Actief,0,0
+3856,Lente Hofman,2026,5,Mei,Actief,0,5
+3856,Lente Hofman,2026,6,Juni,Actief,0,3
+3856,Lente Hofman,2026,7,Juli,Actief,0,0
+3856,Lente Hofman,2026,8,Augustus,Actief,0,13
+3856,Lente Hofman,2026,9,September,Actief,0,0
+3856,Lente Hofman,2026,10,Oktober,Actief,0,0
+3856,Lente Hofman,2026,11,November,Actief,0,0
+3856,Lente Hofman,2026,12,December,Actief,0,0
+1002,Esmee Visser,2026,1,Januari,Actief,0,0
+1002,Esmee Visser,2026,2,Februari,Actief,0,10
+1002,Esmee Visser,2026,3,Maart,Actief,1,0
+1002,Esmee Visser,2026,4,April,Actief,2,1
+1002,Esmee Visser,2026,5,Mei,Actief,0,1
+1002,Esmee Visser,2026,6,Juni,Actief,0,0
+1002,Esmee Visser,2026,7,Juli,Uit dienst,0,0
+1002,Esmee Visser,2026,8,Augustus,Uit dienst,0,0
+1002,Esmee Visser,2026,9,September,Uit dienst,0,0
+1002,Esmee Visser,2026,10,Oktober,Uit dienst,0,0
+1002,Esmee Visser,2026,11,November,Uit dienst,0,0
+1002,Esmee Visser,2026,12,December,Uit dienst,0,0
+2499,Lars de Wit,2026,1,Januari,Actief,0,1
+2499,Lars de Wit,2026,2,Februari,Actief,0,0
+2499,Lars de Wit,2026,3,Maart,Actief,0,0
+2499,Lars de Wit,2026,4,April,Actief,0,3
+2499,Lars de Wit,2026,5,Mei,Actief,0,0
+2499,Lars de Wit,2026,6,Juni,Actief,0,8
+2499,Lars de Wit,2026,7,Juli,Uit dienst,0,0
+2499,Lars de Wit,2026,8,Augustus,Uit dienst,0,0
+2499,Lars de Wit,2026,9,September,Uit dienst,0,0
+2499,Lars de Wit,2026,10,Oktober,Uit dienst,0,0
+2499,Lars de Wit,2026,11,November,Uit dienst,0,0
+2499,Lars de Wit,2026,12,December,Uit dienst,0,0
+1052,Thomas Koning,2026,1,Januari,Actief,1,5
+1052,Thomas Koning,2026,2,Februari,Actief,0,0
+1052,Thomas Koning,2026,3,Maart,Actief,0,0
+1052,Thomas Koning,2026,4,April,Actief,0,0
+1052,Thomas Koning,2026,5,Mei,Actief,0,0
+1052,Thomas Koning,2026,6,Juni,Actief,0,0
+1052,Thomas Koning,2026,7,Juli,Actief,0,2
+1052,Thomas Koning,2026,8,Augustus,Actief,0,10
+1052,Thomas Koning,2026,9,September,Actief,0,5
+1052,Thomas Koning,2026,10,Oktober,Actief,0,0
+1052,Thomas Koning,2026,11,November,Actief,0,3
+1052,Thomas Koning,2026,12,December,Actief,0,0
+2492,Sander Mulder,2026,1,Januari,Actief,0,2
+2492,Sander Mulder,2026,2,Februari,Actief,0,0
+2492,Sander Mulder,2026,3,Maart,Actief,0,0
+2492,Sander Mulder,2026,4,April,Actief,0,0
+2492,Sander Mulder,2026,5,Mei,Actief,0,0
+2492,Sander Mulder,2026,6,Juni,Actief,0,0
+2492,Sander Mulder,2026,7,Juli,Actief,0,13
+2492,Sander Mulder,2026,8,Augustus,Actief,0,0
+2492,Sander Mulder,2026,9,September,Actief,0,0
+2492,Sander Mulder,2026,10,Oktober,Actief,0,0
+2492,Sander Mulder,2026,11,November,Actief,0,5
+2492,Sander Mulder,2026,12,December,Actief,0,0
+1085,Lotte Kok,2026,1,Januari,Actief,6,0
+1085,Lotte Kok,2026,2,Februari,Actief,0,5
+1085,Lotte Kok,2026,3,Maart,Actief,0,0
+1085,Lotte Kok,2026,4,April,Actief,0,2
+1085,Lotte Kok,2026,5,Mei,Actief,0,0
+1085,Lotte Kok,2026,6,Juni,Actief,0,0
+1085,Lotte Kok,2026,7,Juli,Actief,0,2
+1085,Lotte Kok,2026,8,Augustus,Actief,0,10
+1085,Lotte Kok,2026,9,September,Actief,0,0
+1085,Lotte Kok,2026,10,Oktober,Actief,0,5
+1085,Lotte Kok,2026,11,November,Actief,0,0
+1085,Lotte Kok,2026,12,December,Actief,0,0
+2530,Sanne de Vries,2026,1,Januari,Nog niet in dienst,0,0
+2530,Sanne de Vries,2026,2,Februari,Nog niet in dienst,0,0
+2530,Sanne de Vries,2026,3,Maart,Nog niet in dienst,0,0
+2530,Sanne de Vries,2026,4,April,Nog niet in dienst,0,0
+2530,Sanne de Vries,2026,5,Mei,Nog niet in dienst,0,0
+2530,Sanne de Vries,2026,6,Juni,Nog niet in dienst,0,0
+2530,Sanne de Vries,2026,7,Juli,Nog niet in dienst,0,0
+2530,Sanne de Vries,2026,8,Augustus,Actief,0,8
+2530,Sanne de Vries,2026,9,September,Actief,0,0
+2530,Sanne de Vries,2026,10,Oktober,Actief,0,0
+2530,Sanne de Vries,2026,11,November,Actief,0,2
+2530,Sanne de Vries,2026,12,December,Actief,0,0
+1331,Fenna Peters,2026,1,Januari,Actief,0,8
+1331,Fenna Peters,2026,2,Februari,Actief,0,0
+1331,Fenna Peters,2026,3,Maart,Actief,0,5
+1331,Fenna Peters,2026,4,April,Actief,0,0
+1331,Fenna Peters,2026,5,Mei,Actief,0,0
+1331,Fenna Peters,2026,6,Juni,Actief,0,0
+1331,Fenna Peters,2026,7,Juli,Actief,0,0
+1331,Fenna Peters,2026,8,Augustus,Actief,0,10
+1331,Fenna Peters,2026,9,September,Actief,0,0
+1331,Fenna Peters,2026,10,Oktober,Actief,0,0
+1331,Fenna Peters,2026,11,November,Actief,0,3
+1331,Fenna Peters,2026,12,December,Actief,0,0
+1375,Karlijn van Dijk,2026,1,Januari,Actief,0,0
+1375,Karlijn van Dijk,2026,2,Februari,Actief,0,0
+1375,Karlijn van Dijk,2026,3,Maart,Actief,0,0
+1375,Karlijn van Dijk,2026,4,April,Actief,0,3
+1375,Karlijn van Dijk,2026,5,Mei,Actief,0,0
+1375,Karlijn van Dijk,2026,6,Juni,Actief,0,0
+1375,Karlijn van Dijk,2026,7,Juli,Actief,0,10
+1375,Karlijn van Dijk,2026,8,Augustus,Actief,0,5
+1375,Karlijn van Dijk,2026,9,September,Actief,2,3
+1375,Karlijn van Dijk,2026,10,Oktober,Actief,0,0
+1375,Karlijn van Dijk,2026,11,November,Actief,0,0
+1375,Karlijn van Dijk,2026,12,December,Actief,0,0
+1358,Guus Bakker,2026,1,Januari,Actief,0,0
+1358,Guus Bakker,2026,2,Februari,Actief,0,0
+1358,Guus Bakker,2026,3,Maart,Actief,0,0
+1358,Guus Bakker,2026,4,April,Actief,2,3
+1358,Guus Bakker,2026,5,Mei,Actief,0,0
+1358,Guus Bakker,2026,6,Juni,Actief,0,0
+1358,Guus Bakker,2026,7,Juli,Actief,0,10
+1358,Guus Bakker,2026,8,Augustus,Actief,0,0
+1358,Guus Bakker,2026,9,September,Actief,0,5
+1358,Guus Bakker,2026,10,Oktober,Actief,0,0
+1358,Guus Bakker,2026,11,November,Actief,0,0
+1358,Guus Bakker,2026,12,December,Actief,0,3
+1383,Jens Brouwer,2026,1,Januari,Actief,0,5
+1383,Jens Brouwer,2026,2,Februari,Actief,1,0
+1383,Jens Brouwer,2026,3,Maart,Actief,0,3
+1383,Jens Brouwer,2026,4,April,Actief,0,0
+1383,Jens Brouwer,2026,5,Mei,Actief,0,0
+1383,Jens Brouwer,2026,6,Juni,Actief,0,0
+1383,Jens Brouwer,2026,7,Juli,Actief,0,0
+1383,Jens Brouwer,2026,8,Augustus,Actief,0,10
+1383,Jens Brouwer,2026,9,September,Actief,0,3
+1383,Jens Brouwer,2026,10,Oktober,Actief,1,0
+1383,Jens Brouwer,2026,11,November,Actief,0,0
+1383,Jens Brouwer,2026,12,December,Actief,0,0
