@@ -1,0 +1,5 @@
+# Internal connection/documentation spec — never publish
+DATA_SOURCE_connection_spec.md
+
+# Standalone HTML builds — never publish (covers (18), (19) and any future version)
+Heeyoo_HR_Dashboard__standalone*
