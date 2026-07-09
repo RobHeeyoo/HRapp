@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "HR login demo data. Evergreen dates: weekly meetings by dayOfWeek, monthly meetings by dayOfMonth; tasks by dueOffsetDays; emails by receivedMinutesAgo. Includes per-persona activity grid (day x hour), workWeek location, and loggedTodayMinutes for the time tracker.",
-    "photoBase": "https://raw.githubusercontent.com/RobertvandeVorst/HRapp/main/images/",
+    "photoBase": "https://cdn.jsdelivr.net/gh/RobHeeyoo/HRapp@main/images/",
     "activityHours": [
       8,
       9,
@@ -23,7 +23,7 @@
       "startDate": "2009-03-02",
       "email": "sanne.devries@heeyoo.nl",
       "location": "Amsterdam",
-      "photo": "face_03.jpg",
+      "photo": "face_03v.jpg",
       "tasks": [
         {
           "id": "HR01-T01",
@@ -176,15 +176,15 @@
           "attendees": [
             {
               "name": "Sanne",
-              "photo": "face_17.jpg"
+              "photo": "face_17m.jpg"
             },
             {
               "name": "Maud",
-              "photo": "face_14.jpg"
+              "photo": "face_14m.jpg"
             },
             {
               "name": "Iris",
-              "photo": "face_12.jpg"
+              "photo": "face_12m.jpg"
             }
           ]
         },
@@ -201,15 +201,15 @@
           "attendees": [
             {
               "name": "Noor",
-              "photo": "face_10.jpg"
+              "photo": "face_10m.jpg"
             },
             {
               "name": "Maud",
-              "photo": "face_14.jpg"
+              "photo": "face_14m.jpg"
             },
             {
               "name": "Tom",
-              "photo": "face_04.jpg"
+              "photo": "face_04m.jpg"
             }
           ]
         },
@@ -226,15 +226,15 @@
           "attendees": [
             {
               "name": "Anne",
-              "photo": "face_01.jpg"
+              "photo": "face_01m.jpg"
             },
             {
               "name": "Aisha",
-              "photo": "face_20.jpg"
+              "photo": "face_20m.jpg"
             },
             {
               "name": "Daan",
-              "photo": "face_16.jpg"
+              "photo": "face_16v.jpg"
             }
           ]
         },
@@ -251,15 +251,15 @@
           "attendees": [
             {
               "name": "Iris",
-              "photo": "face_12.jpg"
+              "photo": "face_12m.jpg"
             },
             {
               "name": "Eva",
-              "photo": "face_09.jpg"
+              "photo": "face_09m.jpg"
             },
             {
               "name": "Maud",
-              "photo": "face_14.jpg"
+              "photo": "face_14m.jpg"
             }
           ]
         },
@@ -276,7 +276,7 @@
           "attendees": [
             {
               "name": "Daan",
-              "photo": "face_16.jpg"
+              "photo": "face_16v.jpg"
             }
           ]
         },
@@ -293,7 +293,7 @@
           "attendees": [
             {
               "name": "Sven",
-              "photo": "face_11.jpg"
+              "photo": "face_11v.jpg"
             }
           ]
         },
@@ -310,11 +310,11 @@
           "attendees": [
             {
               "name": "Tom",
-              "photo": "face_04.jpg"
+              "photo": "face_04m.jpg"
             },
             {
               "name": "Tess",
-              "photo": "face_15.jpg"
+              "photo": "face_15v.jpg"
             }
           ]
         },
@@ -331,15 +331,15 @@
           "attendees": [
             {
               "name": "Lars",
-              "photo": "face_13.jpg"
+              "photo": "face_13v.jpg"
             },
             {
               "name": "Lisa",
-              "photo": "face_05.jpg"
+              "photo": "face_05m.jpg"
             },
             {
               "name": "Daan",
-              "photo": "face_16.jpg"
+              "photo": "face_16v.jpg"
             }
           ]
         },
@@ -356,7 +356,7 @@
           "attendees": [
             {
               "name": "Aisha",
-              "photo": "face_20.jpg"
+              "photo": "face_20m.jpg"
             }
           ]
         },
@@ -373,11 +373,11 @@
           "attendees": [
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             },
             {
               "name": "Eva",
-              "photo": "face_09.jpg"
+              "photo": "face_09m.jpg"
             }
           ]
         },
@@ -406,23 +406,23 @@
           "attendees": [
             {
               "name": "Aisha",
-              "photo": "face_20.jpg"
+              "photo": "face_20m.jpg"
             },
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             },
             {
               "name": "Iris",
-              "photo": "face_12.jpg"
+              "photo": "face_12m.jpg"
             },
             {
               "name": "Sven",
-              "photo": "face_11.jpg"
+              "photo": "face_11v.jpg"
             },
             {
               "name": "Anne",
-              "photo": "face_01.jpg"
+              "photo": "face_01m.jpg"
             }
           ]
         },
@@ -439,11 +439,11 @@
           "attendees": [
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             },
             {
               "name": "Sanne",
-              "photo": "face_17.jpg"
+              "photo": "face_17m.jpg"
             }
           ]
         },
@@ -460,11 +460,11 @@
           "attendees": [
             {
               "name": "Eva",
-              "photo": "face_09.jpg"
+              "photo": "face_09m.jpg"
             },
             {
               "name": "Bram",
-              "photo": "face_08.jpg"
+              "photo": "face_08v.jpg"
             }
           ]
         }
@@ -595,7 +595,7 @@
       "startDate": "2017-06-12",
       "email": "daan.jansen@heeyoo.nl",
       "location": "Eindhoven",
-      "photo": "face_07.jpg",
+      "photo": "face_07m.jpg",
       "tasks": [
         {
           "id": "HR02-T01",
@@ -748,15 +748,15 @@
           "attendees": [
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             },
             {
               "name": "Eva",
-              "photo": "face_09.jpg"
+              "photo": "face_09m.jpg"
             },
             {
               "name": "Maud",
-              "photo": "face_14.jpg"
+              "photo": "face_14m.jpg"
             }
           ]
         },
@@ -773,15 +773,15 @@
           "attendees": [
             {
               "name": "Iris",
-              "photo": "face_12.jpg"
+              "photo": "face_12m.jpg"
             },
             {
               "name": "Noor",
-              "photo": "face_10.jpg"
+              "photo": "face_10m.jpg"
             },
             {
               "name": "Sophie",
-              "photo": "face_02.jpg"
+              "photo": "face_02m.jpg"
             }
           ]
         },
@@ -798,23 +798,23 @@
           "attendees": [
             {
               "name": "Lukas",
-              "photo": "face_18.jpg"
+              "photo": "face_18v.jpg"
             },
             {
               "name": "Sophie",
-              "photo": "face_02.jpg"
+              "photo": "face_02m.jpg"
             },
             {
               "name": "Sanne",
-              "photo": "face_17.jpg"
+              "photo": "face_17m.jpg"
             },
             {
               "name": "Tess",
-              "photo": "face_15.jpg"
+              "photo": "face_15v.jpg"
             },
             {
               "name": "Maud",
-              "photo": "face_14.jpg"
+              "photo": "face_14m.jpg"
             }
           ]
         },
@@ -831,15 +831,15 @@
           "attendees": [
             {
               "name": "Tess",
-              "photo": "face_15.jpg"
+              "photo": "face_15v.jpg"
             },
             {
               "name": "Noor",
-              "photo": "face_10.jpg"
+              "photo": "face_10m.jpg"
             },
             {
               "name": "Tom",
-              "photo": "face_04.jpg"
+              "photo": "face_04m.jpg"
             }
           ]
         },
@@ -856,7 +856,7 @@
           "attendees": [
             {
               "name": "Anne",
-              "photo": "face_01.jpg"
+              "photo": "face_01m.jpg"
             }
           ]
         },
@@ -873,15 +873,15 @@
           "attendees": [
             {
               "name": "Maud",
-              "photo": "face_14.jpg"
+              "photo": "face_14m.jpg"
             },
             {
               "name": "Lisa",
-              "photo": "face_05.jpg"
+              "photo": "face_05m.jpg"
             },
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             }
           ]
         },
@@ -898,15 +898,15 @@
           "attendees": [
             {
               "name": "Daan",
-              "photo": "face_16.jpg"
+              "photo": "face_16v.jpg"
             },
             {
               "name": "Iris",
-              "photo": "face_12.jpg"
+              "photo": "face_12m.jpg"
             },
             {
               "name": "Maud",
-              "photo": "face_14.jpg"
+              "photo": "face_14m.jpg"
             }
           ]
         },
@@ -923,11 +923,11 @@
           "attendees": [
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             },
             {
               "name": "Lukas",
-              "photo": "face_18.jpg"
+              "photo": "face_18v.jpg"
             }
           ]
         },
@@ -944,23 +944,23 @@
           "attendees": [
             {
               "name": "Sanne",
-              "photo": "face_17.jpg"
+              "photo": "face_17m.jpg"
             },
             {
               "name": "Aisha",
-              "photo": "face_20.jpg"
+              "photo": "face_20m.jpg"
             },
             {
               "name": "Bram",
-              "photo": "face_08.jpg"
+              "photo": "face_08v.jpg"
             },
             {
               "name": "Anne",
-              "photo": "face_01.jpg"
+              "photo": "face_01m.jpg"
             },
             {
               "name": "Tess",
-              "photo": "face_15.jpg"
+              "photo": "face_15v.jpg"
             }
           ]
         },
@@ -977,11 +977,11 @@
           "attendees": [
             {
               "name": "Noor",
-              "photo": "face_10.jpg"
+              "photo": "face_10m.jpg"
             },
             {
               "name": "Bram",
-              "photo": "face_08.jpg"
+              "photo": "face_08v.jpg"
             }
           ]
         },
@@ -998,15 +998,15 @@
           "attendees": [
             {
               "name": "Sanne",
-              "photo": "face_17.jpg"
+              "photo": "face_17m.jpg"
             },
             {
               "name": "Nadia",
-              "photo": "face_07.jpg"
+              "photo": "face_07m.jpg"
             },
             {
               "name": "Anne",
-              "photo": "face_01.jpg"
+              "photo": "face_01m.jpg"
             }
           ]
         },
@@ -1023,11 +1023,11 @@
           "attendees": [
             {
               "name": "Lukas",
-              "photo": "face_18.jpg"
+              "photo": "face_18v.jpg"
             },
             {
               "name": "Anne",
-              "photo": "face_01.jpg"
+              "photo": "face_01m.jpg"
             }
           ]
         },
@@ -1044,11 +1044,11 @@
           "attendees": [
             {
               "name": "Sophie",
-              "photo": "face_02.jpg"
+              "photo": "face_02m.jpg"
             },
             {
               "name": "Eva",
-              "photo": "face_09.jpg"
+              "photo": "face_09m.jpg"
             }
           ]
         },
@@ -1065,7 +1065,7 @@
           "attendees": [
             {
               "name": "Lars",
-              "photo": "face_13.jpg"
+              "photo": "face_13v.jpg"
             }
           ]
         }
@@ -1196,7 +1196,7 @@
       "startDate": "2021-09-01",
       "email": "aisha.khan@heeyoo.nl",
       "location": "Rotterdam",
-      "photo": "face_11.jpg",
+      "photo": "face_11v.jpg",
       "tasks": [
         {
           "id": "HR03-T01",
@@ -1349,15 +1349,15 @@
           "attendees": [
             {
               "name": "Sophie",
-              "photo": "face_02.jpg"
+              "photo": "face_02m.jpg"
             },
             {
               "name": "Mark",
-              "photo": "face_06.jpg"
+              "photo": "face_06v.jpg"
             },
             {
               "name": "Sven",
-              "photo": "face_11.jpg"
+              "photo": "face_11v.jpg"
             }
           ]
         },
@@ -1374,15 +1374,15 @@
           "attendees": [
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             },
             {
               "name": "Sanne",
-              "photo": "face_17.jpg"
+              "photo": "face_17m.jpg"
             },
             {
               "name": "Maud",
-              "photo": "face_14.jpg"
+              "photo": "face_14m.jpg"
             }
           ]
         },
@@ -1399,23 +1399,23 @@
           "attendees": [
             {
               "name": "Nadia",
-              "photo": "face_07.jpg"
+              "photo": "face_07m.jpg"
             },
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             },
             {
               "name": "Aisha",
-              "photo": "face_20.jpg"
+              "photo": "face_20m.jpg"
             },
             {
               "name": "Noor",
-              "photo": "face_10.jpg"
+              "photo": "face_10m.jpg"
             },
             {
               "name": "Tom",
-              "photo": "face_04.jpg"
+              "photo": "face_04m.jpg"
             }
           ]
         },
@@ -1432,15 +1432,15 @@
           "attendees": [
             {
               "name": "Mark",
-              "photo": "face_06.jpg"
+              "photo": "face_06v.jpg"
             },
             {
               "name": "Tom",
-              "photo": "face_04.jpg"
+              "photo": "face_04m.jpg"
             },
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             }
           ]
         },
@@ -1457,11 +1457,11 @@
           "attendees": [
             {
               "name": "Maud",
-              "photo": "face_14.jpg"
+              "photo": "face_14m.jpg"
             },
             {
               "name": "Aisha",
-              "photo": "face_20.jpg"
+              "photo": "face_20m.jpg"
             }
           ]
         },
@@ -1478,11 +1478,11 @@
           "attendees": [
             {
               "name": "Lars",
-              "photo": "face_13.jpg"
+              "photo": "face_13v.jpg"
             },
             {
               "name": "Tom",
-              "photo": "face_04.jpg"
+              "photo": "face_04m.jpg"
             }
           ]
         },
@@ -1499,11 +1499,11 @@
           "attendees": [
             {
               "name": "Bram",
-              "photo": "face_08.jpg"
+              "photo": "face_08v.jpg"
             },
             {
               "name": "Lisa",
-              "photo": "face_05.jpg"
+              "photo": "face_05m.jpg"
             }
           ]
         },
@@ -1520,15 +1520,15 @@
           "attendees": [
             {
               "name": "Daan",
-              "photo": "face_16.jpg"
+              "photo": "face_16v.jpg"
             },
             {
               "name": "Lukas",
-              "photo": "face_18.jpg"
+              "photo": "face_18v.jpg"
             },
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             }
           ]
         },
@@ -1545,11 +1545,11 @@
           "attendees": [
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             },
             {
               "name": "Tom",
-              "photo": "face_04.jpg"
+              "photo": "face_04m.jpg"
             }
           ]
         },
@@ -1566,23 +1566,23 @@
           "attendees": [
             {
               "name": "Lisa",
-              "photo": "face_05.jpg"
+              "photo": "face_05m.jpg"
             },
             {
               "name": "Noor",
-              "photo": "face_10.jpg"
+              "photo": "face_10m.jpg"
             },
             {
               "name": "Tom",
-              "photo": "face_04.jpg"
+              "photo": "face_04m.jpg"
             },
             {
               "name": "Mark",
-              "photo": "face_06.jpg"
+              "photo": "face_06v.jpg"
             },
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             }
           ]
         },
@@ -1599,11 +1599,11 @@
           "attendees": [
             {
               "name": "Mark",
-              "photo": "face_06.jpg"
+              "photo": "face_06v.jpg"
             },
             {
               "name": "Sophie",
-              "photo": "face_02.jpg"
+              "photo": "face_02m.jpg"
             }
           ]
         },
@@ -1620,15 +1620,15 @@
           "attendees": [
             {
               "name": "Eva",
-              "photo": "face_09.jpg"
+              "photo": "face_09m.jpg"
             },
             {
               "name": "Maud",
-              "photo": "face_14.jpg"
+              "photo": "face_14m.jpg"
             },
             {
               "name": "Sven",
-              "photo": "face_11.jpg"
+              "photo": "face_11v.jpg"
             }
           ]
         },
@@ -1645,11 +1645,11 @@
           "attendees": [
             {
               "name": "Sven",
-              "photo": "face_11.jpg"
+              "photo": "face_11v.jpg"
             },
             {
               "name": "Lisa",
-              "photo": "face_05.jpg"
+              "photo": "face_05m.jpg"
             }
           ]
         },
@@ -1666,11 +1666,11 @@
           "attendees": [
             {
               "name": "Emma",
-              "photo": "face_19.jpg"
+              "photo": "face_19m.jpg"
             },
             {
               "name": "Maud",
-              "photo": "face_14.jpg"
+              "photo": "face_14m.jpg"
             }
           ]
         }
@@ -1801,7 +1801,7 @@
       "startDate": "2019-02-18",
       "email": "lukas.meyer@heeyoo.nl",
       "location": "Utrecht",
-      "photo": "face_14.jpg",
+      "photo": "face_14m.jpg",
       "tasks": [
         {
           "id": "HR04-T01",
@@ -1954,15 +1954,15 @@
           "attendees": [
             {
               "name": "Sanne",
-              "photo": "face_17.jpg"
+              "photo": "face_17m.jpg"
             },
             {
               "name": "Lisa",
-              "photo": "face_05.jpg"
+              "photo": "face_05m.jpg"
             },
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             }
           ]
         },
@@ -1979,15 +1979,15 @@
           "attendees": [
             {
               "name": "Tess",
-              "photo": "face_15.jpg"
+              "photo": "face_15v.jpg"
             },
             {
               "name": "Bram",
-              "photo": "face_08.jpg"
+              "photo": "face_08v.jpg"
             },
             {
               "name": "Lisa",
-              "photo": "face_05.jpg"
+              "photo": "face_05m.jpg"
             }
           ]
         },
@@ -2004,15 +2004,15 @@
           "attendees": [
             {
               "name": "Lars",
-              "photo": "face_13.jpg"
+              "photo": "face_13v.jpg"
             },
             {
               "name": "Bram",
-              "photo": "face_08.jpg"
+              "photo": "face_08v.jpg"
             },
             {
               "name": "Nadia",
-              "photo": "face_07.jpg"
+              "photo": "face_07m.jpg"
             }
           ]
         },
@@ -2029,23 +2029,23 @@
           "attendees": [
             {
               "name": "Lisa",
-              "photo": "face_05.jpg"
+              "photo": "face_05m.jpg"
             },
             {
               "name": "Lukas",
-              "photo": "face_18.jpg"
+              "photo": "face_18v.jpg"
             },
             {
               "name": "Aisha",
-              "photo": "face_20.jpg"
+              "photo": "face_20m.jpg"
             },
             {
               "name": "Iris",
-              "photo": "face_12.jpg"
+              "photo": "face_12m.jpg"
             },
             {
               "name": "Eva",
-              "photo": "face_09.jpg"
+              "photo": "face_09m.jpg"
             }
           ]
         },
@@ -2062,23 +2062,23 @@
           "attendees": [
             {
               "name": "Mark",
-              "photo": "face_06.jpg"
+              "photo": "face_06v.jpg"
             },
             {
               "name": "Nadia",
-              "photo": "face_07.jpg"
+              "photo": "face_07m.jpg"
             },
             {
               "name": "Maud",
-              "photo": "face_14.jpg"
+              "photo": "face_14m.jpg"
             },
             {
               "name": "Bram",
-              "photo": "face_08.jpg"
+              "photo": "face_08v.jpg"
             },
             {
               "name": "Lukas",
-              "photo": "face_18.jpg"
+              "photo": "face_18v.jpg"
             }
           ]
         },
@@ -2095,15 +2095,15 @@
           "attendees": [
             {
               "name": "Lukas",
-              "photo": "face_18.jpg"
+              "photo": "face_18v.jpg"
             },
             {
               "name": "Anne",
-              "photo": "face_01.jpg"
+              "photo": "face_01m.jpg"
             },
             {
               "name": "Eva",
-              "photo": "face_09.jpg"
+              "photo": "face_09m.jpg"
             }
           ]
         },
@@ -2120,23 +2120,23 @@
           "attendees": [
             {
               "name": "Lukas",
-              "photo": "face_18.jpg"
+              "photo": "face_18v.jpg"
             },
             {
               "name": "Bram",
-              "photo": "face_08.jpg"
+              "photo": "face_08v.jpg"
             },
             {
               "name": "Noor",
-              "photo": "face_10.jpg"
+              "photo": "face_10m.jpg"
             },
             {
               "name": "Mark",
-              "photo": "face_06.jpg"
+              "photo": "face_06v.jpg"
             },
             {
               "name": "Eva",
-              "photo": "face_09.jpg"
+              "photo": "face_09m.jpg"
             }
           ]
         },
@@ -2153,11 +2153,11 @@
           "attendees": [
             {
               "name": "Lisa",
-              "photo": "face_05.jpg"
+              "photo": "face_05m.jpg"
             },
             {
               "name": "Anne",
-              "photo": "face_01.jpg"
+              "photo": "face_01m.jpg"
             }
           ]
         },
@@ -2174,11 +2174,11 @@
           "attendees": [
             {
               "name": "Tess",
-              "photo": "face_15.jpg"
+              "photo": "face_15v.jpg"
             },
             {
               "name": "Tom",
-              "photo": "face_04.jpg"
+              "photo": "face_04m.jpg"
             }
           ]
         },
@@ -2195,15 +2195,15 @@
           "attendees": [
             {
               "name": "Maud",
-              "photo": "face_14.jpg"
+              "photo": "face_14m.jpg"
             },
             {
               "name": "Tess",
-              "photo": "face_15.jpg"
+              "photo": "face_15v.jpg"
             },
             {
               "name": "Emma",
-              "photo": "face_19.jpg"
+              "photo": "face_19m.jpg"
             }
           ]
         },
@@ -2220,11 +2220,11 @@
           "attendees": [
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             },
             {
               "name": "Aisha",
-              "photo": "face_20.jpg"
+              "photo": "face_20m.jpg"
             }
           ]
         },
@@ -2241,11 +2241,11 @@
           "attendees": [
             {
               "name": "Maud",
-              "photo": "face_14.jpg"
+              "photo": "face_14m.jpg"
             },
             {
               "name": "Eva",
-              "photo": "face_09.jpg"
+              "photo": "face_09m.jpg"
             }
           ]
         },
@@ -2262,23 +2262,23 @@
           "attendees": [
             {
               "name": "Sophie",
-              "photo": "face_02.jpg"
+              "photo": "face_02m.jpg"
             },
             {
               "name": "Sven",
-              "photo": "face_11.jpg"
+              "photo": "face_11v.jpg"
             },
             {
               "name": "Sanne",
-              "photo": "face_17.jpg"
+              "photo": "face_17m.jpg"
             },
             {
               "name": "Noor",
-              "photo": "face_10.jpg"
+              "photo": "face_10m.jpg"
             },
             {
               "name": "Lisa",
-              "photo": "face_05.jpg"
+              "photo": "face_05m.jpg"
             }
           ]
         },
@@ -2295,23 +2295,23 @@
           "attendees": [
             {
               "name": "Mark",
-              "photo": "face_06.jpg"
+              "photo": "face_06v.jpg"
             },
             {
               "name": "Lisa",
-              "photo": "face_05.jpg"
+              "photo": "face_05m.jpg"
             },
             {
               "name": "Emma",
-              "photo": "face_19.jpg"
+              "photo": "face_19m.jpg"
             },
             {
               "name": "Sven",
-              "photo": "face_11.jpg"
+              "photo": "face_11v.jpg"
             },
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             }
           ]
         }
@@ -2442,7 +2442,7 @@
       "startDate": "2013-11-04",
       "email": "emma.bakker@heeyoo.nl",
       "location": "Den Haag",
-      "photo": "face_18.jpg",
+      "photo": "face_18v.jpg",
       "tasks": [
         {
           "id": "HR05-T01",
@@ -2595,15 +2595,15 @@
           "attendees": [
             {
               "name": "Sven",
-              "photo": "face_11.jpg"
+              "photo": "face_11v.jpg"
             },
             {
               "name": "Eva",
-              "photo": "face_09.jpg"
+              "photo": "face_09m.jpg"
             },
             {
               "name": "Iris",
-              "photo": "face_12.jpg"
+              "photo": "face_12m.jpg"
             }
           ]
         },
@@ -2620,15 +2620,15 @@
           "attendees": [
             {
               "name": "Maud",
-              "photo": "face_14.jpg"
+              "photo": "face_14m.jpg"
             },
             {
               "name": "Eva",
-              "photo": "face_09.jpg"
+              "photo": "face_09m.jpg"
             },
             {
               "name": "Aisha",
-              "photo": "face_20.jpg"
+              "photo": "face_20m.jpg"
             }
           ]
         },
@@ -2645,11 +2645,11 @@
           "attendees": [
             {
               "name": "Iris",
-              "photo": "face_12.jpg"
+              "photo": "face_12m.jpg"
             },
             {
               "name": "Aisha",
-              "photo": "face_20.jpg"
+              "photo": "face_20m.jpg"
             }
           ]
         },
@@ -2666,23 +2666,23 @@
           "attendees": [
             {
               "name": "Maud",
-              "photo": "face_14.jpg"
+              "photo": "face_14m.jpg"
             },
             {
               "name": "Aisha",
-              "photo": "face_20.jpg"
+              "photo": "face_20m.jpg"
             },
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             },
             {
               "name": "Sophie",
-              "photo": "face_02.jpg"
+              "photo": "face_02m.jpg"
             },
             {
               "name": "Eva",
-              "photo": "face_09.jpg"
+              "photo": "face_09m.jpg"
             }
           ]
         },
@@ -2699,11 +2699,11 @@
           "attendees": [
             {
               "name": "Eva",
-              "photo": "face_09.jpg"
+              "photo": "face_09m.jpg"
             },
             {
               "name": "Mark",
-              "photo": "face_06.jpg"
+              "photo": "face_06v.jpg"
             }
           ]
         },
@@ -2732,15 +2732,15 @@
           "attendees": [
             {
               "name": "Iris",
-              "photo": "face_12.jpg"
+              "photo": "face_12m.jpg"
             },
             {
               "name": "Noor",
-              "photo": "face_10.jpg"
+              "photo": "face_10m.jpg"
             },
             {
               "name": "Maud",
-              "photo": "face_14.jpg"
+              "photo": "face_14m.jpg"
             }
           ]
         },
@@ -2757,11 +2757,11 @@
           "attendees": [
             {
               "name": "Sophie",
-              "photo": "face_02.jpg"
+              "photo": "face_02m.jpg"
             },
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             }
           ]
         },
@@ -2778,11 +2778,11 @@
           "attendees": [
             {
               "name": "Tess",
-              "photo": "face_15.jpg"
+              "photo": "face_15v.jpg"
             },
             {
               "name": "Rick",
-              "photo": "face_03.jpg"
+              "photo": "face_03v.jpg"
             }
           ]
         },
@@ -2799,11 +2799,11 @@
           "attendees": [
             {
               "name": "Nadia",
-              "photo": "face_07.jpg"
+              "photo": "face_07m.jpg"
             },
             {
               "name": "Tess",
-              "photo": "face_15.jpg"
+              "photo": "face_15v.jpg"
             }
           ]
         },
@@ -2820,15 +2820,15 @@
           "attendees": [
             {
               "name": "Emma",
-              "photo": "face_19.jpg"
+              "photo": "face_19m.jpg"
             },
             {
               "name": "Tom",
-              "photo": "face_04.jpg"
+              "photo": "face_04m.jpg"
             },
             {
               "name": "Iris",
-              "photo": "face_12.jpg"
+              "photo": "face_12m.jpg"
             }
           ]
         },
@@ -2845,15 +2845,15 @@
           "attendees": [
             {
               "name": "Daan",
-              "photo": "face_16.jpg"
+              "photo": "face_16v.jpg"
             },
             {
               "name": "Lukas",
-              "photo": "face_18.jpg"
+              "photo": "face_18v.jpg"
             },
             {
               "name": "Eva",
-              "photo": "face_09.jpg"
+              "photo": "face_09m.jpg"
             }
           ]
         },
@@ -2870,15 +2870,15 @@
           "attendees": [
             {
               "name": "Mark",
-              "photo": "face_06.jpg"
+              "photo": "face_06v.jpg"
             },
             {
               "name": "Iris",
-              "photo": "face_12.jpg"
+              "photo": "face_12m.jpg"
             },
             {
               "name": "Lukas",
-              "photo": "face_18.jpg"
+              "photo": "face_18v.jpg"
             }
           ]
         },
